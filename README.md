@@ -2,4 +2,4 @@
 
 A census. For food.
 
-![Under construction](http://www.acme.com/jef/construction/jackhammer2.gif)
+![Under construction](http://www.textfiles.com/underconstruction/ththe300exhavenunderconstruction.gif)
