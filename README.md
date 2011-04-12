@@ -2,5 +2,5 @@
 
 A census. For food.
 
-![Kitty](images/kitty.gif)
+![Kitty](https://github.com/derferman/bitewise/raw/master/images/kitty.gif)
 ![Under construction](http://www.textfiles.com/underconstruction/ththe300exhavenunderconstruction.gif)
