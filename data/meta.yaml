@@ -1,0 +1,4 @@
+- dataset: mobilefoodpermits.csv
+  rating: 3
+  url: http://bsm.sfdpw.org/datasf/mobilefoodpermits.txt
+  found: http://datasf.org/story.php?title=mobile-food-facility-permits
