@@ -84,13 +84,13 @@ for business in yelp["businesses"]:
             y.append(b.rating)
 
 
-writer = csv.writer(open("%s_percents.csv" % args.ethnicity, "w"))
+writer = csv.writer(open("data/rdata/%s_percents.csv" % args.ethnicity, "w"))
 writer.writerow(["percent"])
 for percent in x:
     writer.writerow([percent])
 
 # Write y axis
-writer = csv.writer(open("%s_ratings.csv" % args.ethnicity, "w"))
+writer = csv.writer(open("data/rdata/%s_ratings.csv" % args.ethnicity, "w"))
 writer.writerow(["rating"])
 for rating in y:
     writer.writerow([rating])
