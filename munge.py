@@ -38,7 +38,7 @@ class Business(object):
             self.rating = 0
 
 
-sf = shapefile.Reader("tr06_d00_shp/tr06_d00.shp")
+sf = shapefile.Reader("data/shapes/tr06_d00.shp")
 reader = csv.reader(open("data/tracts/sanfrancisco.csv",'rU'))
 
 tracts = set([ ('0' + r[0]) for r in reader ])
