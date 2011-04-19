@@ -8,7 +8,7 @@ from shapely.geometry import Polygon, Point
 parser = argparse.ArgumentParser(description="Munge data for science!")
 parser.add_argument("business", type=str,
                     help="Path to buisness json file")
-parser.add_argument("ethnicity", choices=["mexican", "asain", "white", "black"])
+parser.add_argument("ethnicity", choices=["mexican", "asian", "white", "black"])
 args = parser.parse_args()
 
 class Business(object):
