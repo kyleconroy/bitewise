@@ -3,6 +3,7 @@
 # Packages
 *.egg
 *.egg-info
+*.xls
 dist
 build
 eggs
@@ -10,6 +11,7 @@ parts
 bin
 bitewiseenv
 develop-eggs
+tr06_d00_shp
 .installed.cfg
 
 # Installer logs
