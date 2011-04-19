@@ -2,6 +2,7 @@ import shapefile
 import csv
 import json
 from shapely.geometry import Polygon, Point
+import matplotlib.pyplot as plt
 
 class Business(object):
     def __init__(self, business_dict):
@@ -57,6 +58,12 @@ polys = [(rec.record[7], Polygon(rec.shape.points)) for rec in recs]
 
 yelp = json.load(open("data/businesses/mexican.json"))
 
+x = []
+y = []
+
+
+
+
 for business in yelp["businesses"]:
     
     b = Business(business)
@@ -67,5 +74,20 @@ for business in yelp["businesses"]:
         if point.within(poly):
             b.tract = tag
             b.percentage = float(ethnic_data[tag]["mexican"])/ethnic_data[tag]["total"]
-            print b.tract, b.percentage, b.rating, b.name
-    
+            #print b.tract, b.percentage, b.rating, b.name
+            x.append(b.percentage)
+            y.append(b.rating)
+            
+            
+writer = csv.writer(open("percents-x.csv", "w"))
+for percent in x:
+    writer.writerow([percent])
+
+writer = csv.writer(open("ratings-y.csv", "w"))
+for rating in y:
+    writer.writerow([rating])
+
+
+# plt.scatter(x, y)
+# plt.show()
+
