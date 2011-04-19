@@ -1,7 +1,7 @@
 import argparse
 import csv
 import json
-import shapefile
+from tools import shapefile
 
 from shapely.geometry import Polygon, Point
 
