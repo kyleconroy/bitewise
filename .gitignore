@@ -20,3 +20,16 @@ pip-log.txt
 # Unit test / coverage reports
 .coverage
 .tox
+
+# Paper Tmp
+*.log
+*.aux
+*.pdf
+
+# Large Geodata
+*.dbf
+*.shp
+*.shx
+
+# Scraped HTML
+data/html

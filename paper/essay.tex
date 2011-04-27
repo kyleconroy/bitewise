@@ -20,7 +20,6 @@ Yelp has coordinates built into a business. Our method is to compute a score for
 
 For data viz we use Protovis and Polymaps http://polymaps.org/. Data integration is done in Python. The Yelp data is stored as JSON - we want to keep most of the data about a business, such as category, price and number of reviews. The geographic data is stored as a CSV with the tract, the ethnicity data, and the coordinate. There are multiple ‘ethnicity score’ functions that we will evaluate later in our project. The functions are: 10 nearest census tracts; tracts within a half mile radius; nearest tract. It would be really nice to know which of these functions is the best as far as being true to the data.
 
-
 The big picture: Show percent vs. rating for all restaurants, where rating is their Yelp score from 0-8, and percent is the ‘self-ethnicity’ scores, which is a proportion of the same ethnicity (Chinese, Japanese, Vietnamese, Korean -> Asian, Mexican -> Hispanic) on one scatter plot. We then fitted a linear model to this to see if there was a strong correlation.
 
 Further questions:
