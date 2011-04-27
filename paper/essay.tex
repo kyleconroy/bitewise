@@ -1,0 +1,38 @@
+\documentclass[12pt,letterpaper]{report}
+
+\usepackage{setspace}
+\usepackage[left=1in,top=1in,right=1in,bottom=1in,nohead]{geometry}
+
+\author{Kyle Conroy and Brandon Liu}
+\title{Ethnic Food Ratings}
+
+\begin{document}
+\maketitle
+\doublespacing
+
+Our team was interested in researching taco trucks. We looked at one resource, Data SF, which is the official clearinghouse for SF datasets, including mobile food vendor permits. We decided that the data wasn’t really sufficient; It had the location of food trucks, but not any quantitative data.
+
+Next, we investigated Mexican food in general. We looked into using Yelp, which has an API to query for the top restaurants in a city. We were curious about how location affects the rating of a burrito place. Generally, are burrito places rated higher in the Mission? Our intuition behind this is that ethnic neighborhoods tend to attract customers interested in finding quality cuisine of that ethnicity.
+
+Brandon came across the excellent visualization at the NYTimes of 2010 Census data, at http://projects.nytimes.com/census/2010/map. This has tract-level data for ethnic makeup. A tract is the right size for our project; in major cities, a tract spans just a few blocks. We could also use block-level data if this is not sufficient. Brandon found a resource for ethnic makeups of tracts for a tract number, and also a resource for shape data for each tracts. The plan is to integrate these two sets by representing a tract as a coordinate (the centroid of the shape) and then have the ethnic makeups at that point.
+
+Yelp has coordinates built into a business. Our method is to compute a score for ethnicity for each business. The score will be a function of nearby census tracts and ethnic makeup. We then plot this against the average rating.
+
+For data viz we use Protovis and Polymaps http://polymaps.org/. Data integration is done in Python. The Yelp data is stored as JSON - we want to keep most of the data about a business, such as category, price and number of reviews. The geographic data is stored as a CSV with the tract, the ethnicity data, and the coordinate. There are multiple ‘ethnicity score’ functions that we will evaluate later in our project. The functions are: 10 nearest census tracts; tracts within a half mile radius; nearest tract. It would be really nice to know which of these functions is the best as far as being true to the data.
+
+The big picture: Show percent vs. rating for all restaurants, where rating is their Yelp score from 0-8, and percent is the ‘self-ethnicity’ scores, which is a proportion of the same ethnicity (Chinese, Japanese, Vietnamese, Korean -> Asian, Mexican -> Hispanic) on one scatter plot. We then fitted a linear model to this to see if there was a strong correlation.
+
+Further questions:
+Do the categories Vegetarian, Vegan vary with respect to the census data?
+
+Does a different measure other than percentage act as a better predictor of the rating? For example, since tracts are around 4000 population, using the raw number of the self-ethnicity rather than a percentage may say something slightly different (how the rating depends on the pop density as well)
+
+Does adding the price or number of reviews to the model improve the fit? We have to find a way to incorporate the price into the dataset; this is not part of the Yelp API.
+
+For our first study, we chose to only look at Mexican restaurants, plot them in a census tract, and then graph their yelp rating against the percentage of that ethnicity. We fitted a linear model to this and found that living in an ethnic area increased ratings by about half a star. There is a notable dearth of restaurants in the high-percent, low-rating quadrant. There are two noticable clusters of restaurants; low-percentage and average rating, and high-percentage and high rating.
+
+We decided to drill down into the data more. We created a histogram of all the ratings and saw that these were roughly normally distributed. Then, we looked at a histogram of percentages and were surprised to see that for the Hispanic population, these look bimodal. There is a peak around 20\%, and also a peak around 70\%. This may be an indicator of an ethnic neighborhood. Next, we intend to do a paired study using number of reviews as a covariate, and pairing between “high” percent and low percent to perhaps find a stronger correlation.
+
+Continuing with our analysis, we found similar results for Chinese food and Asian populations, even stronger than with Mexican food. However, the distribution of Asians was unimodal. Additionally, Vietnamese and Japanese food seemed to have a negative correlation between percentage and rating (as far as Asian populations go in general) it would be really helpful if the Census broke it down into more detailed ethnicity.
+
+\end{document}

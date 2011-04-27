@@ -2,1515 +2,1856 @@
     "type": "FeatureCollection", 
     "features": [
         {
-            "rating_img_url_small": "http://media4.ct.yelpcdn.com/static/201012161949604803/i/ico/stars/stars_small_5.png", 
-            "mobile_url": "http://mobile.yelp.com/biz/-HH-m4eJGh7dOuDH70HU9w", 
-            "rating_img_url": "http://media2.px.yelpcdn.com/static/201012162578611207/i/ico/stars/stars_5.png", 
-            "review_count": 35, 
-            "name": "Sugar Beat Sweets", 
-            "url": "http://www.yelp.com/biz/sugar-beat-sweets-san-francisco", 
-            "phone": "4156215444", 
-            "snippet_text": "ACK!  I meant to write this review AGES ago.  \n\nThese ladies are the best (I only say ladies because I've only dealt with the ladies so my apologies if...", 
-            "image_url": "http://media4.px.yelpcdn.com/bphoto/znGGOxjEXI2dG4kzRJKNBg/ms", 
-            "categories": [
-                [
-                    "Vegan", 
-                    "vegan"
-                ], 
-                [
-                    "Bakeries", 
-                    "bakeries"
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.4375534, 
+                    37.7861442
                 ]
-            ], 
-            "display_phone": "+1-415-621-5444", 
+            }, 
             "id": "sugar-beat-sweets-san-francisco", 
-            "snippet_image_url": "http://media3.ct.yelpcdn.com/photo/sfxqqMcZxiUQcYkP3tMsNQ/ms", 
-            "location": {
-                "city": "San Francisco", 
-                "display_address": [
-                    "Pacific Heights", 
-                    "San Francisco, CA 94115"
+            "properties": {
+                "rating_img_url_small": "http://media4.ct.yelpcdn.com/static/201012161949604803/i/ico/stars/stars_small_5.png", 
+                "mobile_url": "http://mobile.yelp.com/biz/-HH-m4eJGh7dOuDH70HU9w", 
+                "rating_img_url": "http://media2.px.yelpcdn.com/static/201012162578611207/i/ico/stars/stars_5.png", 
+                "review_count": 35, 
+                "name": "Sugar Beat Sweets", 
+                "url": "http://www.yelp.com/biz/sugar-beat-sweets-san-francisco", 
+                "price": 2, 
+                "phone": "4156215444", 
+                "snippet_text": "ACK!  I meant to write this review AGES ago.  \n\nThese ladies are the best (I only say ladies because I've only dealt with the ladies so my apologies if...", 
+                "image_url": "http://media4.px.yelpcdn.com/bphoto/znGGOxjEXI2dG4kzRJKNBg/ms", 
+                "snippet_image_url": "http://media3.ct.yelpcdn.com/photo/sfxqqMcZxiUQcYkP3tMsNQ/ms", 
+                "display_phone": "+1-415-621-5444", 
+                "id": "sugar-beat-sweets-san-francisco", 
+                "categories": [
+                    [
+                        "Vegan", 
+                        "vegan"
+                    ], 
+                    [
+                        "Bakeries", 
+                        "bakeries"
+                    ]
                 ], 
-                "geo_accuracy": 5, 
-                "neighborhoods": [
-                    "Pacific Heights", 
-                    "Lower Pac Heights"
-                ], 
-                "postal_code": "94115", 
-                "country_code": "US", 
-                "address": [], 
-                "coordinate": {
-                    "latitude": 37.7861442, 
-                    "longitude": -122.4375534
-                }, 
-                "state_code": "CA"
+                "location": {
+                    "city": "San Francisco", 
+                    "display_address": [
+                        "Pacific Heights", 
+                        "San Francisco, CA 94115"
+                    ], 
+                    "geo_accuracy": 5, 
+                    "neighborhoods": [
+                        "Pacific Heights", 
+                        "Lower Pac Heights"
+                    ], 
+                    "postal_code": "94115", 
+                    "country_code": "US", 
+                    "address": [], 
+                    "coordinate": {
+                        "latitude": 37.7861442, 
+                        "longitude": -122.4375534
+                    }, 
+                    "state_code": "CA"
+                }
             }
         }, 
         {
-            "rating_img_url_small": "http://media2.px.yelpcdn.com/static/201012161127761206/i/ico/stars/stars_small_4_half.png", 
-            "mobile_url": "http://mobile.yelp.com/biz/-1kJt82O2gxQ5SsWOxx8Gw", 
-            "rating_img_url": "http://media4.px.yelpcdn.com/static/201012163106483837/i/ico/stars/stars_4_half.png", 
-            "review_count": 17, 
-            "name": "Homemade Hustle Beats n' Brunch", 
-            "url": "http://www.yelp.com/biz/homemade-hustle-beats-n-brunch-san-francisco", 
-            "snippet_text": "ok, very late review, but looking forward to this crew hustlin' again\n\n'twas a beautiful experience", 
-            "image_url": "http://media4.ct.yelpcdn.com/bphoto/JcJ_XnTaGz9jTbM6vDv7IA/ms", 
-            "categories": [
-                [
-                    "Vegan", 
-                    "vegan"
-                ], 
-                [
-                    "Breakfast & Brunch", 
-                    "breakfast_brunch"
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.4189746, 
+                    37.7602672
                 ]
-            ], 
+            }, 
             "id": "homemade-hustle-beats-n-brunch-san-francisco", 
-            "snippet_image_url": "http://media3.ct.yelpcdn.com/photo/2nxbFH28YVdkO4QgH34sKg/ms", 
-            "location": {
-                "city": "San Francisco", 
-                "display_address": [
-                    "Little Baobob", 
-                    "3388 19th St", 
-                    "Mission", 
-                    "San Francisco, CA 94110"
+            "properties": {
+                "rating_img_url_small": "http://media2.px.yelpcdn.com/static/201012161127761206/i/ico/stars/stars_small_4_half.png", 
+                "mobile_url": "http://mobile.yelp.com/biz/-1kJt82O2gxQ5SsWOxx8Gw", 
+                "rating_img_url": "http://media4.px.yelpcdn.com/static/201012163106483837/i/ico/stars/stars_4_half.png", 
+                "review_count": 17, 
+                "name": "Homemade Hustle Beats n' Brunch", 
+                "url": "http://www.yelp.com/biz/homemade-hustle-beats-n-brunch-san-francisco", 
+                "price": 2, 
+                "snippet_text": "ok, very late review, but looking forward to this crew hustlin' again\n\n'twas a beautiful experience", 
+                "image_url": "http://media4.ct.yelpcdn.com/bphoto/JcJ_XnTaGz9jTbM6vDv7IA/ms", 
+                "snippet_image_url": "http://media3.ct.yelpcdn.com/photo/2nxbFH28YVdkO4QgH34sKg/ms", 
+                "id": "homemade-hustle-beats-n-brunch-san-francisco", 
+                "categories": [
+                    [
+                        "Vegan", 
+                        "vegan"
+                    ], 
+                    [
+                        "Breakfast & Brunch", 
+                        "breakfast_brunch"
+                    ]
                 ], 
-                "geo_accuracy": 8, 
-                "neighborhoods": [
-                    "Mission"
-                ], 
-                "postal_code": "94110", 
-                "country_code": "US", 
-                "address": [
-                    "Little Baobob", 
-                    "3388 19th St"
-                ], 
-                "coordinate": {
-                    "latitude": 37.7602672, 
-                    "longitude": -122.4189746
-                }, 
-                "state_code": "CA"
+                "location": {
+                    "city": "San Francisco", 
+                    "display_address": [
+                        "Little Baobob", 
+                        "3388 19th St", 
+                        "Mission", 
+                        "San Francisco, CA 94110"
+                    ], 
+                    "geo_accuracy": 8, 
+                    "neighborhoods": [
+                        "Mission"
+                    ], 
+                    "postal_code": "94110", 
+                    "country_code": "US", 
+                    "address": [
+                        "Little Baobob", 
+                        "3388 19th St"
+                    ], 
+                    "coordinate": {
+                        "latitude": 37.7602672, 
+                        "longitude": -122.4189746
+                    }, 
+                    "state_code": "CA"
+                }
             }
         }, 
         {
-            "rating_img_url_small": "http://media2.px.yelpcdn.com/static/201012161127761206/i/ico/stars/stars_small_4_half.png", 
-            "mobile_url": "http://mobile.yelp.com/biz/VeseKBTsJKV9HndzWuEdjQ", 
-            "rating_img_url": "http://media4.px.yelpcdn.com/static/201012163106483837/i/ico/stars/stars_4_half.png", 
-            "review_count": 38, 
-            "name": "Soul Cocina", 
-            "url": "http://www.yelp.com/biz/soul-cocina-san-francisco", 
-            "snippet_text": "Really, this was as good at it gets. I've been meaning to go for a long time and finally rallied tonight. It's vegan night and we got the pumpkin and nopal...", 
-            "image_url": "http://media4.px.yelpcdn.com/bphoto/6lUv2L9UTl-VNq28P8ofZQ/ms", 
-            "categories": [
-                [
-                    "Vegan", 
-                    "vegan"
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.405487, 
+                    37.7434883
                 ]
-            ], 
+            }, 
             "id": "soul-cocina-san-francisco", 
-            "snippet_image_url": "http://media2.ct.yelpcdn.com/photo/at7ejtKWRNe3QkFfEPAaAw/ms", 
-            "location": {
-                "city": "San Francisco", 
-                "display_address": [
-                    "Bayview/Hunters Point", 
-                    "San Francisco, CA 94110"
+            "properties": {
+                "rating_img_url_small": "http://media2.px.yelpcdn.com/static/201012161127761206/i/ico/stars/stars_small_4_half.png", 
+                "mobile_url": "http://mobile.yelp.com/biz/VeseKBTsJKV9HndzWuEdjQ", 
+                "rating_img_url": "http://media4.px.yelpcdn.com/static/201012163106483837/i/ico/stars/stars_4_half.png", 
+                "review_count": 38, 
+                "name": "Soul Cocina", 
+                "url": "http://www.yelp.com/biz/soul-cocina-san-francisco", 
+                "price": 1, 
+                "snippet_text": "Really, this was as good at it gets. I've been meaning to go for a long time and finally rallied tonight. It's vegan night and we got the pumpkin and nopal...", 
+                "image_url": "http://media4.px.yelpcdn.com/bphoto/6lUv2L9UTl-VNq28P8ofZQ/ms", 
+                "snippet_image_url": "http://media2.ct.yelpcdn.com/photo/at7ejtKWRNe3QkFfEPAaAw/ms", 
+                "id": "soul-cocina-san-francisco", 
+                "categories": [
+                    [
+                        "Vegan", 
+                        "vegan"
+                    ]
                 ], 
-                "geo_accuracy": 5, 
-                "neighborhoods": [
-                    "Bayview/Hunters Point"
-                ], 
-                "postal_code": "94110", 
-                "country_code": "US", 
-                "address": [], 
-                "coordinate": {
-                    "latitude": 37.7434883, 
-                    "longitude": -122.405487
-                }, 
-                "state_code": "CA"
+                "location": {
+                    "city": "San Francisco", 
+                    "display_address": [
+                        "Bayview/Hunters Point", 
+                        "San Francisco, CA 94110"
+                    ], 
+                    "geo_accuracy": 5, 
+                    "neighborhoods": [
+                        "Bayview/Hunters Point"
+                    ], 
+                    "postal_code": "94110", 
+                    "country_code": "US", 
+                    "address": [], 
+                    "coordinate": {
+                        "latitude": 37.7434883, 
+                        "longitude": -122.405487
+                    }, 
+                    "state_code": "CA"
+                }
             }
         }, 
         {
-            "rating_img_url_small": "http://media2.px.yelpcdn.com/static/201012161127761206/i/ico/stars/stars_small_4_half.png", 
-            "mobile_url": "http://mobile.yelp.com/biz/ZEjD3H78NtbrHzSdD2BopA", 
-            "rating_img_url": "http://media4.px.yelpcdn.com/static/201012163106483837/i/ico/stars/stars_4_half.png", 
-            "review_count": 489, 
-            "name": "Underdog", 
-            "url": "http://www.yelp.com/biz/underdog-san-francisco", 
-            "phone": "4156658881", 
-            "snippet_text": "Being from LA, I loved the atmosphere here. It was like being invited into the room of someone's mind, and whenever I'm in a new room with lots of...", 
-            "image_url": "http://media3.px.yelpcdn.com/bphoto/-lrLx2Mq3pRQtbLWhCi5NA/ms", 
-            "categories": [
-                [
-                    "Vegan", 
-                    "vegan"
-                ], 
-                [
-                    "Hot Dogs", 
-                    "hotdog"
-                ], 
-                [
-                    "Vegetarian", 
-                    "vegetarian"
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.475693, 
+                    37.763789
                 ]
-            ], 
-            "display_phone": "+1-415-665-8881", 
+            }, 
             "id": "underdog-san-francisco", 
-            "snippet_image_url": "http://media3.ct.yelpcdn.com/photo/qPOr_S5k5S6uZMcwql9OkQ/ms", 
-            "location": {
-                "cross_streets": "17th Ave & 18th Ave", 
-                "city": "San Francisco", 
-                "display_address": [
-                    "1634 Irving St", 
-                    "(b/t 17th Ave & 18th Ave)", 
-                    "Inner Sunset", 
-                    "San Francisco, CA 94122"
+            "properties": {
+                "rating_img_url_small": "http://media2.px.yelpcdn.com/static/201012161127761206/i/ico/stars/stars_small_4_half.png", 
+                "mobile_url": "http://mobile.yelp.com/biz/ZEjD3H78NtbrHzSdD2BopA", 
+                "rating_img_url": "http://media4.px.yelpcdn.com/static/201012163106483837/i/ico/stars/stars_4_half.png", 
+                "review_count": 489, 
+                "name": "Underdog", 
+                "url": "http://www.yelp.com/biz/underdog-san-francisco", 
+                "price": 1, 
+                "phone": "4156658881", 
+                "snippet_text": "Being from LA, I loved the atmosphere here. It was like being invited into the room of someone's mind, and whenever I'm in a new room with lots of...", 
+                "image_url": "http://media3.px.yelpcdn.com/bphoto/-lrLx2Mq3pRQtbLWhCi5NA/ms", 
+                "snippet_image_url": "http://media3.ct.yelpcdn.com/photo/qPOr_S5k5S6uZMcwql9OkQ/ms", 
+                "display_phone": "+1-415-665-8881", 
+                "id": "underdog-san-francisco", 
+                "categories": [
+                    [
+                        "Vegan", 
+                        "vegan"
+                    ], 
+                    [
+                        "Hot Dogs", 
+                        "hotdog"
+                    ], 
+                    [
+                        "Vegetarian", 
+                        "vegetarian"
+                    ]
                 ], 
-                "geo_accuracy": 8, 
-                "neighborhoods": [
-                    "Inner Sunset"
-                ], 
-                "postal_code": "94122", 
-                "country_code": "US", 
-                "address": [
-                    "1634 Irving St"
-                ], 
-                "coordinate": {
-                    "latitude": 37.763789, 
-                    "longitude": -122.475693
-                }, 
-                "state_code": "CA"
+                "location": {
+                    "cross_streets": "17th Ave & 18th Ave", 
+                    "city": "San Francisco", 
+                    "display_address": [
+                        "1634 Irving St", 
+                        "(b/t 17th Ave & 18th Ave)", 
+                        "Inner Sunset", 
+                        "San Francisco, CA 94122"
+                    ], 
+                    "geo_accuracy": 8, 
+                    "neighborhoods": [
+                        "Inner Sunset"
+                    ], 
+                    "postal_code": "94122", 
+                    "country_code": "US", 
+                    "address": [
+                        "1634 Irving St"
+                    ], 
+                    "coordinate": {
+                        "latitude": 37.763789, 
+                        "longitude": -122.475693
+                    }, 
+                    "state_code": "CA"
+                }
             }
         }, 
         {
-            "rating_img_url_small": "http://media4.ct.yelpcdn.com/static/201012161949604803/i/ico/stars/stars_small_5.png", 
-            "mobile_url": "http://mobile.yelp.com/biz/dohkGCEYZkesah2k4FOCuQ", 
-            "rating_img_url": "http://media2.px.yelpcdn.com/static/201012162578611207/i/ico/stars/stars_5.png", 
-            "review_count": 8, 
-            "name": "Brassica Supperclub", 
-            "url": "http://www.yelp.com/biz/brassica-supperclub-san-francisco", 
-            "phone": "9168336835", 
-            "snippet_text": "This is a long overdue review, as we attended the very last supperclub (sad face) at the beginning of November.  In summary: freaking awesome.  I actually...", 
-            "image_url": "http://media2.ct.yelpcdn.com/bphoto/h-I3mz9Zp-2xJAZaHO23vw/ms", 
-            "categories": [
-                [
-                    "Vegan", 
-                    "vegan"
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.419209, 
+                    37.775206
                 ]
-            ], 
-            "display_phone": "+1-916-833-6835", 
+            }, 
             "id": "brassica-supperclub-san-francisco", 
-            "snippet_image_url": "http://media3.px.yelpcdn.com/photo/o-ZS1nGX8BWJSy6P0ZndPA/ms", 
-            "location": {
-                "city": "San Francisco", 
-                "display_address": [
-                    "Hayes Valley", 
-                    "San Francisco, CA"
+            "properties": {
+                "rating_img_url_small": "http://media4.ct.yelpcdn.com/static/201012161949604803/i/ico/stars/stars_small_5.png", 
+                "mobile_url": "http://mobile.yelp.com/biz/dohkGCEYZkesah2k4FOCuQ", 
+                "rating_img_url": "http://media2.px.yelpcdn.com/static/201012162578611207/i/ico/stars/stars_5.png", 
+                "review_count": 8, 
+                "name": "Brassica Supperclub", 
+                "url": "http://www.yelp.com/biz/brassica-supperclub-san-francisco", 
+                "price": 3, 
+                "phone": "9168336835", 
+                "snippet_text": "This is a long overdue review, as we attended the very last supperclub (sad face) at the beginning of November.  In summary: freaking awesome.  I actually...", 
+                "image_url": "http://media2.ct.yelpcdn.com/bphoto/h-I3mz9Zp-2xJAZaHO23vw/ms", 
+                "snippet_image_url": "http://media3.px.yelpcdn.com/photo/o-ZS1nGX8BWJSy6P0ZndPA/ms", 
+                "display_phone": "+1-916-833-6835", 
+                "id": "brassica-supperclub-san-francisco", 
+                "categories": [
+                    [
+                        "Vegan", 
+                        "vegan"
+                    ]
                 ], 
-                "geo_accuracy": 4, 
-                "neighborhoods": [
-                    "Hayes Valley", 
-                    "Civic Center/Tenderloin", 
-                    "SOMA"
-                ], 
-                "country_code": "US", 
-                "address": [], 
-                "coordinate": {
-                    "latitude": 37.775206, 
-                    "longitude": -122.419209
-                }, 
-                "state_code": "CA"
+                "location": {
+                    "city": "San Francisco", 
+                    "display_address": [
+                        "Hayes Valley", 
+                        "San Francisco, CA"
+                    ], 
+                    "geo_accuracy": 4, 
+                    "neighborhoods": [
+                        "Hayes Valley", 
+                        "Civic Center/Tenderloin", 
+                        "SOMA"
+                    ], 
+                    "country_code": "US", 
+                    "address": [], 
+                    "coordinate": {
+                        "latitude": 37.775206, 
+                        "longitude": -122.419209
+                    }, 
+                    "state_code": "CA"
+                }
             }
         }, 
         {
-            "rating_img_url_small": "http://media3.px.yelpcdn.com/static/20101216418129184/i/ico/stars/stars_small_4.png", 
-            "mobile_url": "http://mobile.yelp.com/biz/-T5R_Ie7VmpUHP4O8n8EHg", 
-            "rating_img_url": "http://media1.ct.yelpcdn.com/static/201012164084228337/i/ico/stars/stars_4.png", 
-            "review_count": 397, 
-            "name": "Saha", 
-            "url": "http://www.yelp.com/biz/saha-san-francisco", 
-            "phone": "4153459547", 
-            "snippet_text": "Who knew that one of the best meals to be had in SF was right under my nose? Located in the Hotel Carlton (where we stayed) and only a creepy elevator ride...", 
-            "image_url": "http://media1.ct.yelpcdn.com/bphoto/mePG0jD-5dzKJiiWx-jlSg/ms", 
-            "categories": [
-                [
-                    "Vegan", 
-                    "vegan"
-                ], 
-                [
-                    "Middle Eastern", 
-                    "mideastern"
-                ], 
-                [
-                    "Gluten-Free", 
-                    "gluten_free"
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.417967, 
+                    37.7879259
                 ]
-            ], 
-            "display_phone": "+1-415-345-9547", 
+            }, 
             "id": "saha-san-francisco", 
-            "snippet_image_url": "http://media2.px.yelpcdn.com/photo/xoU9HRVPc4B72I4i_Txzgg/ms", 
-            "location": {
-                "city": "San Francisco", 
-                "display_address": [
-                    "The Carlton Hotel", 
-                    "1075 Sutter St", 
-                    "San Francisco, CA 94109"
+            "properties": {
+                "rating_img_url_small": "http://media3.px.yelpcdn.com/static/20101216418129184/i/ico/stars/stars_small_4.png", 
+                "mobile_url": "http://mobile.yelp.com/biz/-T5R_Ie7VmpUHP4O8n8EHg", 
+                "rating_img_url": "http://media1.ct.yelpcdn.com/static/201012164084228337/i/ico/stars/stars_4.png", 
+                "review_count": 397, 
+                "name": "Saha", 
+                "url": "http://www.yelp.com/biz/saha-san-francisco", 
+                "price": 3, 
+                "phone": "4153459547", 
+                "snippet_text": "Who knew that one of the best meals to be had in SF was right under my nose? Located in the Hotel Carlton (where we stayed) and only a creepy elevator ride...", 
+                "image_url": "http://media1.ct.yelpcdn.com/bphoto/mePG0jD-5dzKJiiWx-jlSg/ms", 
+                "snippet_image_url": "http://media2.px.yelpcdn.com/photo/xoU9HRVPc4B72I4i_Txzgg/ms", 
+                "display_phone": "+1-415-345-9547", 
+                "id": "saha-san-francisco", 
+                "categories": [
+                    [
+                        "Vegan", 
+                        "vegan"
+                    ], 
+                    [
+                        "Middle Eastern", 
+                        "mideastern"
+                    ], 
+                    [
+                        "Gluten-Free", 
+                        "gluten_free"
+                    ]
                 ], 
-                "geo_accuracy": 8, 
-                "postal_code": "94109", 
-                "country_code": "US", 
-                "address": [
-                    "The Carlton Hotel", 
-                    "1075 Sutter St"
-                ], 
-                "coordinate": {
-                    "latitude": 37.7879259, 
-                    "longitude": -122.417967
-                }, 
-                "state_code": "CA"
+                "location": {
+                    "city": "San Francisco", 
+                    "display_address": [
+                        "The Carlton Hotel", 
+                        "1075 Sutter St", 
+                        "San Francisco, CA 94109"
+                    ], 
+                    "geo_accuracy": 8, 
+                    "postal_code": "94109", 
+                    "country_code": "US", 
+                    "address": [
+                        "The Carlton Hotel", 
+                        "1075 Sutter St"
+                    ], 
+                    "coordinate": {
+                        "latitude": 37.7879259, 
+                        "longitude": -122.417967
+                    }, 
+                    "state_code": "CA"
+                }
             }
         }, 
         {
-            "rating_img_url_small": "http://media3.px.yelpcdn.com/static/20101216418129184/i/ico/stars/stars_small_4.png", 
-            "mobile_url": "http://mobile.yelp.com/biz/oY2Jvi31y-7qMctAHR8Wnw", 
-            "rating_img_url": "http://media1.ct.yelpcdn.com/static/201012164084228337/i/ico/stars/stars_4.png", 
-            "review_count": 263, 
-            "name": "Love N Haight Deli", 
-            "url": "http://www.yelp.com/biz/love-n-haight-deli-san-francisco", 
-            "phone": "4152528190", 
-            "snippet_text": "It took me a while to get this just right: \n\n-veggie chicken steak; \n-toasted whole wheat;\n-add swiss cheese;\n-add avocado;\n-hummus instead of...", 
-            "image_url": "http://media3.px.yelpcdn.com/bphoto/qliOSfXwQBjkycu2IZnPTQ/ms", 
-            "categories": [
-                [
-                    "Vegan", 
-                    "vegan"
-                ], 
-                [
-                    "Sandwiches", 
-                    "sandwiches"
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.4313176, 
+                    37.7719199
                 ]
-            ], 
-            "display_phone": "+1-415-252-8190", 
+            }, 
             "id": "love-n-haight-deli-san-francisco", 
-            "snippet_image_url": "http://media2.ct.yelpcdn.com/photo/FAbH_3ejjWHq730VLbRLag/ms", 
-            "location": {
-                "cross_streets": "Fillmore St & Steiner St", 
-                "city": "San Francisco", 
-                "display_address": [
-                    "553 Haight St", 
-                    "(b/t Fillmore St & Steiner St)", 
-                    "Lower Haight", 
-                    "San Francisco, CA 94117"
+            "properties": {
+                "rating_img_url_small": "http://media3.px.yelpcdn.com/static/20101216418129184/i/ico/stars/stars_small_4.png", 
+                "mobile_url": "http://mobile.yelp.com/biz/oY2Jvi31y-7qMctAHR8Wnw", 
+                "rating_img_url": "http://media1.ct.yelpcdn.com/static/201012164084228337/i/ico/stars/stars_4.png", 
+                "review_count": 263, 
+                "name": "Love N Haight Deli", 
+                "url": "http://www.yelp.com/biz/love-n-haight-deli-san-francisco", 
+                "price": 1, 
+                "phone": "4152528190", 
+                "snippet_text": "It took me a while to get this just right: \n\n-veggie chicken steak; \n-toasted whole wheat;\n-add swiss cheese;\n-add avocado;\n-hummus instead of...", 
+                "image_url": "http://media3.px.yelpcdn.com/bphoto/qliOSfXwQBjkycu2IZnPTQ/ms", 
+                "snippet_image_url": "http://media2.ct.yelpcdn.com/photo/FAbH_3ejjWHq730VLbRLag/ms", 
+                "display_phone": "+1-415-252-8190", 
+                "id": "love-n-haight-deli-san-francisco", 
+                "categories": [
+                    [
+                        "Vegan", 
+                        "vegan"
+                    ], 
+                    [
+                        "Sandwiches", 
+                        "sandwiches"
+                    ]
                 ], 
-                "geo_accuracy": 8, 
-                "neighborhoods": [
-                    "Lower Haight"
-                ], 
-                "postal_code": "94117", 
-                "country_code": "US", 
-                "address": [
-                    "553 Haight St"
-                ], 
-                "coordinate": {
-                    "latitude": 37.7719199, 
-                    "longitude": -122.4313176
-                }, 
-                "state_code": "CA"
+                "location": {
+                    "cross_streets": "Fillmore St & Steiner St", 
+                    "city": "San Francisco", 
+                    "display_address": [
+                        "553 Haight St", 
+                        "(b/t Fillmore St & Steiner St)", 
+                        "Lower Haight", 
+                        "San Francisco, CA 94117"
+                    ], 
+                    "geo_accuracy": 8, 
+                    "neighborhoods": [
+                        "Lower Haight"
+                    ], 
+                    "postal_code": "94117", 
+                    "country_code": "US", 
+                    "address": [
+                        "553 Haight St"
+                    ], 
+                    "coordinate": {
+                        "latitude": 37.7719199, 
+                        "longitude": -122.4313176
+                    }, 
+                    "state_code": "CA"
+                }
             }
         }, 
         {
-            "rating_img_url_small": "http://media3.px.yelpcdn.com/static/20101216418129184/i/ico/stars/stars_small_4.png", 
-            "mobile_url": "http://mobile.yelp.com/biz/Q8Iuvchm64eiAsDFD7Uzkw", 
-            "rating_img_url": "http://media1.ct.yelpcdn.com/static/201012164084228337/i/ico/stars/stars_4.png", 
-            "review_count": 929, 
-            "name": "Millennium", 
-            "url": "http://www.yelp.com/biz/millennium-san-francisco", 
-            "phone": "4153453900", 
-            "snippet_text": "I eat meat a lot.  I go here.  \n\nIt's unbelievable what they can do.  I'm also lactose intolerant so to be able to eat without any worry is an amazing...", 
-            "image_url": "http://media1.ct.yelpcdn.com/bphoto/_Kt01zAkzGDjSphy7W3qOA/ms", 
-            "categories": [
-                [
-                    "Vegan", 
-                    "vegan"
-                ], 
-                [
-                    "Vegetarian", 
-                    "vegetarian"
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.4129375, 
+                    37.7869286
                 ]
-            ], 
-            "display_phone": "+1-415-345-3900", 
+            }, 
             "id": "millennium-san-francisco", 
-            "snippet_image_url": "http://media2.ct.yelpcdn.com/photo/rLWIQrknmnPnU_dlJ0kT3g/ms", 
-            "location": {
-                "cross_streets": "Shannon St & Jones St", 
-                "city": "San Francisco", 
-                "display_address": [
-                    "580 Geary St", 
-                    "(b/t Shannon St & Jones St)", 
-                    "Civic Center/Tenderloin", 
-                    "San Francisco, CA 94102"
+            "properties": {
+                "rating_img_url_small": "http://media3.px.yelpcdn.com/static/20101216418129184/i/ico/stars/stars_small_4.png", 
+                "mobile_url": "http://mobile.yelp.com/biz/Q8Iuvchm64eiAsDFD7Uzkw", 
+                "rating_img_url": "http://media1.ct.yelpcdn.com/static/201012164084228337/i/ico/stars/stars_4.png", 
+                "review_count": 929, 
+                "name": "Millennium", 
+                "url": "http://www.yelp.com/biz/millennium-san-francisco", 
+                "price": 3, 
+                "phone": "4153453900", 
+                "snippet_text": "I eat meat a lot.  I go here.  \n\nIt's unbelievable what they can do.  I'm also lactose intolerant so to be able to eat without any worry is an amazing...", 
+                "image_url": "http://media1.ct.yelpcdn.com/bphoto/_Kt01zAkzGDjSphy7W3qOA/ms", 
+                "snippet_image_url": "http://media2.ct.yelpcdn.com/photo/rLWIQrknmnPnU_dlJ0kT3g/ms", 
+                "display_phone": "+1-415-345-3900", 
+                "id": "millennium-san-francisco", 
+                "categories": [
+                    [
+                        "Vegan", 
+                        "vegan"
+                    ], 
+                    [
+                        "Vegetarian", 
+                        "vegetarian"
+                    ]
                 ], 
-                "geo_accuracy": 8, 
-                "neighborhoods": [
-                    "Civic Center/Tenderloin"
-                ], 
-                "postal_code": "94102", 
-                "country_code": "US", 
-                "address": [
-                    "580 Geary St"
-                ], 
-                "coordinate": {
-                    "latitude": 37.7869286, 
-                    "longitude": -122.4129375
-                }, 
-                "state_code": "CA"
+                "location": {
+                    "cross_streets": "Shannon St & Jones St", 
+                    "city": "San Francisco", 
+                    "display_address": [
+                        "580 Geary St", 
+                        "(b/t Shannon St & Jones St)", 
+                        "Civic Center/Tenderloin", 
+                        "San Francisco, CA 94102"
+                    ], 
+                    "geo_accuracy": 8, 
+                    "neighborhoods": [
+                        "Civic Center/Tenderloin"
+                    ], 
+                    "postal_code": "94102", 
+                    "country_code": "US", 
+                    "address": [
+                        "580 Geary St"
+                    ], 
+                    "coordinate": {
+                        "latitude": 37.7869286, 
+                        "longitude": -122.4129375
+                    }, 
+                    "state_code": "CA"
+                }
             }
         }, 
         {
-            "rating_img_url_small": "http://media3.px.yelpcdn.com/static/20101216418129184/i/ico/stars/stars_small_4.png", 
-            "mobile_url": "http://mobile.yelp.com/biz/trMsjTu2TNMnpHn1scaQgg", 
-            "rating_img_url": "http://media1.ct.yelpcdn.com/static/201012164084228337/i/ico/stars/stars_4.png", 
-            "review_count": 597, 
-            "name": "Golden Era Vegetarian Restaurant", 
-            "url": "http://www.yelp.com/biz/golden-era-vegetarian-restaurant-san-francisco", 
-            "phone": "4156733136", 
-            "snippet_text": "Ive given many 5 star reviews out, but this will be my first 10 star review.  10 stars, you say?  Yes, 10 stars.  The fake meat stuff taste like real meat....", 
-            "image_url": "http://media3.px.yelpcdn.com/bphoto/ri9xkZJgpOLEu-16KCAw4A/ms", 
-            "categories": [
-                [
-                    "Vegan", 
-                    "vegan"
-                ], 
-                [
-                    "Vegetarian", 
-                    "vegetarian"
-                ], 
-                [
-                    "Vietnamese", 
-                    "vietnamese"
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.414145, 
+                    37.785701
                 ]
-            ], 
-            "display_phone": "+1-415-673-3136", 
+            }, 
             "id": "golden-era-vegetarian-restaurant-san-francisco", 
-            "snippet_image_url": "http://media4.px.yelpcdn.com/photo/DD3qrmixP5E6tkcmO6kY9g/ms", 
-            "location": {
-                "cross_streets": "Jones St & Leavenworth St", 
-                "city": "San Francisco", 
-                "display_address": [
-                    "572 O'Farrell St", 
-                    "(b/t Jones St & Leavenworth St)", 
-                    "Civic Center/Tenderloin", 
-                    "San Francisco, CA 94102"
+            "properties": {
+                "rating_img_url_small": "http://media3.px.yelpcdn.com/static/20101216418129184/i/ico/stars/stars_small_4.png", 
+                "mobile_url": "http://mobile.yelp.com/biz/trMsjTu2TNMnpHn1scaQgg", 
+                "rating_img_url": "http://media1.ct.yelpcdn.com/static/201012164084228337/i/ico/stars/stars_4.png", 
+                "review_count": 597, 
+                "name": "Golden Era Vegetarian Restaurant", 
+                "url": "http://www.yelp.com/biz/golden-era-vegetarian-restaurant-san-francisco", 
+                "price": 2, 
+                "phone": "4156733136", 
+                "snippet_text": "Ive given many 5 star reviews out, but this will be my first 10 star review.  10 stars, you say?  Yes, 10 stars.  The fake meat stuff taste like real meat....", 
+                "image_url": "http://media3.px.yelpcdn.com/bphoto/ri9xkZJgpOLEu-16KCAw4A/ms", 
+                "snippet_image_url": "http://media4.px.yelpcdn.com/photo/DD3qrmixP5E6tkcmO6kY9g/ms", 
+                "display_phone": "+1-415-673-3136", 
+                "id": "golden-era-vegetarian-restaurant-san-francisco", 
+                "categories": [
+                    [
+                        "Vegan", 
+                        "vegan"
+                    ], 
+                    [
+                        "Vegetarian", 
+                        "vegetarian"
+                    ], 
+                    [
+                        "Vietnamese", 
+                        "vietnamese"
+                    ]
                 ], 
-                "geo_accuracy": 8, 
-                "neighborhoods": [
-                    "Civic Center/Tenderloin"
-                ], 
-                "postal_code": "94102", 
-                "country_code": "US", 
-                "address": [
-                    "572 O'Farrell St"
-                ], 
-                "coordinate": {
-                    "latitude": 37.785701, 
-                    "longitude": -122.414145
-                }, 
-                "state_code": "CA"
+                "location": {
+                    "cross_streets": "Jones St & Leavenworth St", 
+                    "city": "San Francisco", 
+                    "display_address": [
+                        "572 O'Farrell St", 
+                        "(b/t Jones St & Leavenworth St)", 
+                        "Civic Center/Tenderloin", 
+                        "San Francisco, CA 94102"
+                    ], 
+                    "geo_accuracy": 8, 
+                    "neighborhoods": [
+                        "Civic Center/Tenderloin"
+                    ], 
+                    "postal_code": "94102", 
+                    "country_code": "US", 
+                    "address": [
+                        "572 O'Farrell St"
+                    ], 
+                    "coordinate": {
+                        "latitude": 37.785701, 
+                        "longitude": -122.414145
+                    }, 
+                    "state_code": "CA"
+                }
             }
         }, 
         {
-            "rating_img_url_small": "http://media3.px.yelpcdn.com/static/20101216418129184/i/ico/stars/stars_small_4.png", 
-            "mobile_url": "http://mobile.yelp.com/biz/rwiL8C8989DlHMD88bxi3A", 
-            "rating_img_url": "http://media1.ct.yelpcdn.com/static/201012164084228337/i/ico/stars/stars_4.png", 
-            "review_count": 604, 
-            "name": "Gracias Madre", 
-            "url": "http://www.yelp.com/biz/gracias-madre-san-francisco", 
-            "phone": "4156831346", 
-            "snippet_text": "After just landing in San Francisco, my friend already knew the best dinner option for me, and boy, she right on the greens. \n\nGracias Madre is a hip vegan...", 
-            "image_url": "http://media3.px.yelpcdn.com/bphoto/AXZWVM3ky1fzakD550vRzQ/ms", 
-            "categories": [
-                [
-                    "Vegan", 
-                    "vegan"
-                ], 
-                [
-                    "Latin American", 
-                    "latin"
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.418976, 
+                    37.761549
                 ]
-            ], 
-            "display_phone": "+1-415-683-1346", 
+            }, 
             "id": "gracias-madre-san-francisco", 
-            "snippet_image_url": "http://media2.px.yelpcdn.com/photo/5QHIj16tJ9S3KrhwdYC7Gg/ms", 
-            "location": {
-                "cross_streets": "18th St & 19th St", 
-                "city": "San Francisco", 
-                "display_address": [
-                    "2211 Mission St", 
-                    "(b/t 18th St & 19th St)", 
-                    "Mission", 
-                    "San Francisco, CA 94110"
+            "properties": {
+                "rating_img_url_small": "http://media3.px.yelpcdn.com/static/20101216418129184/i/ico/stars/stars_small_4.png", 
+                "mobile_url": "http://mobile.yelp.com/biz/rwiL8C8989DlHMD88bxi3A", 
+                "rating_img_url": "http://media1.ct.yelpcdn.com/static/201012164084228337/i/ico/stars/stars_4.png", 
+                "review_count": 604, 
+                "name": "Gracias Madre", 
+                "url": "http://www.yelp.com/biz/gracias-madre-san-francisco", 
+                "price": 2, 
+                "phone": "4156831346", 
+                "snippet_text": "After just landing in San Francisco, my friend already knew the best dinner option for me, and boy, she right on the greens. \n\nGracias Madre is a hip vegan...", 
+                "image_url": "http://media3.px.yelpcdn.com/bphoto/AXZWVM3ky1fzakD550vRzQ/ms", 
+                "snippet_image_url": "http://media2.px.yelpcdn.com/photo/5QHIj16tJ9S3KrhwdYC7Gg/ms", 
+                "display_phone": "+1-415-683-1346", 
+                "id": "gracias-madre-san-francisco", 
+                "categories": [
+                    [
+                        "Vegan", 
+                        "vegan"
+                    ], 
+                    [
+                        "Latin American", 
+                        "latin"
+                    ]
                 ], 
-                "geo_accuracy": 8, 
-                "neighborhoods": [
-                    "Mission"
-                ], 
-                "postal_code": "94110", 
-                "country_code": "US", 
-                "address": [
-                    "2211 Mission St"
-                ], 
-                "coordinate": {
-                    "latitude": 37.761549, 
-                    "longitude": -122.418976
-                }, 
-                "state_code": "CA"
+                "location": {
+                    "cross_streets": "18th St & 19th St", 
+                    "city": "San Francisco", 
+                    "display_address": [
+                        "2211 Mission St", 
+                        "(b/t 18th St & 19th St)", 
+                        "Mission", 
+                        "San Francisco, CA 94110"
+                    ], 
+                    "geo_accuracy": 8, 
+                    "neighborhoods": [
+                        "Mission"
+                    ], 
+                    "postal_code": "94110", 
+                    "country_code": "US", 
+                    "address": [
+                        "2211 Mission St"
+                    ], 
+                    "coordinate": {
+                        "latitude": 37.761549, 
+                        "longitude": -122.418976
+                    }, 
+                    "state_code": "CA"
+                }
             }
         }, 
         {
-            "rating_img_url_small": "http://media2.px.yelpcdn.com/static/201012161127761206/i/ico/stars/stars_small_4_half.png", 
-            "mobile_url": "http://mobile.yelp.com/biz/xNCZl3u__h4dg4GPhFThZQ", 
-            "rating_img_url": "http://media4.px.yelpcdn.com/static/201012163106483837/i/ico/stars/stars_4_half.png", 
-            "review_count": 45, 
-            "name": "Source", 
-            "url": "http://www.yelp.com/biz/source-san-francisco", 
-            "phone": "4158649000", 
-            "snippet_text": "Came to have lunch at Source about 2 weeks ago with my Mom & Sister. We regularly have lunch once a week, usually Vegan.\n\nUpon Arriving, I was so happy to...", 
-            "image_url": "http://media1.px.yelpcdn.com/bphoto/0lBZLY0wQMBXB91ffSajCw/ms", 
-            "categories": [
-                [
-                    "Vegan", 
-                    "vegan"
-                ], 
-                [
-                    "Vegetarian", 
-                    "vegetarian"
-                ], 
-                [
-                    "Pizza", 
-                    "pizza"
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.4021205, 
+                    37.7698252
                 ]
-            ], 
-            "display_phone": "+1-415-864-9000", 
+            }, 
             "id": "source-san-francisco", 
-            "snippet_image_url": "http://media1.px.yelpcdn.com/photo/ZiJKUQq0-vSgKGHblzlTTg/ms", 
-            "location": {
-                "city": "San Francisco", 
-                "display_address": [
-                    "1 Division St", 
-                    "SOMA", 
-                    "San Francisco, CA 94103"
+            "properties": {
+                "rating_img_url_small": "http://media2.px.yelpcdn.com/static/201012161127761206/i/ico/stars/stars_small_4_half.png", 
+                "mobile_url": "http://mobile.yelp.com/biz/xNCZl3u__h4dg4GPhFThZQ", 
+                "rating_img_url": "http://media4.px.yelpcdn.com/static/201012163106483837/i/ico/stars/stars_4_half.png", 
+                "review_count": 45, 
+                "name": "Source", 
+                "url": "http://www.yelp.com/biz/source-san-francisco", 
+                "price": 2, 
+                "phone": "4158649000", 
+                "snippet_text": "Came to have lunch at Source about 2 weeks ago with my Mom & Sister. We regularly have lunch once a week, usually Vegan.\n\nUpon Arriving, I was so happy to...", 
+                "image_url": "http://media1.px.yelpcdn.com/bphoto/0lBZLY0wQMBXB91ffSajCw/ms", 
+                "snippet_image_url": "http://media1.px.yelpcdn.com/photo/ZiJKUQq0-vSgKGHblzlTTg/ms", 
+                "display_phone": "+1-415-864-9000", 
+                "id": "source-san-francisco", 
+                "categories": [
+                    [
+                        "Vegan", 
+                        "vegan"
+                    ], 
+                    [
+                        "Vegetarian", 
+                        "vegetarian"
+                    ], 
+                    [
+                        "Pizza", 
+                        "pizza"
+                    ]
                 ], 
-                "geo_accuracy": 8, 
-                "neighborhoods": [
-                    "SOMA"
-                ], 
-                "postal_code": "94103", 
-                "country_code": "US", 
-                "address": [
-                    "1 Division St"
-                ], 
-                "coordinate": {
-                    "latitude": 37.7698252, 
-                    "longitude": -122.4021205
-                }, 
-                "state_code": "CA"
+                "location": {
+                    "city": "San Francisco", 
+                    "display_address": [
+                        "1 Division St", 
+                        "SOMA", 
+                        "San Francisco, CA 94103"
+                    ], 
+                    "geo_accuracy": 8, 
+                    "neighborhoods": [
+                        "SOMA"
+                    ], 
+                    "postal_code": "94103", 
+                    "country_code": "US", 
+                    "address": [
+                        "1 Division St"
+                    ], 
+                    "coordinate": {
+                        "latitude": 37.7698252, 
+                        "longitude": -122.4021205
+                    }, 
+                    "state_code": "CA"
+                }
             }
         }, 
         {
-            "rating_img_url_small": "http://media3.px.yelpcdn.com/static/20101216418129184/i/ico/stars/stars_small_4.png", 
-            "mobile_url": "http://mobile.yelp.com/biz/7wxYot5qB5ZhfcXsnfbBvw", 
-            "rating_img_url": "http://media1.ct.yelpcdn.com/static/201012164084228337/i/ico/stars/stars_4.png", 
-            "review_count": 305, 
-            "name": "Minako Organic Japanese Restaurant", 
-            "url": "http://www.yelp.com/biz/minako-organic-japanese-restaurant-san-francisco", 
-            "phone": "4158641888", 
-            "snippet_text": "The food here is really imaginative and the menu is extensive. I've been a few times and have yet to try everything. \n\nLast time I had the almond encrusted...", 
-            "image_url": "http://media3.px.yelpcdn.com/bphoto/NefjBBD3q6ssauvAfOSWDQ/ms", 
-            "categories": [
-                [
-                    "Vegan", 
-                    "vegan"
-                ], 
-                [
-                    "Japanese", 
-                    "japanese"
-                ], 
-                [
-                    "Sushi Bars", 
-                    "sushi"
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.419438, 
+                    37.762511
                 ]
-            ], 
-            "display_phone": "+1-415-864-1888", 
+            }, 
             "id": "minako-organic-japanese-restaurant-san-francisco", 
-            "snippet_image_url": "http://media1.px.yelpcdn.com/photo/6lSjc3BuzGNXrY3eTI0MhQ/ms", 
-            "location": {
-                "cross_streets": "18th St & Clarion Aly", 
-                "city": "San Francisco", 
-                "display_address": [
-                    "2154 Mission St", 
-                    "(b/t 18th St & Clarion Aly)", 
-                    "Mission", 
-                    "San Francisco, CA 94110"
+            "properties": {
+                "rating_img_url_small": "http://media3.px.yelpcdn.com/static/20101216418129184/i/ico/stars/stars_small_4.png", 
+                "mobile_url": "http://mobile.yelp.com/biz/7wxYot5qB5ZhfcXsnfbBvw", 
+                "rating_img_url": "http://media1.ct.yelpcdn.com/static/201012164084228337/i/ico/stars/stars_4.png", 
+                "review_count": 305, 
+                "name": "Minako Organic Japanese Restaurant", 
+                "url": "http://www.yelp.com/biz/minako-organic-japanese-restaurant-san-francisco", 
+                "price": 2, 
+                "phone": "4158641888", 
+                "snippet_text": "The food here is really imaginative and the menu is extensive. I've been a few times and have yet to try everything. \n\nLast time I had the almond encrusted...", 
+                "image_url": "http://media3.px.yelpcdn.com/bphoto/NefjBBD3q6ssauvAfOSWDQ/ms", 
+                "snippet_image_url": "http://media1.px.yelpcdn.com/photo/6lSjc3BuzGNXrY3eTI0MhQ/ms", 
+                "display_phone": "+1-415-864-1888", 
+                "id": "minako-organic-japanese-restaurant-san-francisco", 
+                "categories": [
+                    [
+                        "Vegan", 
+                        "vegan"
+                    ], 
+                    [
+                        "Japanese", 
+                        "japanese"
+                    ], 
+                    [
+                        "Sushi Bars", 
+                        "sushi"
+                    ]
                 ], 
-                "geo_accuracy": 8, 
-                "neighborhoods": [
-                    "Mission"
-                ], 
-                "postal_code": "94110", 
-                "country_code": "US", 
-                "address": [
-                    "2154 Mission St"
-                ], 
-                "coordinate": {
-                    "latitude": 37.762511, 
-                    "longitude": -122.419438
-                }, 
-                "state_code": "CA"
+                "location": {
+                    "cross_streets": "18th St & Clarion Aly", 
+                    "city": "San Francisco", 
+                    "display_address": [
+                        "2154 Mission St", 
+                        "(b/t 18th St & Clarion Aly)", 
+                        "Mission", 
+                        "San Francisco, CA 94110"
+                    ], 
+                    "geo_accuracy": 8, 
+                    "neighborhoods": [
+                        "Mission"
+                    ], 
+                    "postal_code": "94110", 
+                    "country_code": "US", 
+                    "address": [
+                        "2154 Mission St"
+                    ], 
+                    "coordinate": {
+                        "latitude": 37.762511, 
+                        "longitude": -122.419438
+                    }, 
+                    "state_code": "CA"
+                }
             }
         }, 
         {
-            "rating_img_url_small": "http://media3.px.yelpcdn.com/static/20101216418129184/i/ico/stars/stars_small_4.png", 
-            "mobile_url": "http://mobile.yelp.com/biz/XKj8_4QdoBMeYcg6OoespA", 
-            "rating_img_url": "http://media1.ct.yelpcdn.com/static/201012164084228337/i/ico/stars/stars_4.png", 
-            "review_count": 120, 
-            "name": "Enjoy Vegetarian Restaurant", 
-            "url": "http://www.yelp.com/biz/enjoy-vegetarian-restaurant-san-francisco-2", 
-            "phone": "4159567868", 
-            "snippet_text": "Thanks to the Yelp application I found this fabulous vegetarian restaurant near my hotel. I went here last night because my body was craving some nourishing...", 
-            "image_url": "http://media1.ct.yelpcdn.com/bphoto/U6LGpVaQ1z4TRtlV9bNRwA/ms", 
-            "categories": [
-                [
-                    "Vegan", 
-                    "vegan"
-                ], 
-                [
-                    "Vegetarian", 
-                    "vegetarian"
-                ], 
-                [
-                    "Chinese", 
-                    "chinese"
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.4050772, 
+                    37.7958726
                 ]
-            ], 
-            "display_phone": "+1-415-956-7868", 
+            }, 
             "id": "enjoy-vegetarian-restaurant-san-francisco-2", 
-            "snippet_image_url": "http://media3.ct.yelpcdn.com/photo/Q6ZfSrPISXVynSj8iS-DUQ/ms", 
-            "location": {
-                "cross_streets": "Washington St", 
-                "city": "San Francisco", 
-                "display_address": [
-                    "839 Kearny St", 
-                    "(b/t Washington St)", 
-                    "Financial District", 
-                    "San Francisco, CA 94108"
+            "properties": {
+                "rating_img_url_small": "http://media3.px.yelpcdn.com/static/20101216418129184/i/ico/stars/stars_small_4.png", 
+                "mobile_url": "http://mobile.yelp.com/biz/XKj8_4QdoBMeYcg6OoespA", 
+                "rating_img_url": "http://media1.ct.yelpcdn.com/static/201012164084228337/i/ico/stars/stars_4.png", 
+                "review_count": 120, 
+                "name": "Enjoy Vegetarian Restaurant", 
+                "url": "http://www.yelp.com/biz/enjoy-vegetarian-restaurant-san-francisco-2", 
+                "price": 1, 
+                "phone": "4159567868", 
+                "snippet_text": "Thanks to the Yelp application I found this fabulous vegetarian restaurant near my hotel. I went here last night because my body was craving some nourishing...", 
+                "image_url": "http://media1.ct.yelpcdn.com/bphoto/U6LGpVaQ1z4TRtlV9bNRwA/ms", 
+                "snippet_image_url": "http://media3.ct.yelpcdn.com/photo/Q6ZfSrPISXVynSj8iS-DUQ/ms", 
+                "display_phone": "+1-415-956-7868", 
+                "id": "enjoy-vegetarian-restaurant-san-francisco-2", 
+                "categories": [
+                    [
+                        "Vegan", 
+                        "vegan"
+                    ], 
+                    [
+                        "Vegetarian", 
+                        "vegetarian"
+                    ], 
+                    [
+                        "Chinese", 
+                        "chinese"
+                    ]
                 ], 
-                "geo_accuracy": 8, 
-                "neighborhoods": [
-                    "Financial District"
-                ], 
-                "postal_code": "94108", 
-                "country_code": "US", 
-                "address": [
-                    "839 Kearny St"
-                ], 
-                "coordinate": {
-                    "latitude": 37.7958726, 
-                    "longitude": -122.4050772
-                }, 
-                "state_code": "CA"
+                "location": {
+                    "cross_streets": "Washington St", 
+                    "city": "San Francisco", 
+                    "display_address": [
+                        "839 Kearny St", 
+                        "(b/t Washington St)", 
+                        "Financial District", 
+                        "San Francisco, CA 94108"
+                    ], 
+                    "geo_accuracy": 8, 
+                    "neighborhoods": [
+                        "Financial District"
+                    ], 
+                    "postal_code": "94108", 
+                    "country_code": "US", 
+                    "address": [
+                        "839 Kearny St"
+                    ], 
+                    "coordinate": {
+                        "latitude": 37.7958726, 
+                        "longitude": -122.4050772
+                    }, 
+                    "state_code": "CA"
+                }
             }
         }, 
         {
-            "rating_img_url_small": "http://media3.px.yelpcdn.com/static/20101216418129184/i/ico/stars/stars_small_4.png", 
-            "mobile_url": "http://mobile.yelp.com/biz/29lhGyTOtiWGkLCWDJZZFg", 
-            "rating_img_url": "http://media1.ct.yelpcdn.com/static/201012164084228337/i/ico/stars/stars_4.png", 
-            "review_count": 626, 
-            "name": "Cha-Ya Vegetarian Japanese Restaurant", 
-            "url": "http://www.yelp.com/biz/cha-ya-vegetarian-japanese-restaurant-san-francisco", 
-            "phone": "4152527825", 
-            "snippet_text": "Lots of tastiness in Cha Ya -- their warm tofu cream is one of my comfort foods.  They have the best dairy-free ice cream I've ever had.  It's so creamy...", 
-            "image_url": "http://media4.ct.yelpcdn.com/bphoto/HsicmarKLCPJ49mMixwXfA/ms", 
-            "categories": [
-                [
-                    "Vegan", 
-                    "vegan"
-                ], 
-                [
-                    "Japanese", 
-                    "japanese"
-                ], 
-                [
-                    "Vegetarian", 
-                    "vegetarian"
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.4216794, 
+                    37.7607525
                 ]
-            ], 
-            "display_phone": "+1-415-252-7825", 
+            }, 
             "id": "cha-ya-vegetarian-japanese-restaurant-san-francisco", 
-            "snippet_image_url": "http://media1.px.yelpcdn.com/photo/DOSsKvanMfLVraOOBJtuNg/ms", 
-            "location": {
-                "cross_streets": "18th St & 19th St", 
-                "city": "San Francisco", 
-                "display_address": [
-                    "762 Valencia St", 
-                    "(b/t 18th St & 19th St)", 
-                    "Mission", 
-                    "San Francisco, CA 94110"
+            "properties": {
+                "rating_img_url_small": "http://media3.px.yelpcdn.com/static/20101216418129184/i/ico/stars/stars_small_4.png", 
+                "mobile_url": "http://mobile.yelp.com/biz/29lhGyTOtiWGkLCWDJZZFg", 
+                "rating_img_url": "http://media1.ct.yelpcdn.com/static/201012164084228337/i/ico/stars/stars_4.png", 
+                "review_count": 626, 
+                "name": "Cha-Ya Vegetarian Japanese Restaurant", 
+                "url": "http://www.yelp.com/biz/cha-ya-vegetarian-japanese-restaurant-san-francisco", 
+                "price": 2, 
+                "phone": "4152527825", 
+                "snippet_text": "Lots of tastiness in Cha Ya -- their warm tofu cream is one of my comfort foods.  They have the best dairy-free ice cream I've ever had.  It's so creamy...", 
+                "image_url": "http://media4.ct.yelpcdn.com/bphoto/HsicmarKLCPJ49mMixwXfA/ms", 
+                "snippet_image_url": "http://media1.px.yelpcdn.com/photo/DOSsKvanMfLVraOOBJtuNg/ms", 
+                "display_phone": "+1-415-252-7825", 
+                "id": "cha-ya-vegetarian-japanese-restaurant-san-francisco", 
+                "categories": [
+                    [
+                        "Vegan", 
+                        "vegan"
+                    ], 
+                    [
+                        "Japanese", 
+                        "japanese"
+                    ], 
+                    [
+                        "Vegetarian", 
+                        "vegetarian"
+                    ]
                 ], 
-                "geo_accuracy": 8, 
-                "neighborhoods": [
-                    "Mission"
-                ], 
-                "postal_code": "94110", 
-                "country_code": "US", 
-                "address": [
-                    "762 Valencia St"
-                ], 
-                "coordinate": {
-                    "latitude": 37.7607525, 
-                    "longitude": -122.4216794
-                }, 
-                "state_code": "CA"
+                "location": {
+                    "cross_streets": "18th St & 19th St", 
+                    "city": "San Francisco", 
+                    "display_address": [
+                        "762 Valencia St", 
+                        "(b/t 18th St & 19th St)", 
+                        "Mission", 
+                        "San Francisco, CA 94110"
+                    ], 
+                    "geo_accuracy": 8, 
+                    "neighborhoods": [
+                        "Mission"
+                    ], 
+                    "postal_code": "94110", 
+                    "country_code": "US", 
+                    "address": [
+                        "762 Valencia St"
+                    ], 
+                    "coordinate": {
+                        "latitude": 37.7607525, 
+                        "longitude": -122.4216794
+                    }, 
+                    "state_code": "CA"
+                }
             }
         }, 
         {
-            "rating_img_url_small": "http://media3.px.yelpcdn.com/static/20101216418129184/i/ico/stars/stars_small_4.png", 
-            "mobile_url": "http://mobile.yelp.com/biz/WLqqZYTeo6wFXuCFtlweqA", 
-            "rating_img_url": "http://media1.ct.yelpcdn.com/static/201012164084228337/i/ico/stars/stars_4.png", 
-            "review_count": 946, 
-            "name": "Patxi's Chicago Pizza", 
-            "url": "http://www.yelp.com/biz/patxis-chicago-pizza-san-francisco", 
-            "phone": "4155589991", 
-            "snippet_text": "MMM...so tasty...\n\nI love this place.\nI've been here couple of times and it has been great every time!\n\nWe were planning to try a new cafe in Hayes Valley...", 
-            "image_url": "http://media3.px.yelpcdn.com/bphoto/IQ42r27ZgzDMKs3kzkVWBw/ms", 
-            "categories": [
-                [
-                    "Vegan", 
-                    "vegan"
-                ], 
-                [
-                    "Pizza", 
-                    "pizza"
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.425003, 
+                    37.7764359
                 ]
-            ], 
-            "display_phone": "+1-415-558-9991", 
+            }, 
             "id": "patxis-chicago-pizza-san-francisco", 
-            "snippet_image_url": "http://media1.px.yelpcdn.com/photo/_-_YzEBGIkLreXGy-NC2Ig/ms", 
-            "location": {
-                "cross_streets": "Octavia St & Laguna St", 
-                "city": "San Francisco", 
-                "display_address": [
-                    "511 Hayes St", 
-                    "(b/t Octavia St & Laguna St)", 
-                    "Hayes Valley", 
-                    "San Francisco, CA 94102"
+            "properties": {
+                "rating_img_url_small": "http://media3.px.yelpcdn.com/static/20101216418129184/i/ico/stars/stars_small_4.png", 
+                "mobile_url": "http://mobile.yelp.com/biz/WLqqZYTeo6wFXuCFtlweqA", 
+                "rating_img_url": "http://media1.ct.yelpcdn.com/static/201012164084228337/i/ico/stars/stars_4.png", 
+                "review_count": 946, 
+                "name": "Patxi's Chicago Pizza", 
+                "url": "http://www.yelp.com/biz/patxis-chicago-pizza-san-francisco", 
+                "price": 2, 
+                "phone": "4155589991", 
+                "snippet_text": "MMM...so tasty...\n\nI love this place.\nI've been here couple of times and it has been great every time!\n\nWe were planning to try a new cafe in Hayes Valley...", 
+                "image_url": "http://media3.px.yelpcdn.com/bphoto/IQ42r27ZgzDMKs3kzkVWBw/ms", 
+                "snippet_image_url": "http://media1.px.yelpcdn.com/photo/_-_YzEBGIkLreXGy-NC2Ig/ms", 
+                "display_phone": "+1-415-558-9991", 
+                "id": "patxis-chicago-pizza-san-francisco", 
+                "categories": [
+                    [
+                        "Vegan", 
+                        "vegan"
+                    ], 
+                    [
+                        "Pizza", 
+                        "pizza"
+                    ]
                 ], 
-                "geo_accuracy": 8, 
-                "neighborhoods": [
-                    "Hayes Valley"
-                ], 
-                "postal_code": "94102", 
-                "country_code": "US", 
-                "address": [
-                    "511 Hayes St"
-                ], 
-                "coordinate": {
-                    "latitude": 37.7764359, 
-                    "longitude": -122.425003
-                }, 
-                "state_code": "CA"
+                "location": {
+                    "cross_streets": "Octavia St & Laguna St", 
+                    "city": "San Francisco", 
+                    "display_address": [
+                        "511 Hayes St", 
+                        "(b/t Octavia St & Laguna St)", 
+                        "Hayes Valley", 
+                        "San Francisco, CA 94102"
+                    ], 
+                    "geo_accuracy": 8, 
+                    "neighborhoods": [
+                        "Hayes Valley"
+                    ], 
+                    "postal_code": "94102", 
+                    "country_code": "US", 
+                    "address": [
+                        "511 Hayes St"
+                    ], 
+                    "coordinate": {
+                        "latitude": 37.7764359, 
+                        "longitude": -122.425003
+                    }, 
+                    "state_code": "CA"
+                }
             }
         }, 
         {
-            "rating_img_url_small": "http://media3.px.yelpcdn.com/static/20101216418129184/i/ico/stars/stars_small_4.png", 
-            "mobile_url": "http://mobile.yelp.com/biz/JoH_yAdSZRSqh-QvpDjxfw", 
-            "rating_img_url": "http://media1.ct.yelpcdn.com/static/201012164084228337/i/ico/stars/stars_4.png", 
-            "review_count": 96, 
-            "name": "Sun Rise Restaurant", 
-            "url": "http://www.yelp.com/biz/sun-rise-restaurant-san-francisco-2", 
-            "phone": "4152061219", 
-            "snippet_text": "I went to Sun Rise Restaurant immediately after I arrived in San Francisco. It was one of the first places that popped up when I searched \"vegan breakfast\"...", 
-            "image_url": "http://media1.px.yelpcdn.com/bphoto/_x2uVK9sgyZTzEBym_fDBg/ms", 
-            "categories": [
-                [
-                    "Vegan", 
-                    "vegan"
-                ], 
-                [
-                    "Latin American", 
-                    "latin"
-                ], 
-                [
-                    "Breakfast & Brunch", 
-                    "breakfast_brunch"
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.414703, 
+                    37.752701
                 ]
-            ], 
-            "display_phone": "+1-415-206-1219", 
+            }, 
             "id": "sun-rise-restaurant-san-francisco-2", 
-            "snippet_image_url": "http://media3.ct.yelpcdn.com/photo/zWPl3pBI-oNithKn3ihclw/ms", 
-            "location": {
-                "cross_streets": "Folsom St & Shotwell St", 
-                "city": "San Francisco", 
-                "display_address": [
-                    "3126 24th St", 
-                    "(b/t Folsom St & Shotwell St)", 
-                    "Mission", 
-                    "San Francisco, CA 94110"
+            "properties": {
+                "rating_img_url_small": "http://media3.px.yelpcdn.com/static/20101216418129184/i/ico/stars/stars_small_4.png", 
+                "mobile_url": "http://mobile.yelp.com/biz/JoH_yAdSZRSqh-QvpDjxfw", 
+                "rating_img_url": "http://media1.ct.yelpcdn.com/static/201012164084228337/i/ico/stars/stars_4.png", 
+                "review_count": 96, 
+                "name": "Sun Rise Restaurant", 
+                "url": "http://www.yelp.com/biz/sun-rise-restaurant-san-francisco-2", 
+                "price": 1, 
+                "phone": "4152061219", 
+                "snippet_text": "I went to Sun Rise Restaurant immediately after I arrived in San Francisco. It was one of the first places that popped up when I searched \"vegan breakfast\"...", 
+                "image_url": "http://media1.px.yelpcdn.com/bphoto/_x2uVK9sgyZTzEBym_fDBg/ms", 
+                "snippet_image_url": "http://media3.ct.yelpcdn.com/photo/zWPl3pBI-oNithKn3ihclw/ms", 
+                "display_phone": "+1-415-206-1219", 
+                "id": "sun-rise-restaurant-san-francisco-2", 
+                "categories": [
+                    [
+                        "Vegan", 
+                        "vegan"
+                    ], 
+                    [
+                        "Latin American", 
+                        "latin"
+                    ], 
+                    [
+                        "Breakfast & Brunch", 
+                        "breakfast_brunch"
+                    ]
                 ], 
-                "geo_accuracy": 8, 
-                "neighborhoods": [
-                    "Mission"
-                ], 
-                "postal_code": "94110", 
-                "country_code": "US", 
-                "address": [
-                    "3126 24th St"
-                ], 
-                "coordinate": {
-                    "latitude": 37.752701, 
-                    "longitude": -122.414703
-                }, 
-                "state_code": "CA"
+                "location": {
+                    "cross_streets": "Folsom St & Shotwell St", 
+                    "city": "San Francisco", 
+                    "display_address": [
+                        "3126 24th St", 
+                        "(b/t Folsom St & Shotwell St)", 
+                        "Mission", 
+                        "San Francisco, CA 94110"
+                    ], 
+                    "geo_accuracy": 8, 
+                    "neighborhoods": [
+                        "Mission"
+                    ], 
+                    "postal_code": "94110", 
+                    "country_code": "US", 
+                    "address": [
+                        "3126 24th St"
+                    ], 
+                    "coordinate": {
+                        "latitude": 37.752701, 
+                        "longitude": -122.414703
+                    }, 
+                    "state_code": "CA"
+                }
             }
         }, 
         {
-            "rating_img_url_small": "http://media3.px.yelpcdn.com/static/20101216418129184/i/ico/stars/stars_small_4.png", 
-            "mobile_url": "http://mobile.yelp.com/biz/NoxxbgVp7ilvMm6O9FX9hA", 
-            "rating_img_url": "http://media1.ct.yelpcdn.com/static/201012164084228337/i/ico/stars/stars_4.png", 
-            "review_count": 118, 
-            "name": "Loving Hut", 
-            "url": "http://www.yelp.com/biz/loving-hut-san-francisco", 
-            "snippet_text": "I always enter the food court from the Mission St. entrance so I can walk through Bloomingdales. Not because I would actually buy anything, but to imagine...", 
-            "image_url": "http://media3.px.yelpcdn.com/bphoto/2uD7uVkFn37LghXBj0AI2g/ms", 
-            "categories": [
-                [
-                    "Vegan", 
-                    "vegan"
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.406176, 
+                    37.784219
                 ]
-            ], 
+            }, 
             "id": "loving-hut-san-francisco", 
-            "snippet_image_url": "http://media1.px.yelpcdn.com/photo/74oLt2s0lKfzXNVR3WBIEA/ms", 
-            "location": {
-                "city": "San Francisco", 
-                "display_address": [
-                    "Westfield San Francisco Centre", 
-                    "845 Market St", 
-                    "Union Square", 
-                    "San Francisco, CA 94103"
+            "properties": {
+                "rating_img_url_small": "http://media3.px.yelpcdn.com/static/20101216418129184/i/ico/stars/stars_small_4.png", 
+                "mobile_url": "http://mobile.yelp.com/biz/NoxxbgVp7ilvMm6O9FX9hA", 
+                "rating_img_url": "http://media1.ct.yelpcdn.com/static/201012164084228337/i/ico/stars/stars_4.png", 
+                "review_count": 118, 
+                "name": "Loving Hut", 
+                "url": "http://www.yelp.com/biz/loving-hut-san-francisco", 
+                "price": 1, 
+                "snippet_text": "I always enter the food court from the Mission St. entrance so I can walk through Bloomingdales. Not because I would actually buy anything, but to imagine...", 
+                "image_url": "http://media3.px.yelpcdn.com/bphoto/2uD7uVkFn37LghXBj0AI2g/ms", 
+                "snippet_image_url": "http://media1.px.yelpcdn.com/photo/74oLt2s0lKfzXNVR3WBIEA/ms", 
+                "id": "loving-hut-san-francisco", 
+                "categories": [
+                    [
+                        "Vegan", 
+                        "vegan"
+                    ]
                 ], 
-                "geo_accuracy": 8, 
-                "neighborhoods": [
-                    "Union Square", 
-                    "SOMA"
-                ], 
-                "postal_code": "94103", 
-                "country_code": "US", 
-                "address": [
-                    "Westfield San Francisco Centre", 
-                    "845 Market St"
-                ], 
-                "coordinate": {
-                    "latitude": 37.784219, 
-                    "longitude": -122.406176
-                }, 
-                "state_code": "CA"
+                "location": {
+                    "city": "San Francisco", 
+                    "display_address": [
+                        "Westfield San Francisco Centre", 
+                        "845 Market St", 
+                        "Union Square", 
+                        "San Francisco, CA 94103"
+                    ], 
+                    "geo_accuracy": 8, 
+                    "neighborhoods": [
+                        "Union Square", 
+                        "SOMA"
+                    ], 
+                    "postal_code": "94103", 
+                    "country_code": "US", 
+                    "address": [
+                        "Westfield San Francisco Centre", 
+                        "845 Market St"
+                    ], 
+                    "coordinate": {
+                        "latitude": 37.784219, 
+                        "longitude": -122.406176
+                    }, 
+                    "state_code": "CA"
+                }
             }
         }, 
         {
-            "rating_img_url_small": "http://media3.px.yelpcdn.com/static/20101216418129184/i/ico/stars/stars_small_4.png", 
-            "mobile_url": "http://mobile.yelp.com/biz/8vcAom6ab4XCb1Kajo4W2A", 
-            "rating_img_url": "http://media1.ct.yelpcdn.com/static/201012164084228337/i/ico/stars/stars_4.png", 
-            "review_count": 93, 
-            "name": "Bang San Thai Cuisine", 
-            "url": "http://www.yelp.com/biz/bang-san-thai-cuisine-san-francisco-2", 
-            "phone": "4159282772", 
-            "snippet_text": "We all knew the warm sunny weather wouldn't last, and I had the not so good fortune of being outside when the skies unleashed and reminded us all that yes,...", 
-            "image_url": "http://media2.ct.yelpcdn.com/bphoto/avQnn6wmpIpb4B0nUptPbg/ms", 
-            "categories": [
-                [
-                    "Vegan", 
-                    "vegan"
-                ], 
-                [
-                    "Thai", 
-                    "thai"
-                ], 
-                [
-                    "Halal", 
-                    "halal"
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.4177019, 
+                    37.7851125
                 ]
-            ], 
-            "display_phone": "+1-415-928-2772", 
+            }, 
             "id": "bang-san-thai-cuisine-san-francisco-2", 
-            "snippet_image_url": "http://media4.px.yelpcdn.com/photo/jq5SuA2OcDt85VSPld0mMg/ms", 
-            "location": {
-                "cross_streets": "Hyde St & Larkin St", 
-                "city": "San Francisco", 
-                "display_address": [
-                    "791 O'Farrell St", 
-                    "(b/t Hyde St & Larkin St)", 
-                    "Civic Center/Tenderloin", 
-                    "San Francisco, CA 94109"
+            "properties": {
+                "rating_img_url_small": "http://media3.px.yelpcdn.com/static/20101216418129184/i/ico/stars/stars_small_4.png", 
+                "mobile_url": "http://mobile.yelp.com/biz/8vcAom6ab4XCb1Kajo4W2A", 
+                "rating_img_url": "http://media1.ct.yelpcdn.com/static/201012164084228337/i/ico/stars/stars_4.png", 
+                "review_count": 93, 
+                "name": "Bang San Thai Cuisine", 
+                "url": "http://www.yelp.com/biz/bang-san-thai-cuisine-san-francisco-2", 
+                "price": 1, 
+                "phone": "4159282772", 
+                "snippet_text": "We all knew the warm sunny weather wouldn't last, and I had the not so good fortune of being outside when the skies unleashed and reminded us all that yes,...", 
+                "image_url": "http://media2.ct.yelpcdn.com/bphoto/avQnn6wmpIpb4B0nUptPbg/ms", 
+                "snippet_image_url": "http://media4.px.yelpcdn.com/photo/jq5SuA2OcDt85VSPld0mMg/ms", 
+                "display_phone": "+1-415-928-2772", 
+                "id": "bang-san-thai-cuisine-san-francisco-2", 
+                "categories": [
+                    [
+                        "Vegan", 
+                        "vegan"
+                    ], 
+                    [
+                        "Thai", 
+                        "thai"
+                    ], 
+                    [
+                        "Halal", 
+                        "halal"
+                    ]
                 ], 
-                "geo_accuracy": 8, 
-                "neighborhoods": [
-                    "Civic Center/Tenderloin"
-                ], 
-                "postal_code": "94109", 
-                "country_code": "US", 
-                "address": [
-                    "791 O'Farrell St"
-                ], 
-                "coordinate": {
-                    "latitude": 37.7851125, 
-                    "longitude": -122.4177019
-                }, 
-                "state_code": "CA"
+                "location": {
+                    "cross_streets": "Hyde St & Larkin St", 
+                    "city": "San Francisco", 
+                    "display_address": [
+                        "791 O'Farrell St", 
+                        "(b/t Hyde St & Larkin St)", 
+                        "Civic Center/Tenderloin", 
+                        "San Francisco, CA 94109"
+                    ], 
+                    "geo_accuracy": 8, 
+                    "neighborhoods": [
+                        "Civic Center/Tenderloin"
+                    ], 
+                    "postal_code": "94109", 
+                    "country_code": "US", 
+                    "address": [
+                        "791 O'Farrell St"
+                    ], 
+                    "coordinate": {
+                        "latitude": 37.7851125, 
+                        "longitude": -122.4177019
+                    }, 
+                    "state_code": "CA"
+                }
             }
         }, 
         {
-            "rating_img_url_small": "http://media3.px.yelpcdn.com/static/20101216418129184/i/ico/stars/stars_small_4.png", 
-            "mobile_url": "http://mobile.yelp.com/biz/5Mqsd52IEJtV9dUJAhcTlQ", 
-            "rating_img_url": "http://media1.ct.yelpcdn.com/static/201012164084228337/i/ico/stars/stars_4.png", 
-            "review_count": 238, 
-            "name": "Lucky Creation Vegetarian Restaurant", 
-            "url": "http://www.yelp.com/biz/lucky-creation-vegetarian-restaurant-san-francisco", 
-            "phone": "4159890818", 
-            "snippet_text": "Oh my heavens, the food was fantastic! We got the sweet & sour pork, lemon chicken, braised bean curd with vegetables, braised eggplant with bean curd...", 
-            "image_url": "http://media3.ct.yelpcdn.com/bphoto/m5t4XtjiAahbJ1_1ILYENA/ms", 
-            "categories": [
-                [
-                    "Vegan", 
-                    "vegan"
-                ], 
-                [
-                    "Vegetarian", 
-                    "vegetarian"
-                ], 
-                [
-                    "Chinese", 
-                    "chinese"
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.407488, 
+                    37.795061
                 ]
-            ], 
-            "display_phone": "+1-415-989-0818", 
+            }, 
             "id": "lucky-creation-vegetarian-restaurant-san-francisco", 
-            "snippet_image_url": "http://media4.ct.yelpcdn.com/photo/0yGiz42DW-lxyiElocaPjg/ms", 
-            "location": {
-                "cross_streets": "Old Chinatown Ln & Ross Aly", 
-                "city": "San Francisco", 
-                "display_address": [
-                    "854 Washington St", 
-                    "(b/t Old Chinatown Ln & Ross Aly)", 
-                    "Chinatown", 
-                    "San Francisco, CA 94108"
+            "properties": {
+                "rating_img_url_small": "http://media3.px.yelpcdn.com/static/20101216418129184/i/ico/stars/stars_small_4.png", 
+                "mobile_url": "http://mobile.yelp.com/biz/5Mqsd52IEJtV9dUJAhcTlQ", 
+                "rating_img_url": "http://media1.ct.yelpcdn.com/static/201012164084228337/i/ico/stars/stars_4.png", 
+                "review_count": 238, 
+                "name": "Lucky Creation Vegetarian Restaurant", 
+                "url": "http://www.yelp.com/biz/lucky-creation-vegetarian-restaurant-san-francisco", 
+                "price": 1, 
+                "phone": "4159890818", 
+                "snippet_text": "Oh my heavens, the food was fantastic! We got the sweet & sour pork, lemon chicken, braised bean curd with vegetables, braised eggplant with bean curd...", 
+                "image_url": "http://media3.ct.yelpcdn.com/bphoto/m5t4XtjiAahbJ1_1ILYENA/ms", 
+                "snippet_image_url": "http://media4.ct.yelpcdn.com/photo/0yGiz42DW-lxyiElocaPjg/ms", 
+                "display_phone": "+1-415-989-0818", 
+                "id": "lucky-creation-vegetarian-restaurant-san-francisco", 
+                "categories": [
+                    [
+                        "Vegan", 
+                        "vegan"
+                    ], 
+                    [
+                        "Vegetarian", 
+                        "vegetarian"
+                    ], 
+                    [
+                        "Chinese", 
+                        "chinese"
+                    ]
                 ], 
-                "geo_accuracy": 8, 
-                "neighborhoods": [
-                    "Chinatown"
-                ], 
-                "postal_code": "94108", 
-                "country_code": "US", 
-                "address": [
-                    "854 Washington St"
-                ], 
-                "coordinate": {
-                    "latitude": 37.795061, 
-                    "longitude": -122.407488
-                }, 
-                "state_code": "CA"
+                "location": {
+                    "cross_streets": "Old Chinatown Ln & Ross Aly", 
+                    "city": "San Francisco", 
+                    "display_address": [
+                        "854 Washington St", 
+                        "(b/t Old Chinatown Ln & Ross Aly)", 
+                        "Chinatown", 
+                        "San Francisco, CA 94108"
+                    ], 
+                    "geo_accuracy": 8, 
+                    "neighborhoods": [
+                        "Chinatown"
+                    ], 
+                    "postal_code": "94108", 
+                    "country_code": "US", 
+                    "address": [
+                        "854 Washington St"
+                    ], 
+                    "coordinate": {
+                        "latitude": 37.795061, 
+                        "longitude": -122.407488
+                    }, 
+                    "state_code": "CA"
+                }
             }
         }, 
         {
-            "rating_img_url_small": "http://media3.px.yelpcdn.com/static/20101216418129184/i/ico/stars/stars_small_4.png", 
-            "mobile_url": "http://mobile.yelp.com/biz/e_7sEw9FevaRkgyFy4S_eA", 
-            "rating_img_url": "http://media1.ct.yelpcdn.com/static/201012164084228337/i/ico/stars/stars_4.png", 
-            "review_count": 8, 
-            "name": "Sausage Party!", 
-            "url": "http://www.yelp.com/biz/sausage-party-san-francisco", 
-            "snippet_text": "5 stars - SF 'oddity', local culture, vegan grrls\n\nIf you decide to spend the afternoon at the park in SF find the Sausage Party girls to find the finest...", 
-            "image_url": "http://media2.px.yelpcdn.com/bphoto/oTHPeXi0Z9KdbeKqhXHGiA/ms", 
-            "categories": [
-                [
-                    "Vegan", 
-                    "vegan"
-                ], 
-                [
-                    "Hot Dogs", 
-                    "hotdog"
-                ], 
-                [
-                    "Vegetarian", 
-                    "vegetarian"
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.426962852478, 
+                    37.7597555973496
                 ]
-            ], 
+            }, 
             "id": "sausage-party-san-francisco", 
-            "snippet_image_url": "http://media1.px.yelpcdn.com/photo/-TFVkI4d8xTxFLI_7ashxA/ms", 
-            "location": {
-                "city": "San Francisco", 
-                "display_address": [
-                    "Mission Dolores Park", 
-                    "Castro", 
-                    "San Francisco, CA 94114"
+            "properties": {
+                "rating_img_url_small": "http://media3.px.yelpcdn.com/static/20101216418129184/i/ico/stars/stars_small_4.png", 
+                "mobile_url": "http://mobile.yelp.com/biz/e_7sEw9FevaRkgyFy4S_eA", 
+                "rating_img_url": "http://media1.ct.yelpcdn.com/static/201012164084228337/i/ico/stars/stars_4.png", 
+                "review_count": 8, 
+                "name": "Sausage Party!", 
+                "url": "http://www.yelp.com/biz/sausage-party-san-francisco", 
+                "price": 1, 
+                "snippet_text": "5 stars - SF 'oddity', local culture, vegan grrls\n\nIf you decide to spend the afternoon at the park in SF find the Sausage Party girls to find the finest...", 
+                "image_url": "http://media2.px.yelpcdn.com/bphoto/oTHPeXi0Z9KdbeKqhXHGiA/ms", 
+                "snippet_image_url": "http://media1.px.yelpcdn.com/photo/-TFVkI4d8xTxFLI_7ashxA/ms", 
+                "id": "sausage-party-san-francisco", 
+                "categories": [
+                    [
+                        "Vegan", 
+                        "vegan"
+                    ], 
+                    [
+                        "Hot Dogs", 
+                        "hotdog"
+                    ], 
+                    [
+                        "Vegetarian", 
+                        "vegetarian"
+                    ]
                 ], 
-                "geo_accuracy": 9, 
-                "neighborhoods": [
-                    "Castro"
-                ], 
-                "postal_code": "94114", 
-                "country_code": "US", 
-                "address": [
-                    "Mission Dolores Park"
-                ], 
-                "coordinate": {
-                    "latitude": 37.7597555973496, 
-                    "longitude": -122.426962852478
-                }, 
-                "state_code": "CA"
+                "location": {
+                    "city": "San Francisco", 
+                    "display_address": [
+                        "Mission Dolores Park", 
+                        "Castro", 
+                        "San Francisco, CA 94114"
+                    ], 
+                    "geo_accuracy": 9, 
+                    "neighborhoods": [
+                        "Castro"
+                    ], 
+                    "postal_code": "94114", 
+                    "country_code": "US", 
+                    "address": [
+                        "Mission Dolores Park"
+                    ], 
+                    "coordinate": {
+                        "latitude": 37.7597555973496, 
+                        "longitude": -122.426962852478
+                    }, 
+                    "state_code": "CA"
+                }
             }
         }, 
         {
-            "rating_img_url_small": "http://media1.ct.yelpcdn.com/static/201012163952475669/i/ico/stars/stars_small_3_half.png", 
-            "mobile_url": "http://mobile.yelp.com/biz/i7tYheZmUBrVmosfMCyooA", 
-            "rating_img_url": "http://media3.px.yelpcdn.com/static/201012161235323114/i/ico/stars/stars_3_half.png", 
-            "review_count": 154, 
-            "name": "The Loving Hut", 
-            "url": "http://www.yelp.com/biz/the-loving-hut-san-francisco", 
-            "phone": "4153622199", 
-            "snippet_text": "The food was great. I could not have asked for a better place to enjoy Asian food, vegetarian style. My husband enjoyed the buffet, I ordered the PHO and it...", 
-            "image_url": "http://media3.px.yelpcdn.com/bphoto/CAveDmi9tYg3Gbs9VVnm2Q/ms", 
-            "categories": [
-                [
-                    "Vegan", 
-                    "vegan"
-                ], 
-                [
-                    "Asian Fusion", 
-                    "asianfusion"
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.4087672, 
+                    37.7984329
                 ]
-            ], 
-            "display_phone": "+1-415-362-2199", 
+            }, 
             "id": "the-loving-hut-san-francisco", 
-            "snippet_image_url": "http://media3.px.yelpcdn.com/photo/CV-XlNBXOUT8ASdeo8aDCA/ms", 
-            "location": {
-                "cross_streets": "Vallejo St", 
-                "city": "San Francisco", 
-                "display_address": [
-                    "1365 Stockton St", 
-                    "(b/t Vallejo St)", 
-                    "North Beach/Telegraph Hill", 
-                    "San Francisco, CA 94133"
+            "properties": {
+                "rating_img_url_small": "http://media1.ct.yelpcdn.com/static/201012163952475669/i/ico/stars/stars_small_3_half.png", 
+                "mobile_url": "http://mobile.yelp.com/biz/i7tYheZmUBrVmosfMCyooA", 
+                "rating_img_url": "http://media3.px.yelpcdn.com/static/201012161235323114/i/ico/stars/stars_3_half.png", 
+                "review_count": 154, 
+                "name": "The Loving Hut", 
+                "url": "http://www.yelp.com/biz/the-loving-hut-san-francisco", 
+                "price": 1, 
+                "phone": "4153622199", 
+                "snippet_text": "The food was great. I could not have asked for a better place to enjoy Asian food, vegetarian style. My husband enjoyed the buffet, I ordered the PHO and it...", 
+                "image_url": "http://media3.px.yelpcdn.com/bphoto/CAveDmi9tYg3Gbs9VVnm2Q/ms", 
+                "snippet_image_url": "http://media3.px.yelpcdn.com/photo/CV-XlNBXOUT8ASdeo8aDCA/ms", 
+                "display_phone": "+1-415-362-2199", 
+                "id": "the-loving-hut-san-francisco", 
+                "categories": [
+                    [
+                        "Vegan", 
+                        "vegan"
+                    ], 
+                    [
+                        "Asian Fusion", 
+                        "asianfusion"
+                    ]
                 ], 
-                "geo_accuracy": 8, 
-                "neighborhoods": [
-                    "North Beach/Telegraph Hill"
-                ], 
-                "postal_code": "94133", 
-                "country_code": "US", 
-                "address": [
-                    "1365 Stockton St"
-                ], 
-                "coordinate": {
-                    "latitude": 37.7984329, 
-                    "longitude": -122.4087672
-                }, 
-                "state_code": "CA"
+                "location": {
+                    "cross_streets": "Vallejo St", 
+                    "city": "San Francisco", 
+                    "display_address": [
+                        "1365 Stockton St", 
+                        "(b/t Vallejo St)", 
+                        "North Beach/Telegraph Hill", 
+                        "San Francisco, CA 94133"
+                    ], 
+                    "geo_accuracy": 8, 
+                    "neighborhoods": [
+                        "North Beach/Telegraph Hill"
+                    ], 
+                    "postal_code": "94133", 
+                    "country_code": "US", 
+                    "address": [
+                        "1365 Stockton St"
+                    ], 
+                    "coordinate": {
+                        "latitude": 37.7984329, 
+                        "longitude": -122.4087672
+                    }, 
+                    "state_code": "CA"
+                }
             }
         }, 
         {
-            "rating_img_url_small": "http://media4.ct.yelpcdn.com/static/201012161949604803/i/ico/stars/stars_small_5.png", 
-            "mobile_url": "http://mobile.yelp.com/biz/eiJ19iPsZZtH0IA-MnkXcA", 
-            "rating_img_url": "http://media2.px.yelpcdn.com/static/201012162578611207/i/ico/stars/stars_5.png", 
-            "review_count": 4, 
-            "name": "Tofu Yu", 
-            "url": "http://www.yelp.com/biz/tofu-yu-san-francisco", 
-            "phone": "5102049090", 
-            "snippet_text": "I LOVE TOFU!!! I was so excited when I heard about Tofu Yu.\nThe flavors are unique and delicious, and they're good for snacks too. \nMy favorites are the...", 
-            "image_url": "http://media1.ct.yelpcdn.com/bphoto/wj-3IpEcZ8YQwR6kSs5TZw/ms", 
-            "categories": [
-                [
-                    "Vegan", 
-                    "vegan"
-                ], 
-                [
-                    "Food Stands", 
-                    "foodstands"
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.476733, 
+                    37.729141
                 ]
-            ], 
-            "display_phone": "+1-510-204-9090", 
+            }, 
             "id": "tofu-yu-san-francisco", 
-            "snippet_image_url": "http://media2.px.yelpcdn.com/photo/IvL4FayIKv-1uOOeAqxnfA/ms", 
-            "location": {
-                "cross_streets": "Buckingham Way & Winston Dr", 
-                "city": "San Francisco", 
-                "display_address": [
-                    "3251 20th Ave", 
-                    "(b/t Buckingham Way & Winston Dr)", 
-                    "Lakeside", 
-                    "San Francisco, CA 94132"
+            "properties": {
+                "rating_img_url_small": "http://media4.ct.yelpcdn.com/static/201012161949604803/i/ico/stars/stars_small_5.png", 
+                "mobile_url": "http://mobile.yelp.com/biz/eiJ19iPsZZtH0IA-MnkXcA", 
+                "rating_img_url": "http://media2.px.yelpcdn.com/static/201012162578611207/i/ico/stars/stars_5.png", 
+                "review_count": 4, 
+                "name": "Tofu Yu", 
+                "url": "http://www.yelp.com/biz/tofu-yu-san-francisco", 
+                "price": 2, 
+                "phone": "5102049090", 
+                "snippet_text": "I LOVE TOFU!!! I was so excited when I heard about Tofu Yu.\nThe flavors are unique and delicious, and they're good for snacks too. \nMy favorites are the...", 
+                "image_url": "http://media1.ct.yelpcdn.com/bphoto/wj-3IpEcZ8YQwR6kSs5TZw/ms", 
+                "snippet_image_url": "http://media2.px.yelpcdn.com/photo/IvL4FayIKv-1uOOeAqxnfA/ms", 
+                "display_phone": "+1-510-204-9090", 
+                "id": "tofu-yu-san-francisco", 
+                "categories": [
+                    [
+                        "Vegan", 
+                        "vegan"
+                    ], 
+                    [
+                        "Food Stands", 
+                        "foodstands"
+                    ]
                 ], 
-                "geo_accuracy": 8, 
-                "neighborhoods": [
-                    "Lakeside"
-                ], 
-                "postal_code": "94132", 
-                "country_code": "US", 
-                "address": [
-                    "3251 20th Ave"
-                ], 
-                "coordinate": {
-                    "latitude": 37.729141, 
-                    "longitude": -122.476733
-                }, 
-                "state_code": "CA"
+                "location": {
+                    "cross_streets": "Buckingham Way & Winston Dr", 
+                    "city": "San Francisco", 
+                    "display_address": [
+                        "3251 20th Ave", 
+                        "(b/t Buckingham Way & Winston Dr)", 
+                        "Lakeside", 
+                        "San Francisco, CA 94132"
+                    ], 
+                    "geo_accuracy": 8, 
+                    "neighborhoods": [
+                        "Lakeside"
+                    ], 
+                    "postal_code": "94132", 
+                    "country_code": "US", 
+                    "address": [
+                        "3251 20th Ave"
+                    ], 
+                    "coordinate": {
+                        "latitude": 37.729141, 
+                        "longitude": -122.476733
+                    }, 
+                    "state_code": "CA"
+                }
             }
         }, 
         {
-            "rating_img_url_small": "http://media1.ct.yelpcdn.com/static/201012163952475669/i/ico/stars/stars_small_3_half.png", 
-            "mobile_url": "http://mobile.yelp.com/biz/PT_j8Sj6sIScFXo04UpXww", 
-            "rating_img_url": "http://media3.px.yelpcdn.com/static/201012161235323114/i/ico/stars/stars_3_half.png", 
-            "review_count": 124, 
-            "name": "Judahlicious", 
-            "url": "http://www.yelp.com/biz/judahlicious-san-francisco", 
-            "phone": "4156658423", 
-            "snippet_text": "Everything is amazing about this place.\nThe new decor and mural is beautiful AND the food is to die for.\n\nRaw vegan food at it's best. \nThe smoothies are...", 
-            "image_url": "http://media4.px.yelpcdn.com/bphoto/ljaFrX4z7JzJICtXoNYPrQ/ms", 
-            "categories": [
-                [
-                    "Vegan", 
-                    "vegan"
-                ], 
-                [
-                    "Ice Cream & Frozen Yogurt", 
-                    "icecream"
-                ], 
-                [
-                    "Juice Bars & Smoothies", 
-                    "juicebars"
-                ], 
-                [
-                    "Live/Raw Food", 
-                    "raw_food"
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.504083, 
+                    37.760685
                 ]
-            ], 
-            "display_phone": "+1-415-665-8423", 
+            }, 
             "id": "judahlicious-san-francisco", 
-            "snippet_image_url": "http://media3.ct.yelpcdn.com/photo/j28xfKAhOa8em4FLzffTbA/ms", 
-            "location": {
-                "cross_streets": "44th Ave & 45th Ave", 
-                "city": "San Francisco", 
-                "display_address": [
-                    "3906 Judah St", 
-                    "(b/t 44th Ave & 45th Ave)", 
-                    "Outer Sunset", 
-                    "San Francisco, CA 94122"
+            "properties": {
+                "rating_img_url_small": "http://media1.ct.yelpcdn.com/static/201012163952475669/i/ico/stars/stars_small_3_half.png", 
+                "mobile_url": "http://mobile.yelp.com/biz/PT_j8Sj6sIScFXo04UpXww", 
+                "rating_img_url": "http://media3.px.yelpcdn.com/static/201012161235323114/i/ico/stars/stars_3_half.png", 
+                "review_count": 124, 
+                "name": "Judahlicious", 
+                "url": "http://www.yelp.com/biz/judahlicious-san-francisco", 
+                "price": 2, 
+                "phone": "4156658423", 
+                "snippet_text": "Everything is amazing about this place.\nThe new decor and mural is beautiful AND the food is to die for.\n\nRaw vegan food at it's best. \nThe smoothies are...", 
+                "image_url": "http://media4.px.yelpcdn.com/bphoto/ljaFrX4z7JzJICtXoNYPrQ/ms", 
+                "snippet_image_url": "http://media3.ct.yelpcdn.com/photo/j28xfKAhOa8em4FLzffTbA/ms", 
+                "display_phone": "+1-415-665-8423", 
+                "id": "judahlicious-san-francisco", 
+                "categories": [
+                    [
+                        "Vegan", 
+                        "vegan"
+                    ], 
+                    [
+                        "Ice Cream & Frozen Yogurt", 
+                        "icecream"
+                    ], 
+                    [
+                        "Juice Bars & Smoothies", 
+                        "juicebars"
+                    ], 
+                    [
+                        "Live/Raw Food", 
+                        "raw_food"
+                    ]
                 ], 
-                "geo_accuracy": 8, 
-                "neighborhoods": [
-                    "Outer Sunset"
-                ], 
-                "postal_code": "94122", 
-                "country_code": "US", 
-                "address": [
-                    "3906 Judah St"
-                ], 
-                "coordinate": {
-                    "latitude": 37.760685, 
-                    "longitude": -122.504083
-                }, 
-                "state_code": "CA"
+                "location": {
+                    "cross_streets": "44th Ave & 45th Ave", 
+                    "city": "San Francisco", 
+                    "display_address": [
+                        "3906 Judah St", 
+                        "(b/t 44th Ave & 45th Ave)", 
+                        "Outer Sunset", 
+                        "San Francisco, CA 94122"
+                    ], 
+                    "geo_accuracy": 8, 
+                    "neighborhoods": [
+                        "Outer Sunset"
+                    ], 
+                    "postal_code": "94122", 
+                    "country_code": "US", 
+                    "address": [
+                        "3906 Judah St"
+                    ], 
+                    "coordinate": {
+                        "latitude": 37.760685, 
+                        "longitude": -122.504083
+                    }, 
+                    "state_code": "CA"
+                }
             }
         }, 
         {
-            "rating_img_url_small": "http://media1.ct.yelpcdn.com/static/201012163952475669/i/ico/stars/stars_small_3_half.png", 
-            "mobile_url": "http://mobile.yelp.com/biz/rQ8lUysrEPFTXqmqK4ASkQ", 
-            "rating_img_url": "http://media3.px.yelpcdn.com/static/201012161235323114/i/ico/stars/stars_3_half.png", 
-            "review_count": 47, 
-            "name": "Loving Hut", 
-            "url": "http://www.yelp.com/biz/loving-hut-san-francisco-2", 
-            "phone": "4157311957", 
-            "snippet_text": "The Loving Hut is very loving, ha! When my guy and I walked in we were greeted by some very nice cute nerdy boy's, they were at our beck and call the whole...", 
-            "image_url": "http://media1.px.yelpcdn.com/bphoto/TNiDRUxAkauorL2yE3r7pQ/ms", 
-            "categories": [
-                [
-                    "Vegan", 
-                    "vegan"
-                ], 
-                [
-                    "Asian Fusion", 
-                    "asianfusion"
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.4636205, 
+                    37.7642748
                 ]
-            ], 
-            "display_phone": "+1-415-731-1957", 
+            }, 
             "id": "loving-hut-san-francisco-2", 
-            "snippet_image_url": "http://media1.px.yelpcdn.com/photo/o4P0p_qENM8h7qFk5fpEhw/ms", 
-            "location": {
-                "cross_streets": "6th Ave & 7th Ave", 
-                "city": "San Francisco", 
-                "display_address": [
-                    "524 Irving St", 
-                    "(b/t 6th Ave & 7th Ave)", 
-                    "Inner Sunset", 
-                    "San Francisco, CA 94122"
+            "properties": {
+                "rating_img_url_small": "http://media1.ct.yelpcdn.com/static/201012163952475669/i/ico/stars/stars_small_3_half.png", 
+                "mobile_url": "http://mobile.yelp.com/biz/rQ8lUysrEPFTXqmqK4ASkQ", 
+                "rating_img_url": "http://media3.px.yelpcdn.com/static/201012161235323114/i/ico/stars/stars_3_half.png", 
+                "review_count": 47, 
+                "name": "Loving Hut", 
+                "url": "http://www.yelp.com/biz/loving-hut-san-francisco-2", 
+                "price": 1, 
+                "phone": "4157311957", 
+                "snippet_text": "The Loving Hut is very loving, ha! When my guy and I walked in we were greeted by some very nice cute nerdy boy's, they were at our beck and call the whole...", 
+                "image_url": "http://media1.px.yelpcdn.com/bphoto/TNiDRUxAkauorL2yE3r7pQ/ms", 
+                "snippet_image_url": "http://media1.px.yelpcdn.com/photo/o4P0p_qENM8h7qFk5fpEhw/ms", 
+                "display_phone": "+1-415-731-1957", 
+                "id": "loving-hut-san-francisco-2", 
+                "categories": [
+                    [
+                        "Vegan", 
+                        "vegan"
+                    ], 
+                    [
+                        "Asian Fusion", 
+                        "asianfusion"
+                    ]
                 ], 
-                "geo_accuracy": 8, 
-                "neighborhoods": [
-                    "Inner Sunset"
-                ], 
-                "postal_code": "94122", 
-                "country_code": "US", 
-                "address": [
-                    "524 Irving St"
-                ], 
-                "coordinate": {
-                    "latitude": 37.7642748, 
-                    "longitude": -122.4636205
-                }, 
-                "state_code": "CA"
+                "location": {
+                    "cross_streets": "6th Ave & 7th Ave", 
+                    "city": "San Francisco", 
+                    "display_address": [
+                        "524 Irving St", 
+                        "(b/t 6th Ave & 7th Ave)", 
+                        "Inner Sunset", 
+                        "San Francisco, CA 94122"
+                    ], 
+                    "geo_accuracy": 8, 
+                    "neighborhoods": [
+                        "Inner Sunset"
+                    ], 
+                    "postal_code": "94122", 
+                    "country_code": "US", 
+                    "address": [
+                        "524 Irving St"
+                    ], 
+                    "coordinate": {
+                        "latitude": 37.7642748, 
+                        "longitude": -122.4636205
+                    }, 
+                    "state_code": "CA"
+                }
             }
         }, 
         {
-            "rating_img_url_small": "http://media3.px.yelpcdn.com/static/20101216418129184/i/ico/stars/stars_small_4.png", 
-            "mobile_url": "http://mobile.yelp.com/biz/D5WPduo9leXk2MPHTuuQFw", 
-            "rating_img_url": "http://media1.ct.yelpcdn.com/static/201012164084228337/i/ico/stars/stars_4.png", 
-            "review_count": 7, 
-            "name": "Sunny Vibrations Vegan Food Truck", 
-            "url": "http://www.yelp.com/biz/sunny-vibrations-vegan-food-truck-san-francisco", 
-            "snippet_text": "I think that this truck was on Ocean Beach last Spring! I saw this truck and was excited because it looks like a taco truck, but when you look at the menu...", 
-            "image_url": "http://media3.px.yelpcdn.com/bphoto/FA_1cv2JTb0oai46WOBoGg/ms", 
-            "categories": [
-                [
-                    "Vegan", 
-                    "vegan"
-                ], 
-                [
-                    "Food Stands", 
-                    "foodstands"
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.4258409, 
+                    37.7582185
                 ]
-            ], 
+            }, 
             "id": "sunny-vibrations-vegan-food-truck-san-francisco", 
-            "snippet_image_url": "http://media4.ct.yelpcdn.com/photo/0vtiE4QWY-MH2-EH8Wnxag/ms", 
-            "location": {
-                "city": "San Francisco", 
-                "display_address": [
-                    "20th St and Dolores St", 
-                    "Castro", 
-                    "San Francisco, CA 94114"
+            "properties": {
+                "rating_img_url_small": "http://media3.px.yelpcdn.com/static/20101216418129184/i/ico/stars/stars_small_4.png", 
+                "mobile_url": "http://mobile.yelp.com/biz/D5WPduo9leXk2MPHTuuQFw", 
+                "rating_img_url": "http://media1.ct.yelpcdn.com/static/201012164084228337/i/ico/stars/stars_4.png", 
+                "review_count": 7, 
+                "name": "Sunny Vibrations Vegan Food Truck", 
+                "url": "http://www.yelp.com/biz/sunny-vibrations-vegan-food-truck-san-francisco", 
+                "price": 1, 
+                "snippet_text": "I think that this truck was on Ocean Beach last Spring! I saw this truck and was excited because it looks like a taco truck, but when you look at the menu...", 
+                "image_url": "http://media3.px.yelpcdn.com/bphoto/FA_1cv2JTb0oai46WOBoGg/ms", 
+                "snippet_image_url": "http://media4.ct.yelpcdn.com/photo/0vtiE4QWY-MH2-EH8Wnxag/ms", 
+                "id": "sunny-vibrations-vegan-food-truck-san-francisco", 
+                "categories": [
+                    [
+                        "Vegan", 
+                        "vegan"
+                    ], 
+                    [
+                        "Food Stands", 
+                        "foodstands"
+                    ]
                 ], 
-                "geo_accuracy": 7, 
-                "neighborhoods": [
-                    "Castro", 
-                    "Mission"
-                ], 
-                "postal_code": "94114", 
-                "country_code": "US", 
-                "address": [
-                    "20th St and Dolores St"
-                ], 
-                "coordinate": {
-                    "latitude": 37.7582185, 
-                    "longitude": -122.4258409
-                }, 
-                "state_code": "CA"
+                "location": {
+                    "city": "San Francisco", 
+                    "display_address": [
+                        "20th St and Dolores St", 
+                        "Castro", 
+                        "San Francisco, CA 94114"
+                    ], 
+                    "geo_accuracy": 7, 
+                    "neighborhoods": [
+                        "Castro", 
+                        "Mission"
+                    ], 
+                    "postal_code": "94114", 
+                    "country_code": "US", 
+                    "address": [
+                        "20th St and Dolores St"
+                    ], 
+                    "coordinate": {
+                        "latitude": 37.7582185, 
+                        "longitude": -122.4258409
+                    }, 
+                    "state_code": "CA"
+                }
             }
         }, 
         {
-            "rating_img_url_small": "http://media2.px.yelpcdn.com/static/201012161127761206/i/ico/stars/stars_small_4_half.png", 
-            "mobile_url": "http://mobile.yelp.com/biz/pqmEEvyEQb_S9BF_N2eE9Q", 
-            "rating_img_url": "http://media4.px.yelpcdn.com/static/201012163106483837/i/ico/stars/stars_4_half.png", 
-            "review_count": 6, 
-            "name": "Special Request", 
-            "url": "http://www.yelp.com/biz/special-request-san-francisco", 
-            "snippet_text": "Soooo amazing! Forget that they're all organic, vegan and gluten-free- these desserts and \"cheese\" cakes are decadent. Mocha Storm totally satisfies my...", 
-            "image_url": "http://media1.px.yelpcdn.com/bphoto/RODbtLmrjfvxolnO8ZhUXQ/ms", 
-            "categories": [
-                [
-                    "Vegan", 
-                    "vegan"
-                ], 
-                [
-                    "Desserts", 
-                    "desserts"
-                ], 
-                [
-                    "Gluten-Free", 
-                    "gluten_free"
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.4180413, 
+                    37.7392825
                 ]
-            ], 
+            }, 
             "id": "special-request-san-francisco", 
-            "snippet_image_url": "http://media4.px.yelpcdn.com/photo/kRdEFJlB6WQXQ3ByKnQ6RA/ms", 
-            "location": {
-                "cross_streets": "Bocana St & Bennington St", 
-                "city": "San Francisco", 
-                "display_address": [
-                    "331 Cortland Ave", 
-                    "(b/t Bocana St & Bennington St)", 
-                    "Bernal Heights", 
-                    "San Francisco, CA 94110"
+            "properties": {
+                "rating_img_url_small": "http://media2.px.yelpcdn.com/static/201012161127761206/i/ico/stars/stars_small_4_half.png", 
+                "mobile_url": "http://mobile.yelp.com/biz/pqmEEvyEQb_S9BF_N2eE9Q", 
+                "rating_img_url": "http://media4.px.yelpcdn.com/static/201012163106483837/i/ico/stars/stars_4_half.png", 
+                "review_count": 6, 
+                "name": "Special Request", 
+                "url": "http://www.yelp.com/biz/special-request-san-francisco", 
+                "price": 2, 
+                "snippet_text": "Soooo amazing! Forget that they're all organic, vegan and gluten-free- these desserts and \"cheese\" cakes are decadent. Mocha Storm totally satisfies my...", 
+                "image_url": "http://media1.px.yelpcdn.com/bphoto/RODbtLmrjfvxolnO8ZhUXQ/ms", 
+                "snippet_image_url": "http://media4.px.yelpcdn.com/photo/kRdEFJlB6WQXQ3ByKnQ6RA/ms", 
+                "id": "special-request-san-francisco", 
+                "categories": [
+                    [
+                        "Vegan", 
+                        "vegan"
+                    ], 
+                    [
+                        "Desserts", 
+                        "desserts"
+                    ], 
+                    [
+                        "Gluten-Free", 
+                        "gluten_free"
+                    ]
                 ], 
-                "geo_accuracy": 8, 
-                "neighborhoods": [
-                    "Bernal Heights"
-                ], 
-                "postal_code": "94110", 
-                "country_code": "US", 
-                "address": [
-                    "331 Cortland Ave"
-                ], 
-                "coordinate": {
-                    "latitude": 37.7392825, 
-                    "longitude": -122.4180413
-                }, 
-                "state_code": "CA"
+                "location": {
+                    "cross_streets": "Bocana St & Bennington St", 
+                    "city": "San Francisco", 
+                    "display_address": [
+                        "331 Cortland Ave", 
+                        "(b/t Bocana St & Bennington St)", 
+                        "Bernal Heights", 
+                        "San Francisco, CA 94110"
+                    ], 
+                    "geo_accuracy": 8, 
+                    "neighborhoods": [
+                        "Bernal Heights"
+                    ], 
+                    "postal_code": "94110", 
+                    "country_code": "US", 
+                    "address": [
+                        "331 Cortland Ave"
+                    ], 
+                    "coordinate": {
+                        "latitude": 37.7392825, 
+                        "longitude": -122.4180413
+                    }, 
+                    "state_code": "CA"
+                }
             }
         }, 
         {
-            "rating_img_url_small": "http://media1.ct.yelpcdn.com/static/201012163952475669/i/ico/stars/stars_small_3_half.png", 
-            "mobile_url": "http://mobile.yelp.com/biz/GGgBRSa6saWrWNUtjdgHsg", 
-            "rating_img_url": "http://media3.px.yelpcdn.com/static/201012161235323114/i/ico/stars/stars_3_half.png", 
-            "review_count": 810, 
-            "name": "Cafe Gratitude", 
-            "url": "http://www.yelp.com/biz/cafe-gratitude-san-francisco-2", 
-            "phone": "4158244652", 
-            "snippet_text": "I'm wheat and lactose intolerant and occasionally I'll fall off the wagon like I did last weekend in North Beach.\n\nSo, I'm back to a strict wheat and...", 
-            "image_url": "http://media1.px.yelpcdn.com/bphoto/lZjFTNSarbwRBILf0vy8jw/ms", 
-            "categories": [
-                [
-                    "Vegan", 
-                    "vegan"
-                ], 
-                [
-                    "Live/Raw Food", 
-                    "raw_food"
-                ], 
-                [
-                    "Gluten-Free", 
-                    "gluten_free"
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.412746, 
+                    37.758894
                 ]
-            ], 
-            "display_phone": "+1-415-824-4652", 
+            }, 
             "id": "cafe-gratitude-san-francisco-2", 
-            "snippet_image_url": "http://media1.px.yelpcdn.com/photo/8NoSgZF8adEUzpqBRJAAAg/ms", 
-            "location": {
-                "cross_streets": "20th St & 21st St", 
-                "city": "San Francisco", 
-                "display_address": [
-                    "2400 Harrison St", 
-                    "(b/t 20th St & 21st St)", 
-                    "Mission", 
-                    "San Francisco, CA 94110"
+            "properties": {
+                "rating_img_url_small": "http://media1.ct.yelpcdn.com/static/201012163952475669/i/ico/stars/stars_small_3_half.png", 
+                "mobile_url": "http://mobile.yelp.com/biz/GGgBRSa6saWrWNUtjdgHsg", 
+                "rating_img_url": "http://media3.px.yelpcdn.com/static/201012161235323114/i/ico/stars/stars_3_half.png", 
+                "review_count": 810, 
+                "name": "Cafe Gratitude", 
+                "url": "http://www.yelp.com/biz/cafe-gratitude-san-francisco-2", 
+                "price": 2, 
+                "phone": "4158244652", 
+                "snippet_text": "I'm wheat and lactose intolerant and occasionally I'll fall off the wagon like I did last weekend in North Beach.\n\nSo, I'm back to a strict wheat and...", 
+                "image_url": "http://media1.px.yelpcdn.com/bphoto/lZjFTNSarbwRBILf0vy8jw/ms", 
+                "snippet_image_url": "http://media1.px.yelpcdn.com/photo/8NoSgZF8adEUzpqBRJAAAg/ms", 
+                "display_phone": "+1-415-824-4652", 
+                "id": "cafe-gratitude-san-francisco-2", 
+                "categories": [
+                    [
+                        "Vegan", 
+                        "vegan"
+                    ], 
+                    [
+                        "Live/Raw Food", 
+                        "raw_food"
+                    ], 
+                    [
+                        "Gluten-Free", 
+                        "gluten_free"
+                    ]
                 ], 
-                "geo_accuracy": 8, 
-                "neighborhoods": [
-                    "Mission"
-                ], 
-                "postal_code": "94110", 
-                "country_code": "US", 
-                "address": [
-                    "2400 Harrison St"
-                ], 
-                "coordinate": {
-                    "latitude": 37.758894, 
-                    "longitude": -122.412746
-                }, 
-                "state_code": "CA"
+                "location": {
+                    "cross_streets": "20th St & 21st St", 
+                    "city": "San Francisco", 
+                    "display_address": [
+                        "2400 Harrison St", 
+                        "(b/t 20th St & 21st St)", 
+                        "Mission", 
+                        "San Francisco, CA 94110"
+                    ], 
+                    "geo_accuracy": 8, 
+                    "neighborhoods": [
+                        "Mission"
+                    ], 
+                    "postal_code": "94110", 
+                    "country_code": "US", 
+                    "address": [
+                        "2400 Harrison St"
+                    ], 
+                    "coordinate": {
+                        "latitude": 37.758894, 
+                        "longitude": -122.412746
+                    }, 
+                    "state_code": "CA"
+                }
             }
         }, 
         {
-            "rating_img_url_small": "http://media1.ct.yelpcdn.com/static/201012163952475669/i/ico/stars/stars_small_3_half.png", 
-            "mobile_url": "http://mobile.yelp.com/biz/kMosMyIlShM4SE-imgMTyw", 
-            "rating_img_url": "http://media3.px.yelpcdn.com/static/201012161235323114/i/ico/stars/stars_3_half.png", 
-            "review_count": 15, 
-            "name": "Donna's Tamales", 
-            "url": "http://www.yelp.com/biz/donnas-tamales-san-francisco", 
-            "phone": "4154562191", 
-            "snippet_text": "I love tamales.  The sweetie loves tamales.  \n\nWe already had lunch, but couldn't resist.  The roasted red pepper goat cheese tamale was ours to enjoy....", 
-            "image_url": "http://media1.px.yelpcdn.com/bphoto/mLpzMbFrRM978767mmCl3Q/ms", 
-            "categories": [
-                [
-                    "Vegan", 
-                    "vegan"
-                ], 
-                [
-                    "Vegetarian", 
-                    "vegetarian"
-                ], 
-                [
-                    "Farmers Market", 
-                    "farmersmarket"
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.398496338399, 
+                    37.8017751541678
                 ]
-            ], 
-            "display_phone": "+1-415-456-2191", 
+            }, 
             "id": "donnas-tamales-san-francisco", 
-            "snippet_image_url": "http://media1.px.yelpcdn.com/photo/GvToo7TaRm3wUkXuVrXo6g/ms", 
-            "location": {
-                "city": "San Francisco", 
-                "display_address": [
-                    "Ferry Plaza Farmers' Market", 
-                    "Embarcadero", 
-                    "Embarcadero", 
-                    "San Francisco, CA 94199"
+            "properties": {
+                "rating_img_url_small": "http://media1.ct.yelpcdn.com/static/201012163952475669/i/ico/stars/stars_small_3_half.png", 
+                "mobile_url": "http://mobile.yelp.com/biz/kMosMyIlShM4SE-imgMTyw", 
+                "rating_img_url": "http://media3.px.yelpcdn.com/static/201012161235323114/i/ico/stars/stars_3_half.png", 
+                "review_count": 15, 
+                "name": "Donna's Tamales", 
+                "url": "http://www.yelp.com/biz/donnas-tamales-san-francisco", 
+                "price": 1, 
+                "phone": "4154562191", 
+                "snippet_text": "I love tamales.  The sweetie loves tamales.  \n\nWe already had lunch, but couldn't resist.  The roasted red pepper goat cheese tamale was ours to enjoy....", 
+                "image_url": "http://media1.px.yelpcdn.com/bphoto/mLpzMbFrRM978767mmCl3Q/ms", 
+                "snippet_image_url": "http://media1.px.yelpcdn.com/photo/GvToo7TaRm3wUkXuVrXo6g/ms", 
+                "display_phone": "+1-415-456-2191", 
+                "id": "donnas-tamales-san-francisco", 
+                "categories": [
+                    [
+                        "Vegan", 
+                        "vegan"
+                    ], 
+                    [
+                        "Vegetarian", 
+                        "vegetarian"
+                    ], 
+                    [
+                        "Farmers Market", 
+                        "farmersmarket"
+                    ]
                 ], 
-                "geo_accuracy": 8, 
-                "neighborhoods": [
-                    "Embarcadero"
-                ], 
-                "postal_code": "94199", 
-                "country_code": "US", 
-                "address": [
-                    "Ferry Plaza Farmers' Market", 
-                    "Embarcadero"
-                ], 
-                "coordinate": {
-                    "latitude": 37.8017751541678, 
-                    "longitude": -122.398496338399
-                }, 
-                "state_code": "CA"
+                "location": {
+                    "city": "San Francisco", 
+                    "display_address": [
+                        "Ferry Plaza Farmers' Market", 
+                        "Embarcadero", 
+                        "Embarcadero", 
+                        "San Francisco, CA 94199"
+                    ], 
+                    "geo_accuracy": 8, 
+                    "neighborhoods": [
+                        "Embarcadero"
+                    ], 
+                    "postal_code": "94199", 
+                    "country_code": "US", 
+                    "address": [
+                        "Ferry Plaza Farmers' Market", 
+                        "Embarcadero"
+                    ], 
+                    "coordinate": {
+                        "latitude": 37.8017751541678, 
+                        "longitude": -122.398496338399
+                    }, 
+                    "state_code": "CA"
+                }
             }
         }, 
         {
-            "rating_img_url_small": "http://media1.ct.yelpcdn.com/static/201012163952475669/i/ico/stars/stars_small_3_half.png", 
-            "mobile_url": "http://mobile.yelp.com/biz/9tSjNztvz1pAnGRog5U_OQ", 
-            "rating_img_url": "http://media3.px.yelpcdn.com/static/201012161235323114/i/ico/stars/stars_3_half.png", 
-            "review_count": 614, 
-            "name": "Herbivore", 
-            "url": "http://www.yelp.com/biz/herbivore-san-francisco", 
-            "phone": "4158857133", 
-            "snippet_text": "LOVE this restaurant. Great food, great service! \n\nMy only wish would be they'd switch up their menu sometimes.", 
-            "image_url": "http://media1.px.yelpcdn.com/bphoto/Yiqri_yTws0yKXjUQNgFNg/ms", 
-            "categories": [
-                [
-                    "Vegan", 
-                    "vegan"
-                ], 
-                [
-                    "Vegetarian", 
-                    "vegetarian"
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.437722, 
+                    37.77435
                 ]
-            ], 
-            "display_phone": "+1-415-885-7133", 
+            }, 
             "id": "herbivore-san-francisco", 
-            "snippet_image_url": "http://media3.px.yelpcdn.com/photo/DkWK6UECqC0xAvB9i1TIYw/ms", 
-            "location": {
-                "cross_streets": "Fell St & Hayes St", 
-                "city": "San Francisco", 
-                "display_address": [
-                    "531 Divisadero St", 
-                    "(b/t Fell St & Hayes St)", 
-                    "Western Addition/NOPA", 
-                    "San Francisco, CA 94117"
+            "properties": {
+                "rating_img_url_small": "http://media1.ct.yelpcdn.com/static/201012163952475669/i/ico/stars/stars_small_3_half.png", 
+                "mobile_url": "http://mobile.yelp.com/biz/9tSjNztvz1pAnGRog5U_OQ", 
+                "rating_img_url": "http://media3.px.yelpcdn.com/static/201012161235323114/i/ico/stars/stars_3_half.png", 
+                "review_count": 614, 
+                "name": "Herbivore", 
+                "url": "http://www.yelp.com/biz/herbivore-san-francisco", 
+                "price": 2, 
+                "phone": "4158857133", 
+                "snippet_text": "LOVE this restaurant. Great food, great service! \n\nMy only wish would be they'd switch up their menu sometimes.", 
+                "image_url": "http://media1.px.yelpcdn.com/bphoto/Yiqri_yTws0yKXjUQNgFNg/ms", 
+                "snippet_image_url": "http://media3.px.yelpcdn.com/photo/DkWK6UECqC0xAvB9i1TIYw/ms", 
+                "display_phone": "+1-415-885-7133", 
+                "id": "herbivore-san-francisco", 
+                "categories": [
+                    [
+                        "Vegan", 
+                        "vegan"
+                    ], 
+                    [
+                        "Vegetarian", 
+                        "vegetarian"
+                    ]
                 ], 
-                "geo_accuracy": 8, 
-                "neighborhoods": [
-                    "Western Addition/NOPA"
-                ], 
-                "postal_code": "94117", 
-                "country_code": "US", 
-                "address": [
-                    "531 Divisadero St"
-                ], 
-                "coordinate": {
-                    "latitude": 37.77435, 
-                    "longitude": -122.437722
-                }, 
-                "state_code": "CA"
+                "location": {
+                    "cross_streets": "Fell St & Hayes St", 
+                    "city": "San Francisco", 
+                    "display_address": [
+                        "531 Divisadero St", 
+                        "(b/t Fell St & Hayes St)", 
+                        "Western Addition/NOPA", 
+                        "San Francisco, CA 94117"
+                    ], 
+                    "geo_accuracy": 8, 
+                    "neighborhoods": [
+                        "Western Addition/NOPA"
+                    ], 
+                    "postal_code": "94117", 
+                    "country_code": "US", 
+                    "address": [
+                        "531 Divisadero St"
+                    ], 
+                    "coordinate": {
+                        "latitude": 37.77435, 
+                        "longitude": -122.437722
+                    }, 
+                    "state_code": "CA"
+                }
             }
         }, 
         {
-            "rating_img_url_small": "http://media2.ct.yelpcdn.com/static/201012162337205794/i/ico/stars/stars_small_3.png", 
-            "mobile_url": "http://mobile.yelp.com/biz/tgITWxW_7AhezglwWHNLNQ", 
-            "rating_img_url": "http://media4.ct.yelpcdn.com/static/201012161694360749/i/ico/stars/stars_3.png", 
-            "review_count": 583, 
-            "name": "Herbivore", 
-            "url": "http://www.yelp.com/biz/herbivore-san-francisco-2", 
-            "phone": "4158265657", 
-            "snippet_text": "I am not a vegetarian, but after eating here I realized I could be.  \n\nThe menu is gigantic, with everything from sandwiches to curries to pasta.  I had the...", 
-            "image_url": "http://media4.px.yelpcdn.com/bphoto/a9-Ff9ISL-eY4nSK6kBFfw/ms", 
-            "categories": [
-                [
-                    "Vegan", 
-                    "vegan"
-                ], 
-                [
-                    "Vegetarian", 
-                    "vegetarian"
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.420976, 
+                    37.75728
                 ]
-            ], 
-            "display_phone": "+1-415-826-5657", 
+            }, 
             "id": "herbivore-san-francisco-2", 
-            "snippet_image_url": "http://media3.ct.yelpcdn.com/photo/tTp9iUX1PCL_kh_OMRukhg/ms", 
-            "location": {
-                "cross_streets": "Liberty St & 21st St", 
-                "city": "San Francisco", 
-                "display_address": [
-                    "983 Valencia St", 
-                    "(b/t Liberty St & 21st St)", 
-                    "Mission", 
-                    "San Francisco, CA 94110"
+            "properties": {
+                "rating_img_url_small": "http://media2.ct.yelpcdn.com/static/201012162337205794/i/ico/stars/stars_small_3.png", 
+                "mobile_url": "http://mobile.yelp.com/biz/tgITWxW_7AhezglwWHNLNQ", 
+                "rating_img_url": "http://media4.ct.yelpcdn.com/static/201012161694360749/i/ico/stars/stars_3.png", 
+                "review_count": 583, 
+                "name": "Herbivore", 
+                "url": "http://www.yelp.com/biz/herbivore-san-francisco-2", 
+                "price": 2, 
+                "phone": "4158265657", 
+                "snippet_text": "I am not a vegetarian, but after eating here I realized I could be.  \n\nThe menu is gigantic, with everything from sandwiches to curries to pasta.  I had the...", 
+                "image_url": "http://media4.px.yelpcdn.com/bphoto/a9-Ff9ISL-eY4nSK6kBFfw/ms", 
+                "snippet_image_url": "http://media3.ct.yelpcdn.com/photo/tTp9iUX1PCL_kh_OMRukhg/ms", 
+                "display_phone": "+1-415-826-5657", 
+                "id": "herbivore-san-francisco-2", 
+                "categories": [
+                    [
+                        "Vegan", 
+                        "vegan"
+                    ], 
+                    [
+                        "Vegetarian", 
+                        "vegetarian"
+                    ]
                 ], 
-                "geo_accuracy": 8, 
-                "neighborhoods": [
-                    "Mission"
-                ], 
-                "postal_code": "94110", 
-                "country_code": "US", 
-                "address": [
-                    "983 Valencia St"
-                ], 
-                "coordinate": {
-                    "latitude": 37.75728, 
-                    "longitude": -122.420976
-                }, 
-                "state_code": "CA"
+                "location": {
+                    "cross_streets": "Liberty St & 21st St", 
+                    "city": "San Francisco", 
+                    "display_address": [
+                        "983 Valencia St", 
+                        "(b/t Liberty St & 21st St)", 
+                        "Mission", 
+                        "San Francisco, CA 94110"
+                    ], 
+                    "geo_accuracy": 8, 
+                    "neighborhoods": [
+                        "Mission"
+                    ], 
+                    "postal_code": "94110", 
+                    "country_code": "US", 
+                    "address": [
+                        "983 Valencia St"
+                    ], 
+                    "coordinate": {
+                        "latitude": 37.75728, 
+                        "longitude": -122.420976
+                    }, 
+                    "state_code": "CA"
+                }
             }
         }, 
         {
-            "rating_img_url_small": "http://media4.ct.yelpcdn.com/static/201012161936943100/i/ico/stars/stars_small_2_half.png", 
-            "mobile_url": "http://mobile.yelp.com/biz/EnvKh7jUWJC9-QwvZWuGAw", 
-            "rating_img_url": "http://media2.px.yelpcdn.com/static/201012164170501445/i/ico/stars/stars_2_half.png", 
-            "review_count": 6, 
-            "name": "RAW Satisfaction", 
-            "url": "http://www.yelp.com/biz/raw-satisfaction-san-francisco-2", 
-            "phone": "4154980553", 
-            "snippet_text": "I wouldn't say the kitchen setup was  appropriate for a cooking class. It was very small for 7 people.  The stove wasn't in the right place for us to be...", 
-            "image_url": "http://media2.px.yelpcdn.com/bphoto/XIDjH3eGn0deDuHqOTOh3g/ms", 
-            "categories": [
-                [
-                    "Vegan", 
-                    "vegan"
-                ], 
-                [
-                    "Live/Raw Food", 
-                    "raw_food"
-                ], 
-                [
-                    "Cooking Schools", 
-                    "cookingschools"
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.426527, 
+                    37.7651763
                 ]
-            ], 
-            "display_phone": "+1-415-498-0553", 
+            }, 
             "id": "raw-satisfaction-san-francisco-2", 
-            "snippet_image_url": "http://media4.px.yelpcdn.com/photo/gE5QIofv_n_-yveJfifLSA/ms", 
-            "location": {
-                "cross_streets": "Alert Aly & 16th St", 
-                "city": "San Francisco", 
-                "display_address": [
-                    "264 Dolores St", 
-                    "(b/t Alert Aly & 16th St)", 
-                    "Castro", 
-                    "San Francisco, CA 94103"
+            "properties": {
+                "rating_img_url_small": "http://media4.ct.yelpcdn.com/static/201012161936943100/i/ico/stars/stars_small_2_half.png", 
+                "mobile_url": "http://mobile.yelp.com/biz/EnvKh7jUWJC9-QwvZWuGAw", 
+                "rating_img_url": "http://media2.px.yelpcdn.com/static/201012164170501445/i/ico/stars/stars_2_half.png", 
+                "review_count": 6, 
+                "name": "RAW Satisfaction", 
+                "url": "http://www.yelp.com/biz/raw-satisfaction-san-francisco-2", 
+                "price": 4, 
+                "phone": "4154980553", 
+                "snippet_text": "I wouldn't say the kitchen setup was  appropriate for a cooking class. It was very small for 7 people.  The stove wasn't in the right place for us to be...", 
+                "image_url": "http://media2.px.yelpcdn.com/bphoto/XIDjH3eGn0deDuHqOTOh3g/ms", 
+                "snippet_image_url": "http://media4.px.yelpcdn.com/photo/gE5QIofv_n_-yveJfifLSA/ms", 
+                "display_phone": "+1-415-498-0553", 
+                "id": "raw-satisfaction-san-francisco-2", 
+                "categories": [
+                    [
+                        "Vegan", 
+                        "vegan"
+                    ], 
+                    [
+                        "Live/Raw Food", 
+                        "raw_food"
+                    ], 
+                    [
+                        "Cooking Schools", 
+                        "cookingschools"
+                    ]
                 ], 
-                "geo_accuracy": 8, 
-                "neighborhoods": [
-                    "Castro", 
-                    "Mission"
-                ], 
-                "postal_code": "94103", 
-                "country_code": "US", 
-                "address": [
-                    "264 Dolores St"
-                ], 
-                "coordinate": {
-                    "latitude": 37.7651763, 
-                    "longitude": -122.426527
-                }, 
-                "state_code": "CA"
+                "location": {
+                    "cross_streets": "Alert Aly & 16th St", 
+                    "city": "San Francisco", 
+                    "display_address": [
+                        "264 Dolores St", 
+                        "(b/t Alert Aly & 16th St)", 
+                        "Castro", 
+                        "San Francisco, CA 94103"
+                    ], 
+                    "geo_accuracy": 8, 
+                    "neighborhoods": [
+                        "Castro", 
+                        "Mission"
+                    ], 
+                    "postal_code": "94103", 
+                    "country_code": "US", 
+                    "address": [
+                        "264 Dolores St"
+                    ], 
+                    "coordinate": {
+                        "latitude": 37.7651763, 
+                        "longitude": -122.426527
+                    }, 
+                    "state_code": "CA"
+                }
             }
         }
     ]

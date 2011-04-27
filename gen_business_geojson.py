@@ -22,7 +22,7 @@ def get_geojson(businesses):
             "geometry": poly,
             "properties": b,
             }
-        fs.append(b)
+        fs.append(feature)
     return fs
 
 for b in os.listdir(args.business):
