@@ -1,0 +1,3949 @@
+{
+    "type": "FeatureCollection", 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.41656213947006, 
+                    37.764745350719494
+                ]
+            }, 
+            "id": "305489", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Tacos: Burritos", 
+                "lat": 37.764745350719494, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0006&ExportPDF=1&Filename=11MFF-0006_schedule.pdf", 
+                "block_lot": "3571014", 
+                "applicant": "Taco San Buena - Route 62", 
+                "long": -122.41656213947006, 
+                "full_address": "200 SHOTWELL ST", 
+                "facility_type": "Truck", 
+                "y": "2106595.6329999999", 
+                "location": "SHOTWELL ST: 16TH ST to 17TH ST (200 - 299)", 
+                "lot": "014", 
+                "permit": "11MFF-0006", 
+                "cnn": "11834000", 
+                "x": "6007701.4119999995", 
+                "id": "305489", 
+                "block": "3571"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40094044068951, 
+                    37.790485146128
+                ]
+            }, 
+            "id": "305496", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Tacos: Burritos", 
+                "lat": 37.790485146128, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0007&ExportPDF=1&Filename=11MFF-0007_schedule.pdf", 
+                "block_lot": "0289003", 
+                "applicant": "Taco San Buena - Route 2", 
+                "long": -122.40094044068951, 
+                "full_address": "1 SANSOME ST", 
+                "facility_type": "Truck", 
+                "y": "2115874.0159999998", 
+                "location": "SANSOME ST: SUTTER ST to BUSH ST (1 - 99)", 
+                "lot": "003", 
+                "permit": "11MFF-0007", 
+                "cnn": "11542000", 
+                "x": "6012406.4649999999", 
+                "id": "305496", 
+                "block": "0289"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.41345489002224, 
+                    37.763108325376656
+                ]
+            }, 
+            "id": "305513", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Tacos: Burritos: Tortas: Quesadillas", 
+                "lat": 37.763108325376656, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0008&ExportPDF=1&Filename=11MFF-0008_schedule.pdf", 
+                "block_lot": "3573023", 
+                "applicant": "El Tonayanse #60", 
+                "long": -122.41345489002224, 
+                "full_address": "401 TREAT AVE", 
+                "facility_type": "Truck", 
+                "y": "2105981.3050000002", 
+                "location": "HARRISON ST: 17TH ST to MARIPOSA ST (2050 - 2149)", 
+                "lot": "023", 
+                "permit": "11MFF-0008", 
+                "cnn": "6746000", 
+                "x": "6008587.2230000002", 
+                "id": "305513", 
+                "block": "3573"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40297852668597, 
+                    37.73022168130492
+                ]
+            }, 
+            "id": "305546", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Tacos: Burritos : Tortas: Quesadillas", 
+                "lat": 37.73022168130492, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0010&ExportPDF=1&Filename=11MFF-0010_schedule.pdf", 
+                "block_lot": "5436012", 
+                "applicant": "Taco's Santana", 
+                "long": -122.40297852668597, 
+                "full_address": "2101 CARROLL AVE", 
+                "facility_type": "Truck", 
+                "y": "2093947.3689999999", 
+                "location": "CARROLL AVE: QUINT ST to BAY SHORE BLVD \\ THORNTON AVE (2100 - 2199)", 
+                "lot": "012", 
+                "permit": "11MFF-0010", 
+                "cnn": "3742000", 
+                "x": "6011371.4929999998", 
+                "id": "305546", 
+                "block": "5436"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.42414994624656, 
+                    37.807743289466885
+                ]
+            }, 
+            "id": "305566", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: patries and bakery goods: cookies: ice cream: candies: soups: and popcorn.", 
+                "lat": 37.807743289466885, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0011&ExportPDF=1&Filename=11MFF-0011_schedule.pdf", 
+                "block_lot": "0405007", 
+                "applicant": "San Francisco Carts & Concessions, Inc. DBA Stanley's Steamers Hot Dogs", 
+                "long": -122.42414994624656, 
+                "full_address": "900 BEACH ST", 
+                "facility_type": "Push Cart", 
+                "y": "2122293.8220000002", 
+                "location": "BEACH ST: HYDE ST intersection", 
+                "lot": "007", 
+                "permit": "11MFF-0011", 
+                "cnn": "30766000", 
+                "x": "6005830.4139999999", 
+                "id": "305566", 
+                "block": "0405"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.42414994624656, 
+                    37.807743289466885
+                ]
+            }, 
+            "id": "305566", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Hot dogs: condiments: soft pretzels: soft drinks: coffee: cold beverages: patries and bakery goods: cookies: ice cream: candies: soups: and popcorn.", 
+                "lat": 37.807743289466885, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0011&ExportPDF=1&Filename=11MFF-0011_schedule.pdf", 
+                "block_lot": "0405007", 
+                "applicant": "San Francisco Carts & Concessions, Inc. DBA Stanley's Steamers Hot Dogs", 
+                "long": -122.42414994624656, 
+                "full_address": "900 BEACH ST", 
+                "facility_type": "Push Cart", 
+                "y": "2122293.8220000002", 
+                "location": "HYDE ST: BEACH ST intersection", 
+                "lot": "007", 
+                "permit": "11MFF-0011", 
+                "cnn": "30766000", 
+                "x": "6005830.4139999999", 
+                "id": "305566", 
+                "block": "0405"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40719603412224, 
+                    37.78891014957045
+                ]
+            }, 
+            "id": "305567", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Hot dogs: soft drinks: condiments: coffee: juices: pastries: bakery items: desserts: chips: and soups", 
+                "lat": 37.78891014957045, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0012&ExportPDF=1&Filename=11MFF-0012_schedule.pdf", 
+                "block_lot": "0295016", 
+                "applicant": "San Francisco Carts & Concessions, Inc. DBA Stanley's Steamers Hot Dogs", 
+                "long": -122.40719603412224, 
+                "full_address": "345 STOCKTON ST", 
+                "facility_type": "Push Cart", 
+                "y": "2115337.4190000002", 
+                "location": "POST ST: STOCKTON ST intersection", 
+                "lot": "016", 
+                "permit": "11MFF-0012", 
+                "cnn": "24908000", 
+                "x": "6010587.5290000001", 
+                "id": "305567", 
+                "block": "0295"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40719603412224, 
+                    37.78891014957045
+                ]
+            }, 
+            "id": "305567", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Hot dogs: soft drinks: condiments: coffee: juices: pastries: bakery items: desserts: chips: and soups", 
+                "lat": 37.78891014957045, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0012&ExportPDF=1&Filename=11MFF-0012_schedule.pdf", 
+                "block_lot": "0295016", 
+                "applicant": "San Francisco Carts & Concessions, Inc. DBA Stanley's Steamers Hot Dogs", 
+                "long": -122.40719603412224, 
+                "full_address": "345 STOCKTON ST", 
+                "facility_type": "Push Cart", 
+                "y": "2115337.4190000002", 
+                "location": "STOCKTON ST: POST ST intersection", 
+                "lot": "016", 
+                "permit": "11MFF-0012", 
+                "cnn": "24908000", 
+                "x": "6010587.5290000001", 
+                "id": "305567", 
+                "block": "0295"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40739807595821, 
+                    37.78717629174164
+                ]
+            }, 
+            "id": "305568", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Hot dogs: pretzels: soft drinks: condiments: coffee: juices: pastries: ice cream: bakery goods: desserts: soups: chips: and fresh fruit", 
+                "lat": 37.78717629174164, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0013&ExportPDF=1&Filename=11MFF-0013_schedule.pdf", 
+                "block_lot": "0314014", 
+                "applicant": "San Francisco Carts & Concessions, Inc. DBA Stanley's Steamers Hot Dogs", 
+                "long": -122.40739807595821, 
+                "full_address": "251 GEARY ST", 
+                "facility_type": "Push Cart", 
+                "y": "2114707.4040000001", 
+                "location": "GEARY ST: STOCKTON ST to POWELL ST (200 - 299)", 
+                "lot": "014", 
+                "permit": "11MFF-0013", 
+                "cnn": "6109000", 
+                "x": "6010516.2910000002", 
+                "id": "305568", 
+                "block": "0314"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40687973821338, 
+                    37.787242602596706
+                ]
+            }, 
+            "id": "305569", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Churros: hot chestnuts: beverages: ice cream: popcorn: fresh fruit: fruit juices: and nuts", 
+                "lat": 37.787242602596706, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0014&ExportPDF=1&Filename=11MFF-0014_schedule.pdf", 
+                "block_lot": "0314001", 
+                "applicant": "San Francisco Carts & Concessions, Inc. DBA Stanley's Steamers Hot Dogs", 
+                "long": -122.40687973821338, 
+                "full_address": "233 GEARY ST", 
+                "facility_type": "Push Cart", 
+                "y": "2114728.4920000001", 
+                "location": "STOCKTON ST: OFARRELL ST to GEARY ST (100 - 199)", 
+                "lot": "001", 
+                "permit": "11MFF-0014", 
+                "cnn": "12195000", 
+                "x": "6010666.5379999997", 
+                "id": "305569", 
+                "block": "0314"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39581105302317, 
+                    37.794331003246846
+                ]
+            }, 
+            "id": "305571", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Espresso style coffee: fresh fruit: juices: pastries: bakery goods: desserts: soups: soft drinks: hot dogs: sandwiches: and pretzels", 
+                "lat": 37.794331003246846, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0015&ExportPDF=1&Filename=11MFF-0015_schedule.pdf", 
+                "block_lot": "0234 017", 
+                "applicant": "San Francisco Carts & Concessions, Inc. DBA Stanley's Steamers Hot Dogs", 
+                "long": -122.39581105302317, 
+                "full_address": "5 THE EMBARCADERO ", 
+                "facility_type": "Push Cart", 
+                "y": "2117244.0269999998", 
+                "location": "CALIFORNIA ST: DRUMM ST intersection", 
+                "lot": "017", 
+                "permit": "11MFF-0015", 
+                "cnn": "30049000", 
+                "x": "6013916.7199999997", 
+                "id": "305571", 
+                "block": "0234 "
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39581105302317, 
+                    37.794331003246846
+                ]
+            }, 
+            "id": "305571", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Espresso style coffee: fresh fruit: juices: pastries: bakery goods: desserts: soups: soft drinks: hot dogs: sandwiches: and pretzels", 
+                "lat": 37.794331003246846, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0015&ExportPDF=1&Filename=11MFF-0015_schedule.pdf", 
+                "block_lot": "0234 017", 
+                "applicant": "San Francisco Carts & Concessions, Inc. DBA Stanley's Steamers Hot Dogs", 
+                "long": -122.39581105302317, 
+                "full_address": "5 THE EMBARCADERO ", 
+                "facility_type": "Push Cart", 
+                "y": "2117244.0269999998", 
+                "location": "DRUMM ST: CALIFORNIA ST intersection", 
+                "lot": "017", 
+                "permit": "11MFF-0015", 
+                "cnn": "30049000", 
+                "x": "6013916.7199999997", 
+                "id": "305571", 
+                "block": "0234 "
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40033367367877, 
+                    37.79054831818324
+                ]
+            }, 
+            "id": "305572", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Creme Brulee", 
+                "lat": 37.79054831818324, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0016&ExportPDF=1&Filename=11MFF-0016_schedule.pdf", 
+                "block_lot": "0290012", 
+                "applicant": "The Creme Brulee Cart", 
+                "long": -122.40033367367877, 
+                "full_address": "532 MARKET ST", 
+                "facility_type": "Push Cart", 
+                "y": "2115893.4530000002", 
+                "location": "MARKET ST: BATTERY ST to SUTTER ST (540 - 558) -- NORTH --", 
+                "lot": "012", 
+                "permit": "11MFF-0016", 
+                "cnn": "8742202", 
+                "x": "6012582.2280000001", 
+                "id": "305572", 
+                "block": "0290"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40360683612369, 
+                    37.795234973304574
+                ]
+            }, 
+            "id": "305574", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Soups: salads: sandwiches: beverages: chips and cookies", 
+                "lat": 37.795234973304574, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0017&ExportPDF=1&Filename=11MFF-0017_schedule.pdf", 
+                "block_lot": "0208028", 
+                "applicant": "San Francisco Soup Company", 
+                "long": -122.40360683612369, 
+                "full_address": "655 MONTGOMERY ST", 
+                "facility_type": "Truck", 
+                "y": "2117618.8369999998", 
+                "location": "MONTGOMERY ST: MERCHANT ST to COLUMBUS AVE \\ WASHINGTON ST (600 - 699)", 
+                "lot": "028", 
+                "permit": "11MFF-0017", 
+                "cnn": "9305000", 
+                "x": "6011671.3169999998", 
+                "id": "305574", 
+                "block": "0208"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.4583917498439, 
+                    37.763864032383225
+                ]
+            }, 
+            "id": "305575", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Soups: salads: sandwiches: beverages: chips and cookies", 
+                "lat": 37.763864032383225, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0017&ExportPDF=1&Filename=11MFF-0017_schedule.pdf", 
+                "block_lot": "1756001", 
+                "applicant": "San Francisco Soup Company", 
+                "long": -122.4583917498439, 
+                "full_address": "401 PARNASSUS AVE", 
+                "facility_type": "Truck", 
+                "y": "2106525.1039999998", 
+                "location": "PARNASSUS AVE: HILLWAY AVE to 03RD AVE (400 - 599)", 
+                "lot": "001", 
+                "permit": "11MFF-0017", 
+                "cnn": "10293000", 
+                "x": "5995605.966", 
+                "id": "305575", 
+                "block": "1756"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40185683929856, 
+                    37.801533119604464
+                ]
+            }, 
+            "id": "305576", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Soups: salads: sandwiches: beverages: chips and cookies", 
+                "lat": 37.801533119604464, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0017&ExportPDF=1&Filename=11MFF-0017_schedule.pdf", 
+                "block_lot": "0107008", 
+                "applicant": "San Francisco Soup Company", 
+                "long": -122.40185683929856, 
+                "full_address": "1105 BATTERY ST", 
+                "facility_type": "Truck", 
+                "y": "2119901.3820000002", 
+                "location": "BATTERY ST: UNION ST to FILBERT ST (1100 - 1199)", 
+                "lot": "008", 
+                "permit": "11MFF-0017", 
+                "cnn": "2767000", 
+                "x": "6012223.4630000005", 
+                "id": "305576", 
+                "block": "0107"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39179682107691, 
+                    37.77632714778992
+                ]
+            }, 
+            "id": "305577", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Soups: salads: sandwiches: beverages: chips and cookies", 
+                "lat": 37.77632714778992, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0018&ExportPDF=1&Filename=11MFF-0018_schedule.pdf", 
+                "block_lot": "3803005", 
+                "applicant": "San Francisco Soup Company", 
+                "long": -122.39179682107691, 
+                "full_address": "185 BERRY ST", 
+                "facility_type": "Truck", 
+                "y": "2110666.298", 
+                "location": "BERRY ST: 03RD ST to 04TH ST (100 - 199)", 
+                "lot": "005", 
+                "permit": "11MFF-0018", 
+                "cnn": "2953000", 
+                "x": "6014943.8689999999", 
+                "id": "305577", 
+                "block": "3803"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.41901401922104, 
+                    37.780518731997084
+                ]
+            }, 
+            "id": "305578", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Soups: salads: sandwiches: beverages: chips and cookies", 
+                "lat": 37.780518731997084, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0018&ExportPDF=1&Filename=11MFF-0018_schedule.pdf", 
+                "block_lot": "0766002", 
+                "applicant": "San Francisco Soup Company", 
+                "long": -122.41901401922104, 
+                "full_address": "400 MCALLISTER ST", 
+                "facility_type": "Truck", 
+                "y": "2112352.3689999999", 
+                "location": "MCALLISTER ST: DR CARLTON B GOODLETT PL \\ POLK ST to VAN NESS AVE (400 - 499)", 
+                "lot": "002", 
+                "permit": "11MFF-0018", 
+                "cnn": "8894000", 
+                "x": "6007110.5810000002", 
+                "id": "305578", 
+                "block": "0766"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.44096930173077, 
+                    37.78267227139135
+                ]
+            }, 
+            "id": "305579", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Soups: salads: sandwiches: beverages: chips and cookies", 
+                "lat": 37.78267227139135, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0018&ExportPDF=1&Filename=11MFF-0018_schedule.pdf", 
+                "block_lot": "1098050", 
+                "applicant": "San Francisco Soup Company", 
+                "long": -122.44096930173077, 
+                "full_address": "2241 GEARY BLVD", 
+                "facility_type": "Truck", 
+                "y": "2113267.1949999998", 
+                "location": "GEARY BLVD: DIVISADERO ST to BAKER ST \\ SAINT JOSEPHS AVE (2201 - 2399) -- SOUTH --", 
+                "lot": "050", 
+                "permit": "11MFF-0018", 
+                "cnn": "6044101", 
+                "x": "6000783.1169999996", 
+                "id": "305579", 
+                "block": "1098"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40527052309521, 
+                    37.7879142297241
+                ]
+            }, 
+            "id": "305585", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Pretzels: hot dogs: coffee: soft drinks: pastries: bakery goods: condiments: potato chips: and desserts", 
+                "lat": 37.7879142297241, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0020&ExportPDF=1&Filename=11MFF-0020_schedule.pdf", 
+                "block_lot": "0309003", 
+                "applicant": "San Francisco Carts & Concessions, Inc. DBA Stanley's Steamers Hot Dogs", 
+                "long": -122.40527052309521, 
+                "full_address": "100 GEARY ST", 
+                "facility_type": "Push Cart", 
+                "y": "2114963.5249999999", 
+                "location": "GEARY ST: GRANT AVE to STOCKTON ST (100 - 199)", 
+                "lot": "003", 
+                "permit": "11MFF-0020", 
+                "cnn": "6108000", 
+                "x": "6011136.4409999996", 
+                "id": "305585", 
+                "block": "0309"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.41157538374301, 
+                    37.80634783369786
+                ]
+            }, 
+            "id": "305591", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "everything except for hot dogs", 
+                "lat": 37.80634783369786, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0021&ExportPDF=1&Filename=11MFF-0021_schedule.pdf", 
+                "block_lot": "0032002", 
+                "applicant": "Off the Grid Services, LLC", 
+                "long": -122.41157538374301, 
+                "full_address": "A/B 0032/002", 
+                "facility_type": "Truck", 
+                "y": "2121711.3689999999", 
+                "location": "POWELL ST: NORTH POINT ST to BEACH ST (2400 - 2499)", 
+                "lot": "002", 
+                "permit": "11MFF-0021", 
+                "cnn": "10705000", 
+                "x": "6009451.9890000001", 
+                "id": "305591", 
+                "block": "0032"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.42313192209394, 
+                    37.792303383075264
+                ]
+            }, 
+            "id": "305592", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Grilled Cheese Sandwiches", 
+                "lat": 37.792303383075264, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0022&ExportPDF=1&Filename=11MFF-0022_schedule.pdf", 
+                "block_lot": "0618002", 
+                "applicant": "Toasty Melts, LLC.", 
+                "long": -122.42313192209394, 
+                "full_address": "1801 VAN NESS AVE", 
+                "facility_type": "Truck", 
+                "y": "2116666.9410000001", 
+                "location": "VAN NESS AVE: CLAY ST to WASHINGTON ST (1801 - 1899) -- WEST --", 
+                "lot": "002", 
+                "permit": "11MFF-0022", 
+                "cnn": "13160101", 
+                "x": "6006008.9309999999", 
+                "id": "305592", 
+                "block": "0618"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39302390502895, 
+                    37.776465602688546
+                ]
+            }, 
+            "id": "305593", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "everything except for hot dogs", 
+                "lat": 37.776465602688546, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0021&ExportPDF=1&Filename=11MFF-0021_schedule.pdf", 
+                "block_lot": "8706011", 
+                "applicant": "Off the Grid Services, LLC", 
+                "long": -122.39302390502895, 
+                "full_address": "A/B 8706/011", 
+                "facility_type": "Truck", 
+                "y": "2110723.8730000001", 
+                "location": "02ND ST: KING ST to BERRY ST (800 - 899)", 
+                "lot": "011", 
+                "permit": "11MFF-0021", 
+                "cnn": "149000", 
+                "x": "6014590.3140000002", 
+                "id": "305593", 
+                "block": "8706"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39588103781848, 
+                    37.789119207911796
+                ]
+            }, 
+            "id": "305594", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Grilled Cheese Sandwiches", 
+                "lat": 37.789119207911796, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0022&ExportPDF=1&Filename=11MFF-0022_schedule.pdf", 
+                "block_lot": "3720008", 
+                "applicant": "Toasty Melts, LLC.", 
+                "long": -122.39588103781848, 
+                "full_address": "400 HOWARD ST", 
+                "facility_type": "Truck", 
+                "y": "2115347.0950000002", 
+                "location": "01ST ST: NATOMA ST to HOWARD ST (165 - 199)", 
+                "lot": "008", 
+                "permit": "11MFF-0022", 
+                "cnn": "106000", 
+                "x": "6013858.0599999996", 
+                "id": "305594", 
+                "block": "3720"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39175327292966, 
+                    37.78973653605892
+                ]
+            }, 
+            "id": "305596", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Grilled Cheese Sandwiches", 
+                "lat": 37.78973653605892, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0022&ExportPDF=1&Filename=11MFF-0022_schedule.pdf", 
+                "block_lot": "3740030", 
+                "applicant": "Toasty Melts, LLC.", 
+                "long": -122.39175327292966, 
+                "full_address": "160 FOLSOM ST", 
+                "facility_type": "Truck", 
+                "y": "2115547.696", 
+                "location": "FOLSOM ST: SPEAR ST to MAIN ST (100 - 199)", 
+                "lot": "030", 
+                "permit": "11MFF-0022", 
+                "cnn": "5651000", 
+                "x": "6015055.1449999996", 
+                "id": "305596", 
+                "block": "3740"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40131490545147, 
+                    37.792609401119016
+                ]
+            }, 
+            "id": "305598", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Grilled Cheese Sandwiches", 
+                "lat": 37.792609401119016, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0022&ExportPDF=1&Filename=11MFF-0022_schedule.pdf", 
+                "block_lot": "0260002", 
+                "applicant": "Toasty Melts, LLC.", 
+                "long": -122.40131490545147, 
+                "full_address": "233 SANSOME ST", 
+                "facility_type": "Truck", 
+                "y": "2116649.5430000001", 
+                "location": "SANSOME ST: PINE ST to CALIFORNIA ST (200 - 299)", 
+                "lot": "002", 
+                "permit": "11MFF-0022", 
+                "cnn": "11544000", 
+                "x": "6012313.9950000001", 
+                "id": "305598", 
+                "block": "0260"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39687496716282, 
+                    37.787378841809954
+                ]
+            }, 
+            "id": "305600", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Grilled Cheese Sandwiches", 
+                "lat": 37.787378841809954, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0022&ExportPDF=1&Filename=11MFF-0022_schedule.pdf", 
+                "block_lot": "3736086", 
+                "applicant": "Toasty Melts, LLC.", 
+                "long": -122.39687496716282, 
+                "full_address": "555 HOWARD ST", 
+                "facility_type": "Truck", 
+                "y": "2114719.3390000002", 
+                "location": "HOWARD ST: 01ST ST to MALDEN ALY (500 - 589)", 
+                "lot": "086", 
+                "permit": "11MFF-0022", 
+                "cnn": "7033000", 
+                "x": "6013558.0630000001", 
+                "id": "305600", 
+                "block": "3736"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40620012684025, 
+                    37.78884516862002
+                ]
+            }, 
+            "id": "305601", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "everything except for hot dogs", 
+                "lat": 37.78884516862002, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0023&ExportPDF=1&Filename=11MFF-0023_schedule.pdf", 
+                "block_lot": "0294009", 
+                "applicant": "Off the Grid Services, LLC", 
+                "long": -122.40620012684025, 
+                "full_address": "250 POST ST", 
+                "facility_type": "Truck", 
+                "y": "2115307.8999999999", 
+                "location": "POST ST: GRANT AVE to STOCKTON ST (200 - 299)", 
+                "lot": "009", 
+                "permit": "11MFF-0023", 
+                "cnn": "10627000", 
+                "x": "6010874.7719999999", 
+                "id": "305601", 
+                "block": "0294"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40209599456323, 
+                    37.78236012101754
+                ]
+            }, 
+            "id": "305602", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "everything except for hot dogs", 
+                "lat": 37.78236012101754, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0024&ExportPDF=1&Filename=11MFF-0024_schedule.pdf", 
+                "block_lot": "3733008", 
+                "applicant": "Off the Grid Services, LLC", 
+                "long": -122.40209599456323, 
+                "full_address": "250 04TH ST", 
+                "facility_type": "Truck", 
+                "y": "2112922.9109999998", 
+                "location": "04TH ST: HOWARD ST to CLEMENTINA ST (200 - 267)", 
+                "lot": "008", 
+                "permit": "11MFF-0024", 
+                "cnn": "254000", 
+                "x": "6012012.4970000004", 
+                "id": "305602", 
+                "block": "3733"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39302390502895, 
+                    37.776465602688546
+                ]
+            }, 
+            "id": "305603", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "everything except for hot dogs", 
+                "lat": 37.776465602688546, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0024&ExportPDF=1&Filename=11MFF-0024_schedule.pdf", 
+                "block_lot": "8706011", 
+                "applicant": "Off the Grid Services, LLC", 
+                "long": -122.39302390502895, 
+                "full_address": "A/B 8706/011", 
+                "facility_type": "Truck", 
+                "y": "2110723.8730000001", 
+                "location": "BERRY ST: 02ND ST to 03RD ST (15 - 99)", 
+                "lot": "011", 
+                "permit": "11MFF-0024", 
+                "cnn": "2952000", 
+                "x": "6014590.3140000002", 
+                "id": "305603", 
+                "block": "8706"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40238346880112, 
+                    37.796313839419675
+                ]
+            }, 
+            "id": "305604", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "everything except for hot dogs", 
+                "lat": 37.796313839419675, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0024&ExportPDF=1&Filename=11MFF-0024_schedule.pdf", 
+                "block_lot": "0196027", 
+                "applicant": "Off the Grid Services, LLC", 
+                "long": -122.40238346880112, 
+                "full_address": "440 JACKSON ST", 
+                "facility_type": "Truck", 
+                "y": "2118004.4079999998", 
+                "location": "JACKSON ST: BALANCE ST to HOTALING PL (426 - 461)", 
+                "lot": "027", 
+                "permit": "11MFF-0024", 
+                "cnn": "7365000", 
+                "x": "6012032.7120000003", 
+                "id": "305604", 
+                "block": "0196"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40116037029892, 
+                    37.79083841945172
+                ]
+            }, 
+            "id": "305611", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Chicken Tiki Masala Burritos: Paneer Tiki Masala Burritos: Samosas: Mango Lassi", 
+                "lat": 37.79083841945172, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0025&ExportPDF=1&Filename=11MFF-0025_schedule.pdf", 
+                "block_lot": "0289001", 
+                "applicant": "Curry Up Now", 
+                "long": -122.40116037029892, 
+                "full_address": "225 BUSH ST", 
+                "facility_type": "Truck", 
+                "y": "2116003.915", 
+                "location": "BUSH ST: TREASURY PL to PETRARCH PL (220 - 251)", 
+                "lot": "001", 
+                "permit": "11MFF-0025", 
+                "cnn": "3422000", 
+                "x": "6012345.54", 
+                "id": "305611", 
+                "block": "0289"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39665067526364, 
+                    37.79691371248354
+                ]
+            }, 
+            "id": "305613", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Chicken Tiki Masala Burritos: Paneer Tiki Masala Burritos: Samosas: Mango Lassi", 
+                "lat": 37.79691371248354, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0025&ExportPDF=1&Filename=11MFF-0025_schedule.pdf", 
+                "block_lot": "0201012", 
+                "applicant": "Curry Up Now", 
+                "long": -122.39665067526364, 
+                "full_address": "370 DRUMM ST", 
+                "facility_type": "Truck", 
+                "y": "2118189.1719999998", 
+                "location": "DRUMM ST: WASHINGTON ST intersection", 
+                "lot": "012", 
+                "permit": "11MFF-0025", 
+                "cnn": "24571000", 
+                "x": "6013693.2220000001", 
+                "id": "305613", 
+                "block": "0201"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39665067526364, 
+                    37.79691371248354
+                ]
+            }, 
+            "id": "305613", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Chicken Tiki Masala Burritos: Paneer Tiki Masala Burritos: Samosas: Mango Lassi", 
+                "lat": 37.79691371248354, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0025&ExportPDF=1&Filename=11MFF-0025_schedule.pdf", 
+                "block_lot": "0201012", 
+                "applicant": "Curry Up Now", 
+                "long": -122.39665067526364, 
+                "full_address": "370 DRUMM ST", 
+                "facility_type": "Truck", 
+                "y": "2118189.1719999998", 
+                "location": "WASHINGTON ST: DRUMM ST intersection", 
+                "lot": "012", 
+                "permit": "11MFF-0025", 
+                "cnn": "24571000", 
+                "x": "6013693.2220000001", 
+                "id": "305613", 
+                "block": "0201"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39889295829775, 
+                    37.78924890936454
+                ]
+            }, 
+            "id": "305614", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Indian Street Food", 
+                "lat": 37.78924890936454, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0026&ExportPDF=1&Filename=11MFF-0026_schedule.pdf", 
+                "block_lot": "3708098", 
+                "applicant": "VK Industries, Inc.", 
+                "long": -122.39889295829775, 
+                "full_address": "536 MISSION ST", 
+                "facility_type": "Truck", 
+                "y": "2115411.9569999999", 
+                "location": "MISSION ST: ECKER ST to SHAW ALY (521 - 548)", 
+                "lot": "098", 
+                "permit": "11MFF-0026", 
+                "cnn": "9089000", 
+                "x": "6012988.8530000001", 
+                "id": "305614", 
+                "block": "3708"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39175151243407, 
+                    37.778981754652705
+                ]
+            }, 
+            "id": "305616", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Indian Street Food", 
+                "lat": 37.778981754652705, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0026&ExportPDF=1&Filename=11MFF-0026_schedule.pdf", 
+                "block_lot": "3794122", 
+                "applicant": "VK Industries, Inc.", 
+                "long": -122.39175151243407, 
+                "full_address": "177 TOWNSEND ST", 
+                "facility_type": "Truck", 
+                "y": "2111632.4350000001", 
+                "location": "TOWNSEND ST: STANFORD ST to CLARENCE PL (130 - 179)", 
+                "lot": "122", 
+                "permit": "11MFF-0026", 
+                "cnn": "12657000", 
+                "x": "6014976.4989999998", 
+                "id": "305616", 
+                "block": "3794"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40959283347962, 
+                    37.78756516537884
+                ]
+            }, 
+            "id": "305617", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Indian Street Food", 
+                "lat": 37.78756516537884, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0026&ExportPDF=1&Filename=11MFF-0026_schedule.pdf", 
+                "block_lot": "0307008", 
+                "applicant": "VK Industries, Inc.", 
+                "long": -122.40959283347962, 
+                "full_address": "34 ELLIS ST", 
+                "facility_type": "Truck", 
+                "y": "2114861.9049999998", 
+                "location": "ELLIS ST: 04TH ST \\ MARKET ST \\ STOCKTON ST to POWELL ST (1 - 99)", 
+                "lot": "008", 
+                "permit": "11MFF-0026", 
+                "cnn": "5169000", 
+                "x": "6009885.0839999998", 
+                "id": "305617", 
+                "block": "0307"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39734769332577, 
+                    37.79405318373291
+                ]
+            }, 
+            "id": "305618", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Indian Street Food", 
+                "lat": 37.79405318373291, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0027&ExportPDF=1&Filename=11MFF-0027_schedule.pdf", 
+                "block_lot": "0235022", 
+                "applicant": "VK Industries, Inc.", 
+                "long": -122.39734769332577, 
+                "full_address": "50 CALIFORNIA ST", 
+                "facility_type": "Truck", 
+                "y": "2117151.8849999998", 
+                "location": "DAVIS ST: SACRAMENTO ST to CLAY ST (200 - 399)", 
+                "lot": "022", 
+                "permit": "11MFF-0027", 
+                "cnn": "4607000", 
+                "x": "6013470.7539999997", 
+                "id": "305618", 
+                "block": "0235"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.3960831878153, 
+                    37.79179673381783
+                ]
+            }, 
+            "id": "305619", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Indian Street Food", 
+                "lat": 37.79179673381783, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0027&ExportPDF=1&Filename=11MFF-0027_schedule.pdf", 
+                "block_lot": "3711013", 
+                "applicant": "VK Industries, Inc.", 
+                "long": -122.3960831878153, 
+                "full_address": "61 BEALE ST", 
+                "facility_type": "Truck", 
+                "y": "2116323.0249999999", 
+                "location": "BEALE ST: DAVIS ST \\ MARKET ST \\ PINE ST to MISSION ST (1 - 99)", 
+                "lot": "013", 
+                "permit": "11MFF-0027", 
+                "cnn": "2863000", 
+                "x": "6013819.409", 
+                "id": "305619", 
+                "block": "3711"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39106181728661, 
+                    37.78168897534514
+                ]
+            }, 
+            "id": "305620", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Indian Street Food", 
+                "lat": 37.78168897534514, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0027&ExportPDF=1&Filename=11MFF-0027_schedule.pdf", 
+                "block_lot": "3789007", 
+                "applicant": "VK Industries, Inc.", 
+                "long": -122.39106181728661, 
+                "full_address": "625 2ND ST", 
+                "facility_type": "Truck", 
+                "y": "2112613.963", 
+                "location": "02ND ST: BRANNAN ST to TOWNSEND ST (600 - 699)", 
+                "lot": "007", 
+                "permit": "11MFF-0027", 
+                "cnn": "147000", 
+                "x": "6015195.7019999996", 
+                "id": "305620", 
+                "block": "3789"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.4090294256817, 
+                    37.786972543974805
+                ]
+            }, 
+            "id": "305621", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Indian Street Food", 
+                "lat": 37.786972543974805, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0027&ExportPDF=1&Filename=11MFF-0027_schedule.pdf", 
+                "block_lot": "0315022", 
+                "applicant": "VK Industries, Inc.", 
+                "long": -122.4090294256817, 
+                "full_address": "A/B 0315/022", 
+                "facility_type": "Truck", 
+                "y": "2114642.8420000002", 
+                "location": "GEARY ST: POWELL ST to MASON ST (300 - 399)", 
+                "lot": "022", 
+                "permit": "11MFF-0027", 
+                "cnn": "6110000", 
+                "x": "6010043.4579999996", 
+                "id": "305621", 
+                "block": "0315"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39757544113601, 
+                    37.79053987263753
+                ]
+            }, 
+            "id": "305631", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Burgers: French Fries: Black Bean Burgers: Mac and Cheese: drinks", 
+                "lat": 37.79053987263753, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0029&ExportPDF=1&Filename=11MFF-0029_schedule.pdf", 
+                "block_lot": "3709019", 
+                "applicant": "Doc's of the Bay", 
+                "long": -122.39757544113601, 
+                "full_address": "50 FREMONT ST", 
+                "facility_type": "Truck", 
+                "y": "2115874.2069999999", 
+                "location": "MISSION ST: FREMONT ST to 01ST ST (400 - 499)", 
+                "lot": "019", 
+                "permit": "11MFF-0029", 
+                "cnn": "9087000", 
+                "x": "6013379.023", 
+                "id": "305631", 
+                "block": "3709"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.43696354934822, 
+                    37.772507977758806
+                ]
+            }, 
+            "id": "305632", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Burgers: French Fries: Black Bean Burgers: Mac and Cheese: drinks", 
+                "lat": 37.772507977758806, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0029&ExportPDF=1&Filename=11MFF-0029_schedule.pdf", 
+                "block_lot": "1217021", 
+                "applicant": "Doc's of the Bay", 
+                "long": -122.43696354934822, 
+                "full_address": "312 DIVISADERO ST", 
+                "facility_type": "Truck", 
+                "y": "2109542.9679999999", 
+                "location": "DIVISADERO ST: PAGE ST to OAK ST (300 - 398) -- EAST --", 
+                "lot": "021", 
+                "permit": "11MFF-0029", 
+                "cnn": "4800201", 
+                "x": "6001863.9009999996", 
+                "id": "305632", 
+                "block": "1217"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40221079523491, 
+                    37.79515884162016
+                ]
+            }, 
+            "id": "305633", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Burgers: French Fries: Black Bean Burgers: Mac and Cheese: drinks", 
+                "lat": 37.79515884162016, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0029&ExportPDF=1&Filename=11MFF-0029_schedule.pdf", 
+                "block_lot": "0207033", 
+                "applicant": "Doc's of the Bay", 
+                "long": -122.40221079523491, 
+                "full_address": "535 WASHINGTON ST", 
+                "facility_type": "Truck", 
+                "y": "2117582.9199999999", 
+                "location": "WASHINGTON ST: SANSOME ST to HOTALING PL (500 - 549)", 
+                "lot": "033", 
+                "permit": "11MFF-0029", 
+                "cnn": "13408000", 
+                "x": "6012074.0460000001", 
+                "id": "305633", 
+                "block": "0207"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.4007474940767, 
+                    37.792870749741496
+                ]
+            }, 
+            "id": "305636", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Vietnamese sandwiches: spring rolls: bottle water: & can soda.", 
+                "lat": 37.792870749741496, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0030&ExportPDF=1&Filename=11MFF-0030_schedule.pdf", 
+                "block_lot": "0261010A", 
+                "applicant": "Viet Duong Co., Ltd.", 
+                "long": -122.4007474940767, 
+                "full_address": "351 CALIFORNIA ST", 
+                "facility_type": "Push Cart", 
+                "y": "2116741.3560000001", 
+                "location": "CALIFORNIA ST: SANSOME ST intersection", 
+                "lot": "010A", 
+                "permit": "11MFF-0030", 
+                "cnn": "24685000", 
+                "x": "6012479.8490000004", 
+                "id": "305636", 
+                "block": "0261"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.4007474940767, 
+                    37.792870749741496
+                ]
+            }, 
+            "id": "305636", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Vietnamese sandwiches: spring rolls: bottle water: & can soda.", 
+                "lat": 37.792870749741496, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0030&ExportPDF=1&Filename=11MFF-0030_schedule.pdf", 
+                "block_lot": "0261010A", 
+                "applicant": "Viet Duong Co., Ltd.", 
+                "long": -122.4007474940767, 
+                "full_address": "351 CALIFORNIA ST", 
+                "facility_type": "Push Cart", 
+                "y": "2116741.3560000001", 
+                "location": "SANSOME ST: CALIFORNIA ST intersection", 
+                "lot": "010A", 
+                "permit": "11MFF-0030", 
+                "cnn": "24685000", 
+                "x": "6012479.8490000004", 
+                "id": "305636", 
+                "block": "0261"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.42159592209795, 
+                    37.76517591706723
+                ]
+            }, 
+            "id": "305637", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Burgers: French Fries: Black Bean Burgers: Mac and Cheese: drinks", 
+                "lat": 37.76517591706723, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0029&ExportPDF=1&Filename=11MFF-0029_schedule.pdf", 
+                "block_lot": "3554016", 
+                "applicant": "Doc's of the Bay", 
+                "long": -122.42159592209795, 
+                "full_address": "3092 16TH ST", 
+                "facility_type": "Truck", 
+                "y": "2106782.2140000002", 
+                "location": "VALENCIA ST: SPARROW ST to 16TH ST (450 - 499)", 
+                "lot": "016", 
+                "permit": "11MFF-0029", 
+                "cnn": "13059000", 
+                "x": "6006249.8650000002", 
+                "id": "305637", 
+                "block": "3554"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.41909297160178, 
+                    37.75527235975176
+                ]
+            }, 
+            "id": "305639", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Burgers: French Fries: Black Bean Burgers: Mac and Cheese: drinks", 
+                "lat": 37.75527235975176, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0029&ExportPDF=1&Filename=11MFF-0029_schedule.pdf", 
+                "block_lot": "3636001", 
+                "applicant": "Doc's of the Bay", 
+                "long": -122.41909297160178, 
+                "full_address": "2600 MISSION ST", 
+                "facility_type": "Truck", 
+                "y": "2103162.0410000002", 
+                "location": "22ND ST: MISSION ST to BARTLETT ST (3200 - 3249)", 
+                "lot": "001", 
+                "permit": "11MFF-0029", 
+                "cnn": "1191000", 
+                "x": "6006899.2719999999", 
+                "id": "305639", 
+                "block": "3636"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39643400797567, 
+                    37.79236351441102
+                ]
+            }, 
+            "id": "305641", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Burgers: French Fries: Black Bean Burgers: Mac and Cheese: drinks", 
+                "lat": 37.79236351441102, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0029&ExportPDF=1&Filename=11MFF-0029_schedule.pdf", 
+                "block_lot": "3711019", 
+                "applicant": "Doc's of the Bay", 
+                "long": -122.39643400797567, 
+                "full_address": "25 BEALE ST", 
+                "facility_type": "Truck", 
+                "y": "2116531.4139999999", 
+                "location": "BEALE ST: DAVIS ST \\ MARKET ST \\ PINE ST to MISSION ST (1 - 99)", 
+                "lot": "019", 
+                "permit": "11MFF-0029", 
+                "cnn": "2863000", 
+                "x": "6013722.2400000002", 
+                "id": "305641", 
+                "block": "3711"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.4018247471207, 
+                    37.78939197610272
+                ]
+            }, 
+            "id": "305646", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Pretzels: hot dogs: soft drinks: condiments: coffee: juices: pastries: bakery goods: desserts: soups: chips and fresh fruit", 
+                "lat": 37.78939197610272, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0031&ExportPDF=1&Filename=11MFF-0031_schedule.pdf", 
+                "block_lot": "0291007", 
+                "applicant": "San Francisco Carts & Concessions, Inc. DBA Stanley's Steamers Hot Dogs", 
+                "long": -122.4018247471207, 
+                "full_address": "2 MONTGOMERY ST", 
+                "facility_type": "Push Cart", 
+                "y": "2115481.2420000001", 
+                "location": "MONTGOMERY ST: POST ST to SUTTER ST (1 - 99)", 
+                "lot": "007", 
+                "permit": "11MFF-0031", 
+                "cnn": "9297000", 
+                "x": "6012142.8990000002", 
+                "id": "305646", 
+                "block": "0291"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.4001004237385, 
+                    37.79092150726921
+                ]
+            }, 
+            "id": "305651", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Vietnamese Sandwiches: Spring Rolls: Bottled Water & Can Soda", 
+                "lat": 37.79092150726921, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0033&ExportPDF=1&Filename=11MFF-0033_schedule.pdf", 
+                "block_lot": "0290011", 
+                "applicant": "Viet Duong Co., Ltd.", 
+                "long": -122.4001004237385, 
+                "full_address": "1 BUSH ST", 
+                "facility_type": "Push Cart", 
+                "y": "2116027.943", 
+                "location": "SANSOME ST: SUTTER ST to BUSH ST (1 - 99)", 
+                "lot": "011", 
+                "permit": "11MFF-0033", 
+                "cnn": "11542000", 
+                "x": "6012652.3729999997", 
+                "id": "305651", 
+                "block": "0290"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39580386550163, 
+                    37.79210933860902
+                ]
+            }, 
+            "id": "305654", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Prepackaged vietnamese sandwich: spring roll: bottle water: can soda", 
+                "lat": 37.79210933860902, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0032&ExportPDF=1&Filename=11MFF-0032_schedule.pdf", 
+                "block_lot": "3711005", 
+                "applicant": "Viet Duong Co., Ltd.", 
+                "long": -122.39580386550163, 
+                "full_address": "58 MAIN ST", 
+                "facility_type": "Push Cart", 
+                "y": "2116435.193", 
+                "location": "MAIN ST: MARKET ST to MISSION ST (1 - 99)", 
+                "lot": "005", 
+                "permit": "11MFF-0032", 
+                "cnn": "8627000", 
+                "x": "6013902.4100000001", 
+                "id": "305654", 
+                "block": "3711"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39865818460403, 
+                    37.790149073725544
+                ]
+            }, 
+            "id": "305665", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Cupcakes", 
+                "lat": 37.790149073725544, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0034&ExportPDF=1&Filename=11MFF-0034_schedule.pdf", 
+                "block_lot": "3708055", 
+                "applicant": "Cupkates Bakery, LLC", 
+                "long": -122.39865818460403, 
+                "full_address": "50 01ST ST", 
+                "facility_type": "Truck", 
+                "y": "2115738.2829999998", 
+                "location": "01ST ST: STEVENSON ST to JESSIE ST (21 - 56)", 
+                "lot": "055", 
+                "permit": "11MFF-0034", 
+                "cnn": "101000", 
+                "x": "6013063.3300000001", 
+                "id": "305665", 
+                "block": "3708"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40246743800449, 
+                    37.78948669612784
+                ]
+            }, 
+            "id": "305666", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Cupcakes", 
+                "lat": 37.78948669612784, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0034&ExportPDF=1&Filename=11MFF-0034_schedule.pdf", 
+                "block_lot": "0292001A", 
+                "applicant": "Cupkates Bakery, LLC", 
+                "long": -122.40246743800449, 
+                "full_address": "25 MONTGOMERY ST", 
+                "facility_type": "Truck", 
+                "y": "2115519.4989999998", 
+                "location": "MONTGOMERY ST: POST ST to SUTTER ST (1 - 99)", 
+                "lot": "001A", 
+                "permit": "11MFF-0034", 
+                "cnn": "9297000", 
+                "x": "6011957.9230000004", 
+                "id": "305666", 
+                "block": "0292"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40103785668795, 
+                    37.79142654133214
+                ]
+            }, 
+            "id": "305668", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Cupcakes", 
+                "lat": 37.79142654133214, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0034&ExportPDF=1&Filename=11MFF-0034_schedule.pdf", 
+                "block_lot": "0268002", 
+                "applicant": "Cupkates Bakery, LLC", 
+                "long": -122.40103785668795, 
+                "full_address": "115 SANSOME ST", 
+                "facility_type": "Truck", 
+                "y": "2116217.2999999998", 
+                "location": "SANSOME ST: BUSH ST to PINE ST (100 - 199)", 
+                "lot": "002", 
+                "permit": "11MFF-0034", 
+                "cnn": "11543000", 
+                "x": "6012385.284", 
+                "id": "305668", 
+                "block": "0268"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39099930600248, 
+                    37.77551013804947
+                ]
+            }, 
+            "id": "305672", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Italian subs: Cuban sandwich: Gyro", 
+                "lat": 37.77551013804947, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0035&ExportPDF=1&Filename=11MFF-0035_schedule.pdf", 
+                "block_lot": "8714002", 
+                "applicant": "Subs on Hubs", 
+                "long": -122.39099930600248, 
+                "full_address": "1000 03RD ST", 
+                "facility_type": "Truck", 
+                "y": "2110364.21", 
+                "location": "03RD ST: TERRY A FRANCOIS BLVD to CHANNEL (1000 - 1099)", 
+                "lot": "002", 
+                "permit": "11MFF-0035", 
+                "cnn": "184001", 
+                "x": "6015168.3059999999", 
+                "id": "305672", 
+                "block": "8714"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40347298418527, 
+                    37.76920141885515
+                ]
+            }, 
+            "id": "305674", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Italian subs: Cuban sandwich: Gyro", 
+                "lat": 37.76920141885515, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0035&ExportPDF=1&Filename=11MFF-0035_schedule.pdf", 
+                "block_lot": "3911001", 
+                "applicant": "Subs on Hubs", 
+                "long": -122.40347298418527, 
+                "full_address": "55 DIVISION ST", 
+                "facility_type": "Truck", 
+                "y": "2108140.6290000002", 
+                "location": "DIVISION ST: 08TH ST to HENRY ADAMS ST (50 - 99)", 
+                "lot": "001", 
+                "permit": "11MFF-0035", 
+                "cnn": "4839000", 
+                "x": "6011517.1919999998", 
+                "id": "305674", 
+                "block": "3911"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.4017890913628, 
+                    37.793262206923096
+                ]
+            }, 
+            "id": "305676", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Cupcakes", 
+                "lat": 37.793262206923096, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0034&ExportPDF=1&Filename=11MFF-0034_schedule.pdf", 
+                "block_lot": "0239029", 
+                "applicant": "Cupkates Bakery, LLC", 
+                "long": -122.4017890913628, 
+                "full_address": "430 CALIFORNIA ST", 
+                "facility_type": "Truck", 
+                "y": "2116889.9789999998", 
+                "location": "CALIFORNIA ST: SANSOME ST to LEIDESDORFF ST (400 - 448)", 
+                "lot": "029", 
+                "permit": "11MFF-0034", 
+                "cnn": "3528000", 
+                "x": "6012181.8360000001", 
+                "id": "305676", 
+                "block": "0239"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.41005002886237, 
+                    37.77547216285244
+                ]
+            }, 
+            "id": "305677", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Italian subs: Cuban sandwich: Gyro", 
+                "lat": 37.77547216285244, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0035&ExportPDF=1&Filename=11MFF-0035_schedule.pdf", 
+                "block_lot": "3730027", 
+                "applicant": "Subs on Hubs", 
+                "long": -122.41005002886237, 
+                "full_address": "1190 FOLSOM ST", 
+                "facility_type": "Truck", 
+                "y": "2110462.1940000001", 
+                "location": "FOLSOM ST: RODGERS ST to 08TH ST (1176 - 1199)", 
+                "lot": "027", 
+                "permit": "11MFF-0035", 
+                "cnn": "5677000", 
+                "x": "6009663.1299999999", 
+                "id": "305677", 
+                "block": "3730"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40657367342877, 
+                    37.7711790005481
+                ]
+            }, 
+            "id": "305680", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Italian subs: Cuban sandwich: Gyro", 
+                "lat": 37.7711790005481, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0035&ExportPDF=1&Filename=11MFF-0035_schedule.pdf", 
+                "block_lot": "3781008", 
+                "applicant": "Subs on Hubs", 
+                "long": -122.40657367342877, 
+                "full_address": "934 BRANNAN ST", 
+                "facility_type": "Truck", 
+                "y": "2108878.801", 
+                "location": "BRANNAN ST: 08TH ST to 09TH ST (900 - 999)", 
+                "lot": "008", 
+                "permit": "11MFF-0035", 
+                "cnn": "3089000", 
+                "x": "6010635.8109999998", 
+                "id": "305680", 
+                "block": "3781"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39813117931989, 
+                    37.77929288091901
+                ]
+            }, 
+            "id": "305682", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Italian subs: Cuban sandwich: Gyro", 
+                "lat": 37.77929288091901, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0035&ExportPDF=1&Filename=11MFF-0035_schedule.pdf", 
+                "block_lot": "3777001", 
+                "applicant": "Subs on Hubs", 
+                "long": -122.39813117931989, 
+                "full_address": "500 04TH ST", 
+                "facility_type": "Truck", 
+                "y": "2111783.0299999998", 
+                "location": "04TH ST: BRYANT ST \\ I-80 E OFF RAMP to WELSH ST (500 - 541)", 
+                "lot": "001", 
+                "permit": "11MFF-0035", 
+                "cnn": "262000", 
+                "x": "6013135.4129999997", 
+                "id": "305682", 
+                "block": "3777"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39177164592088, 
+                    37.771401945558935
+                ]
+            }, 
+            "id": "305683", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Italian subs: Cuban sandwich: Gyro", 
+                "lat": 37.771401945558935, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0035&ExportPDF=1&Filename=11MFF-0035_schedule.pdf", 
+                "block_lot": "8711021", 
+                "applicant": "Subs on Hubs", 
+                "long": -122.39177164592088, 
+                "full_address": "A/B 8711/021", 
+                "facility_type": "Truck", 
+                "y": "2108873.1469999999", 
+                "location": "04TH ST: CHINA BASIN ST to MISSION BAY NORTH BLVD (1300 - 1399)", 
+                "lot": "021", 
+                "permit": "11MFF-0035", 
+                "cnn": "19984000", 
+                "x": "6014914.8940000003", 
+                "id": "305683", 
+                "block": "8711"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.4018393503297, 
+                    37.77871039190089
+                ]
+            }, 
+            "id": "305684", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Italian subs: Cuban sandwich: Gyro", 
+                "lat": 37.77871039190089, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0035&ExportPDF=1&Filename=11MFF-0035_schedule.pdf", 
+                "block_lot": "3760001", 
+                "applicant": "Subs on Hubs", 
+                "long": -122.4018393503297, 
+                "full_address": "400 05TH ST", 
+                "facility_type": "Truck", 
+                "y": "2111592.733", 
+                "location": "05TH ST: HARRISON ST \\ I-80 W OFF RAMP to PERRY ST (400 - 449)", 
+                "lot": "001", 
+                "permit": "11MFF-0035", 
+                "cnn": "302000", 
+                "x": "6012059.6449999996", 
+                "id": "305684", 
+                "block": "3760"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39956633142907, 
+                    37.787514060738104
+                ]
+            }, 
+            "id": "305693", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Hot dogs: Sausages: Chips: Soft Pretels: Churrios and drinks", 
+                "lat": 37.787514060738104, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0037&ExportPDF=1&Filename=11MFF-0037_schedule.pdf", 
+                "block_lot": "3722002", 
+                "applicant": "Gorilla Pete's", 
+                "long": -122.39956633142907, 
+                "full_address": "120 02ND ST", 
+                "facility_type": "Push Cart", 
+                "y": "2114784.3390000002", 
+                "location": "02ND ST: MISSION ST to MINNA ST (100 - 130)", 
+                "lot": "002", 
+                "permit": "11MFF-0037", 
+                "cnn": "132000", 
+                "x": "6012781.4900000002", 
+                "id": "305693", 
+                "block": "3722"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.3993634055119, 
+                    37.79157573779903
+                ]
+            }, 
+            "id": "305694", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Wood Fired Pizzas", 
+                "lat": 37.79157573779903, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0036&ExportPDF=1&Filename=11MFF-0036_schedule.pdf", 
+                "block_lot": "0266006", 
+                "applicant": "Del Popolo, LLC.", 
+                "long": -122.3993634055119, 
+                "full_address": "22 BATTERY ST", 
+                "facility_type": "Truck", 
+                "y": "2116261.7910000002", 
+                "location": "BATTERY ST: BUSH ST to PINE ST (11 - 99)", 
+                "lot": "006", 
+                "permit": "11MFF-0036", 
+                "cnn": "2752000", 
+                "x": "6012870.1320000002", 
+                "id": "305694", 
+                "block": "0266"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.3990112228206, 
+                    37.79745515678238
+                ]
+            }, 
+            "id": "305700", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Wood Fired Pizzas", 
+                "lat": 37.79745515678238, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0036&ExportPDF=1&Filename=11MFF-0036_schedule.pdf", 
+                "block_lot": "0172010", 
+                "applicant": "Del Popolo, LLC.", 
+                "long": -122.3990112228206, 
+                "full_address": "600 FRONT ST", 
+                "facility_type": "Truck", 
+                "y": "2118400.1140000001", 
+                "location": "FRONT ST: JACKSON ST to PACIFIC AVE (600 - 699)", 
+                "lot": "010", 
+                "permit": "11MFF-0036", 
+                "cnn": "5872000", 
+                "x": "6013015.3150000004", 
+                "id": "305700", 
+                "block": "0172"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39168556991491, 
+                    37.777527495404264
+                ]
+            }, 
+            "id": "305701", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Hot dogs: Sausages: Chips: Soft Pretels: Churrios and drinks", 
+                "lat": 37.777527495404264, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0037&ExportPDF=1&Filename=11MFF-0037_schedule.pdf", 
+                "block_lot": "8706268", 
+                "applicant": "Gorilla Pete's", 
+                "long": -122.39168556991491, 
+                "full_address": "207 KING ST", 
+                "facility_type": "Push Cart", 
+                "y": "2111102.6310000001", 
+                "location": "KING ST: 03RD ST to 04TH ST (201 - 299) -- SOUTH --", 
+                "lot": "268", 
+                "permit": "11MFF-0037", 
+                "cnn": "7833101", 
+                "x": "6014984.8499999996", 
+                "id": "305701", 
+                "block": "8706"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39302390502895, 
+                    37.776465602688546
+                ]
+            }, 
+            "id": "305703", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Hot dogs: Sausages: Chips: Soft Pretels: Churrios and drinks", 
+                "lat": 37.776465602688546, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0037&ExportPDF=1&Filename=11MFF-0037_schedule.pdf", 
+                "block_lot": "8706011", 
+                "applicant": "Gorilla Pete's", 
+                "long": -122.39302390502895, 
+                "full_address": "A/B 8706/011", 
+                "facility_type": "Push Cart", 
+                "y": "2110723.8730000001", 
+                "location": "KING ST: 03RD ST to 04TH ST (201 - 299) -- SOUTH --", 
+                "lot": "011", 
+                "permit": "11MFF-0037", 
+                "cnn": "7833101", 
+                "x": "6014590.3140000002", 
+                "id": "305703", 
+                "block": "8706"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.3926990658272, 
+                    37.790594306583266
+                ]
+            }, 
+            "id": "305706", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Hot dogs: Sausages: Chips: Soft Pretels: Churrios and drinks", 
+                "lat": 37.790594306583266, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0037&ExportPDF=1&Filename=11MFF-0037_schedule.pdf", 
+                "block_lot": "3740033", 
+                "applicant": "Gorilla Pete's", 
+                "long": -122.3926990658272, 
+                "full_address": "211 MAIN ST", 
+                "facility_type": "Push Cart", 
+                "y": "2115865.4909999999", 
+                "location": "MAIN ST: HOWARD ST to FOLSOM ST (200 - 299)", 
+                "lot": "033", 
+                "permit": "11MFF-0037", 
+                "cnn": "8629000", 
+                "x": "6014788.2170000002", 
+                "id": "305706", 
+                "block": "3740"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.3975170864693, 
+                    37.791777988405975
+                ]
+            }, 
+            "id": "305715", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Indian Style: BBQ: Variety of Curries: Rice: Wraps: Breads (Naan: Rotis: Parathas): Desserts: Pizza.  Beverages: Condiments: Indian Soups: Salads & Appetizer Varieties.", 
+                "lat": 37.791777988405975, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0039&ExportPDF=1&Filename=11MFF-0039_schedule.pdf", 
+                "block_lot": "3710020", 
+                "applicant": "Bombay Blvd.", 
+                "long": -122.3975170864693, 
+                "full_address": "333 MARKET ST", 
+                "facility_type": "Truck", 
+                "y": "2116324.5980000002", 
+                "location": "BEALE ST: DAVIS ST \\ MARKET ST \\ PINE ST to MISSION ST (1 - 99)", 
+                "lot": "020", 
+                "permit": "11MFF-0039", 
+                "cnn": "2863000", 
+                "x": "6013405.0219999999", 
+                "id": "305715", 
+                "block": "3710"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40253249134584, 
+                    37.786206082103924
+                ]
+            }, 
+            "id": "305735", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Indian Style: BBQ: Variety of Curries: Rice: Wraps: Breads (Naan: Rotis: Parathas): Desserts: Pizza.  Beverages: Condiments: Indian Soups: Salads & Appetizer Varieties.", 
+                "lat": 37.786206082103924, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0040&ExportPDF=1&Filename=11MFF-0040_schedule.pdf", 
+                "block_lot": "3706093", 
+                "applicant": "Bombay Blvd.", 
+                "long": -122.40253249134584, 
+                "full_address": "86 03RD ST", 
+                "facility_type": "Truck", 
+                "y": "2114325.5839999998", 
+                "location": "03RD ST: JESSIE ST to MISSION ST (68 - 99)", 
+                "lot": "093", 
+                "permit": "11MFF-0040", 
+                "cnn": "165000", 
+                "x": "6011914.8459999999", 
+                "id": "305735", 
+                "block": "3706"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40815476434545, 
+                    37.78561008636915
+                ]
+            }, 
+            "id": "305760", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Filipino fusion food: taco: burrito: nachos: rice plates", 
+                "lat": 37.78561008636915, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0041&ExportPDF=1&Filename=11MFF-0041_schedule.pdf", 
+                "block_lot": "0326005", 
+                "applicant": "Senor Sisig", 
+                "long": -122.40815476434545, 
+                "full_address": "120 ELLIS ST", 
+                "facility_type": "Truck", 
+                "y": "2114141.6899999999", 
+                "location": "ELLIS ST: POWELL ST to CYRIL MAGNIN ST (100 - 148)", 
+                "lot": "005", 
+                "permit": "11MFF-0041", 
+                "cnn": "5170000", 
+                "x": "6010286.0460000001", 
+                "id": "305760", 
+                "block": "0326"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.4018501909886, 
+                    37.79034624734142
+                ]
+            }, 
+            "id": "305763", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Rice balls & Rice bowls", 
+                "lat": 37.79034624734142, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0042&ExportPDF=1&Filename=11MFF-0042_schedule.pdf", 
+                "block_lot": "0289005", 
+                "applicant": "Onigilly, LLC", 
+                "long": -122.4018501909886, 
+                "full_address": "120 MONTGOMERY ST", 
+                "facility_type": "Truck", 
+                "y": "2115828.7910000002", 
+                "location": "SUTTER ST: SANSOME ST to MONTGOMERY ST (50 - 99)", 
+                "lot": "005", 
+                "permit": "11MFF-0042", 
+                "cnn": "12316000", 
+                "x": "6012142.6090000002", 
+                "id": "305763", 
+                "block": "0289"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39956633142907, 
+                    37.787514060738104
+                ]
+            }, 
+            "id": "305764", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Filipino fusion food: taco: burrito: nachos: rice plates", 
+                "lat": 37.787514060738104, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0041&ExportPDF=1&Filename=11MFF-0041_schedule.pdf", 
+                "block_lot": "3722002", 
+                "applicant": "Senor Sisig", 
+                "long": -122.39956633142907, 
+                "full_address": "120 02ND ST", 
+                "facility_type": "Truck", 
+                "y": "2114784.3390000002", 
+                "location": "02ND ST: MISSION ST to MINNA ST (100 - 130)", 
+                "lot": "002", 
+                "permit": "11MFF-0041", 
+                "cnn": "132000", 
+                "x": "6012781.4900000002", 
+                "id": "305764", 
+                "block": "3722"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40049651956416, 
+                    37.800359056004616
+                ]
+            }, 
+            "id": "305775", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Breakfast", 
+                "lat": 37.800359056004616, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0043&ExportPDF=1&Filename=11MFF-0043_schedule.pdf", 
+                "block_lot": "0136001", 
+                "applicant": "Nick Bernard Foods", 
+                "long": -122.40049651956416, 
+                "full_address": "55 GREEN ST", 
+                "facility_type": "Truck", 
+                "y": "2119465.983", 
+                "location": "GREEN ST: FRONT ST to BATTERY ST (50 - 99)", 
+                "lot": "001", 
+                "permit": "11MFF-0043", 
+                "cnn": "6439000", 
+                "x": "6012607.7220000001", 
+                "id": "305775", 
+                "block": "0136"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40247802376844, 
+                    37.76897270424185
+                ]
+            }, 
+            "id": "305778", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Breakfast", 
+                "lat": 37.76897270424185, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0043&ExportPDF=1&Filename=11MFF-0043_schedule.pdf", 
+                "block_lot": "3912002", 
+                "applicant": "Nick Bernard Foods", 
+                "long": -122.40247802376844, 
+                "full_address": "99 RHODE ISLAND ST", 
+                "facility_type": "Truck", 
+                "y": "2108051.5189999999", 
+                "location": "RHODE ISLAND ST: DIVISION ST to ALAMEDA ST (1 - 99)", 
+                "lot": "002", 
+                "permit": "11MFF-0043", 
+                "cnn": "10992000", 
+                "x": "6011803.0269999998", 
+                "id": "305778", 
+                "block": "3912"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.4042041949652, 
+                    37.768200839606116
+                ]
+            }, 
+            "id": "305780", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Breakfast", 
+                "lat": 37.768200839606116, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0043&ExportPDF=1&Filename=11MFF-0043_schedule.pdf", 
+                "block_lot": "3916002", 
+                "applicant": "Nick Bernard Foods", 
+                "long": -122.4042041949652, 
+                "full_address": "102 HENRY ADAMS ST", 
+                "facility_type": "Truck", 
+                "y": "2107780.6719999998", 
+                "location": "HENRY ADAMS ST: ALAMEDA ST to 15TH ST \\ KANSAS ST (100 - 199)", 
+                "lot": "002", 
+                "permit": "11MFF-0043", 
+                "cnn": "6884000", 
+                "x": "6011298.4709999999", 
+                "id": "305780", 
+                "block": "3916"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.44096930173077, 
+                    37.78267227139135
+                ]
+            }, 
+            "id": "305787", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Soup: salad: sandwiches: beverages: chips & cookies", 
+                "lat": 37.78267227139135, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0044&ExportPDF=1&Filename=11MFF-0044_schedule.pdf", 
+                "block_lot": "1098050", 
+                "applicant": "San Francisco Soup Company", 
+                "long": -122.44096930173077, 
+                "full_address": "2241 GEARY BLVD", 
+                "facility_type": "Truck", 
+                "y": "2113267.1949999998", 
+                "location": "GEARY BLVD: DIVISADERO ST to BAKER ST \\ SAINT JOSEPHS AVE (2201 - 2399) -- SOUTH --", 
+                "lot": "050", 
+                "permit": "11MFF-0044", 
+                "cnn": "6044101", 
+                "x": "6000783.1169999996", 
+                "id": "305787", 
+                "block": "1098"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.3914749121906, 
+                    37.769124411218954
+                ]
+            }, 
+            "id": "305790", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Soup: salad: sandwiches: beverages: chips & cookies", 
+                "lat": 37.769124411218954, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0044&ExportPDF=1&Filename=11MFF-0044_schedule.pdf", 
+                "block_lot": "8711007", 
+                "applicant": "San Francisco Soup Company", 
+                "long": -122.3914749121906, 
+                "full_address": "A/B 8711/007", 
+                "facility_type": "Truck", 
+                "y": "2108042.2850000001", 
+                "location": "04TH ST: CAMPUS WAY to 16TH ST (1700 - 1799)", 
+                "lot": "007", 
+                "permit": "11MFF-0044", 
+                "cnn": "19989000", 
+                "x": "6014983.8830000004", 
+                "id": "305790", 
+                "block": "8711"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.41783595222172, 
+                    37.78066873459741
+                ]
+            }, 
+            "id": "305791", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Soup: salad: sandwiches: beverages: chips & cookies", 
+                "lat": 37.78066873459741, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0044&ExportPDF=1&Filename=11MFF-0044_schedule.pdf", 
+                "block_lot": "0765002", 
+                "applicant": "San Francisco Soup Company", 
+                "long": -122.41783595222172, 
+                "full_address": "350 MCALLISTER ST", 
+                "facility_type": "Truck", 
+                "y": "2112399.9980000001", 
+                "location": "DR CARLTON B GOODLETT PL: MCALLISTER ST \\ POLK ST intersection", 
+                "lot": "002", 
+                "permit": "11MFF-0044", 
+                "cnn": "24462000", 
+                "x": "6007452.0899999999", 
+                "id": "305791", 
+                "block": "0765"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.41783595222172, 
+                    37.78066873459741
+                ]
+            }, 
+            "id": "305791", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Soup: salad: sandwiches: beverages: chips & cookies", 
+                "lat": 37.78066873459741, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0044&ExportPDF=1&Filename=11MFF-0044_schedule.pdf", 
+                "block_lot": "0765002", 
+                "applicant": "San Francisco Soup Company", 
+                "long": -122.41783595222172, 
+                "full_address": "350 MCALLISTER ST", 
+                "facility_type": "Truck", 
+                "y": "2112399.9980000001", 
+                "location": "MCALLISTER ST: DR CARLTON B GOODLETT PL \\ POLK ST intersection", 
+                "lot": "002", 
+                "permit": "11MFF-0044", 
+                "cnn": "24462000", 
+                "x": "6007452.0899999999", 
+                "id": "305791", 
+                "block": "0765"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.41783595222172, 
+                    37.78066873459741
+                ]
+            }, 
+            "id": "305791", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Soup: salad: sandwiches: beverages: chips & cookies", 
+                "lat": 37.78066873459741, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0044&ExportPDF=1&Filename=11MFF-0044_schedule.pdf", 
+                "block_lot": "0765002", 
+                "applicant": "San Francisco Soup Company", 
+                "long": -122.41783595222172, 
+                "full_address": "350 MCALLISTER ST", 
+                "facility_type": "Truck", 
+                "y": "2112399.9980000001", 
+                "location": "POLK ST: DR CARLTON B GOODLETT PL \\ MCALLISTER ST intersection", 
+                "lot": "002", 
+                "permit": "11MFF-0044", 
+                "cnn": "24462000", 
+                "x": "6007452.0899999999", 
+                "id": "305791", 
+                "block": "0765"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40185683929856, 
+                    37.801533119604464
+                ]
+            }, 
+            "id": "305792", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Soup: salad: sandwiches: beverages: chips & cookies", 
+                "lat": 37.801533119604464, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0044&ExportPDF=1&Filename=11MFF-0044_schedule.pdf", 
+                "block_lot": "0107008", 
+                "applicant": "San Francisco Soup Company", 
+                "long": -122.40185683929856, 
+                "full_address": "1105 BATTERY ST", 
+                "facility_type": "Truck", 
+                "y": "2119901.3820000002", 
+                "location": "BATTERY ST: UNION ST to FILBERT ST (1100 - 1199)", 
+                "lot": "008", 
+                "permit": "11MFF-0044", 
+                "cnn": "2767000", 
+                "x": "6012223.4630000005", 
+                "id": "305792", 
+                "block": "0107"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.38850883266349, 
+                    37.7704436015101
+                ]
+            }, 
+            "id": "305800", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "vietnamese sliders and iced coffee", 
+                "lat": 37.7704436015101, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0045&ExportPDF=1&Filename=11MFF-0045_schedule.pdf", 
+                "block_lot": "8721032", 
+                "applicant": "Mama Cass", 
+                "long": -122.38850883266349, 
+                "full_address": "A/B 8721/032", 
+                "facility_type": "Truck", 
+                "y": "2108505.219", 
+                "location": "MISSION BAY SOUTH BLVD: BRIDGEVIEW WAY \\ VARA ST to 03RD ST (401 - 499) -- NORTH --", 
+                "lot": "032", 
+                "permit": "11MFF-0045", 
+                "cnn": "15018101", 
+                "x": "6015850.7290000003", 
+                "id": "305800", 
+                "block": "8721"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39062994974081, 
+                    37.779836332883704
+                ]
+            }, 
+            "id": "305801", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Cupcakes", 
+                "lat": 37.779836332883704, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0046&ExportPDF=1&Filename=11MFF-0046_schedule.pdf", 
+                "block_lot": "3794010", 
+                "applicant": "Karas Cupcakes", 
+                "long": -122.39062994974081, 
+                "full_address": "118 KING ST", 
+                "facility_type": "Truck", 
+                "y": "2111936.9920000001", 
+                "location": "KING ST: 02ND ST to 03RD ST (100 - 198) -- NORTH --", 
+                "lot": "010", 
+                "permit": "11MFF-0046", 
+                "cnn": "7832201", 
+                "x": "6015306.8569999998", 
+                "id": "305801", 
+                "block": "3794"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39806196364627, 
+                    37.793949052322354
+                ]
+            }, 
+            "id": "305802", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Cupcakes", 
+                "lat": 37.793949052322354, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0046&ExportPDF=1&Filename=11MFF-0046_schedule.pdf", 
+                "block_lot": "0236017", 
+                "applicant": "Karas Cupcakes", 
+                "long": -122.39806196364627, 
+                "full_address": "100 CALIFORNIA ST", 
+                "facility_type": "Truck", 
+                "y": "2117118.1609999998", 
+                "location": "CALIFORNIA ST: DAVIS ST to FRONT ST (100 - 199)", 
+                "lot": "017", 
+                "permit": "11MFF-0046", 
+                "cnn": "3525000", 
+                "x": "6013263.6409999998", 
+                "id": "305802", 
+                "block": "0236"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40557905421024, 
+                    37.78923328289614
+                ]
+            }, 
+            "id": "305803", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Cupcakes", 
+                "lat": 37.78923328289614, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0046&ExportPDF=1&Filename=11MFF-0046_schedule.pdf", 
+                "block_lot": "0294004", 
+                "applicant": "Karas Cupcakes", 
+                "long": -122.40557905421024, 
+                "full_address": "239 GRANT AVE", 
+                "facility_type": "Truck", 
+                "y": "2115445.537", 
+                "location": "GRANT AVE: CAMPTON PL to TILLMAN PL (231 - 282)", 
+                "lot": "004", 
+                "permit": "11MFF-0046", 
+                "cnn": "6385000", 
+                "x": "6011057.0820000004", 
+                "id": "305803", 
+                "block": "0294"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39588103781848, 
+                    37.789119207911796
+                ]
+            }, 
+            "id": "305804", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Cupcakes", 
+                "lat": 37.789119207911796, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0046&ExportPDF=1&Filename=11MFF-0046_schedule.pdf", 
+                "block_lot": "3720008", 
+                "applicant": "Karas Cupcakes", 
+                "long": -122.39588103781848, 
+                "full_address": "400 HOWARD ST", 
+                "facility_type": "Truck", 
+                "y": "2115347.0950000002", 
+                "location": "HOWARD ST: FREMONT ST to 01ST ST (400 - 499)", 
+                "lot": "008", 
+                "permit": "11MFF-0046", 
+                "cnn": "7032000", 
+                "x": "6013858.0599999996", 
+                "id": "305804", 
+                "block": "3720"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39810923838442, 
+                    37.78886070126194
+                ]
+            }, 
+            "id": "305806", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Cupcakes", 
+                "lat": 37.78886070126194, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0046&ExportPDF=1&Filename=11MFF-0046_schedule.pdf", 
+                "block_lot": "3721 122 ", 
+                "applicant": "Karas Cupcakes", 
+                "long": -122.39810923838442, 
+                "full_address": "531 MISSION ST", 
+                "facility_type": "Truck", 
+                "y": "2115266.037", 
+                "location": "MISSION ST: ECKER ST to SHAW ALY (521 - 548)", 
+                "lot": "122 ", 
+                "permit": "11MFF-0046", 
+                "cnn": "9089000", 
+                "x": "6013212.4079999998", 
+                "id": "305806", 
+                "block": "3721 "
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.42339537672727, 
+                    37.776566896519526
+                ]
+            }, 
+            "id": "305808", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Hot dogs and chili", 
+                "lat": 37.776566896519526, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0047&ExportPDF=1&Filename=11MFF-0047_schedule.pdf", 
+                "block_lot": "0817025", 
+                "applicant": "Let's be Frank", 
+                "long": -122.42339537672727, 
+                "full_address": "425 HAYES ST", 
+                "facility_type": "Push Cart", 
+                "y": "2110939.7170000002", 
+                "location": "HAYES ST: GOUGH ST to OCTAVIA ST (400 - 499)", 
+                "lot": "025", 
+                "permit": "11MFF-0047", 
+                "cnn": "6816000", 
+                "x": "6005815.0640000002", 
+                "id": "305808", 
+                "block": "0817"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.41940394095548, 
+                    37.76528078828818
+                ]
+            }, 
+            "id": "306055", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Hot dogs: hot links: kielbasa (polish): chicken applesausage: hamburger: chicken burger: soda: bottled water and chips", 
+                "lat": 37.76528078828818, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0048&ExportPDF=1&Filename=11MFF-0048_schedule.pdf", 
+                "block_lot": "3553053", 
+                "applicant": "Jessica's Grilled Hotdog & Burger", 
+                "long": -122.41940394095548, 
+                "full_address": "1955 MISSION ST", 
+                "facility_type": "Push Cart", 
+                "y": "2106807.3900000001", 
+                "location": "MISSION ST: 15TH ST to 16TH ST (1900 - 1999)", 
+                "lot": "053", 
+                "permit": "11MFF-0048", 
+                "cnn": "9115000", 
+                "x": "6006884.1279999996", 
+                "id": "306055", 
+                "block": "3553"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.4178293399211, 
+                    37.807479303624184
+                ]
+            }, 
+            "id": "306057", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Hot dogs: hot links: kielbasa (polish): chicken applesausage: hamburger: chicken burger: soda: bottled water and chips", 
+                "lat": 37.807479303624184, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0048&ExportPDF=1&Filename=11MFF-0048_schedule.pdf", 
+                "block_lot": "0011008", 
+                "applicant": "Jessica's Grilled Hotdog & Burger", 
+                "long": -122.4178293399211, 
+                "full_address": "500 BEACH ST", 
+                "facility_type": "Push Cart", 
+                "y": "2122160.2400000002", 
+                "location": "BEACH ST: JONES ST to LEAVENWORTH ST (500 - 599)", 
+                "lot": "008", 
+                "permit": "11MFF-0048", 
+                "cnn": "2843000", 
+                "x": "6007654.0449999999", 
+                "id": "306057", 
+                "block": "0011"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.3932290415377, 
+                    37.781264686022816
+                ]
+            }, 
+            "id": "306070", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Seafood: meats and desserts", 
+                "lat": 37.781264686022816, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0049&ExportPDF=1&Filename=11MFF-0049_schedule.pdf", 
+                "block_lot": "3775015", 
+                "applicant": "Fins on the Hoof / Saveurs", 
+                "long": -122.3932290415377, 
+                "full_address": "340 BRANNAN ST", 
+                "facility_type": "Truck", 
+                "y": "2112472.1639999999", 
+                "location": "BRANNAN ST: STANFORD ST to JACK LONDON ALY (324 - 353)", 
+                "lot": "015", 
+                "permit": "11MFF-0049", 
+                "cnn": "3075000", 
+                "x": "6014566.3870000001", 
+                "id": "306070", 
+                "block": "3775"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40242362612038, 
+                    37.7941166557094
+                ]
+            }, 
+            "id": "306071", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Traditional BBQ: Chicken: Ribs: Sandwiches: Sausages", 
+                "lat": 37.7941166557094, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0050&ExportPDF=1&Filename=11MFF-0050_schedule.pdf", 
+                "block_lot": "0228010", 
+                "applicant": "Wexler, LLC", 
+                "long": -122.40242362612038, 
+                "full_address": "565 COMMERCIAL ST", 
+                "facility_type": "Truck", 
+                "y": "2117204.7650000001", 
+                "location": "COMMERCIAL ST: LEIDESDORFF ST to MONTGOMERY ST (543 - 599)", 
+                "lot": "010", 
+                "permit": "11MFF-0050", 
+                "cnn": "4313000", 
+                "x": "6012004.8490000004", 
+                "id": "306071", 
+                "block": "0228"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.38919004026639, 
+                    37.77110993974035
+                ]
+            }, 
+            "id": "306079", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "salads: sandwiches: meats and desserts", 
+                "lat": 37.77110993974035, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0051&ExportPDF=1&Filename=11MFF-0051_schedule.pdf", 
+                "block_lot": "8720012", 
+                "applicant": "Streetside", 
+                "long": -122.38919004026639, 
+                "full_address": "435 CHINA BASIN ST", 
+                "facility_type": "Truck", 
+                "y": "2108751.7710000002", 
+                "location": "CHINA BASIN ST: TERRY A FRANCOIS BLVD to 03RD ST (300 - 499)", 
+                "lot": "012", 
+                "permit": "11MFF-0051", 
+                "cnn": "15024000", 
+                "x": "6015658.7709999997", 
+                "id": "306079", 
+                "block": "8720"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40557905421024, 
+                    37.78923328289614
+                ]
+            }, 
+            "id": "306259", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Pretzels: soft drinks: hot dogs: condiments: coffee: espresso: pastries: fruit: juice: bakery items: churros: hot chestnuts: and popcorn.", 
+                "lat": 37.78923328289614, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0052&ExportPDF=1&Filename=11MFF-0052_schedule.pdf", 
+                "block_lot": "0294004", 
+                "applicant": "San Francisco Carts & Concessions, Inc. DBA Stanley's Steamers Hot Dogs", 
+                "long": -122.40557905421024, 
+                "full_address": "100 POST ST", 
+                "facility_type": "Push Cart", 
+                "y": "2115445.537", 
+                "location": "POST ST: KEARNY ST to ROBERT KIRK LN (100 - 140)", 
+                "lot": "004", 
+                "permit": "11MFF-0052", 
+                "cnn": "10625000", 
+                "x": "6011057.0820000004", 
+                "id": "306259", 
+                "block": "0294"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39964429852886, 
+                    37.79464383461952
+                ]
+            }, 
+            "id": "306263", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Pretzels: hot dogs: chips: soft drinks: condiments: coffee: juices: pastries: bakery goods: soups: and desserts", 
+                "lat": 37.79464383461952, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0053&ExportPDF=1&Filename=11MFF-0053_schedule.pdf", 
+                "block_lot": "0230028", 
+                "applicant": "San Francisco Carts & Concessions, Inc. DBA Stanley's Steamers Hot Dogs", 
+                "long": -122.39964429852886, 
+                "full_address": "1 THE EMBARCADERO ", 
+                "facility_type": "Push Cart", 
+                "y": "2117380.3709999998", 
+                "location": "SACRAMENTO ST: FRONT ST to BATTERY ST (300 - 399)", 
+                "lot": "028", 
+                "permit": "11MFF-0053", 
+                "cnn": "11222000", 
+                "x": "6012811.6579999998", 
+                "id": "306263", 
+                "block": "0230"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39302017832559, 
+                    37.78042903032247
+                ]
+            }, 
+            "id": "306333", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Breakfast", 
+                "lat": 37.78042903032247, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0043&ExportPDF=1&Filename=11MFF-0043_schedule.pdf", 
+                "block_lot": "3788024", 
+                "applicant": "Nick Bernard Foods", 
+                "long": -122.39302017832559, 
+                "full_address": "361 BRANNAN ST", 
+                "facility_type": "Truck", 
+                "y": "2112166.7250000001", 
+                "location": "BRANNAN ST: JACK LONDON ALY to 03RD ST (350 - 399)", 
+                "lot": "024", 
+                "permit": "11MFF-0043", 
+                "cnn": "3076000", 
+                "x": "6014620.5810000002", 
+                "id": "306333", 
+                "block": "3788"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.38939728383558, 
+                    37.749340313377324
+                ]
+            }, 
+            "id": "306336", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Tacos: Burritos: Tortas: Quesadillas: Sodas: Chips: Candy", 
+                "lat": 37.749340313377324, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0055&ExportPDF=1&Filename=11MFF-0055_schedule.pdf", 
+                "block_lot": "4353009", 
+                "applicant": "Taqueria Angelicas", 
+                "long": -122.38939728383558, 
+                "full_address": "1300 CESAR CHAVEZ ST", 
+                "facility_type": "Truck", 
+                "y": "2100827.8330000001", 
+                "location": "INDIANA ST: CESAR CHAVEZ ST to MARIN ST (1600 - 1699)", 
+                "lot": "009", 
+                "permit": "11MFF-0055", 
+                "cnn": "7201000", 
+                "x": "6015438.8590000002", 
+                "id": "306336", 
+                "block": "4353"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40661576107294, 
+                    37.785469746489916
+                ]
+            }, 
+            "id": "306360", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks.", 
+                "lat": 37.785469746489916, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0056&ExportPDF=1&Filename=11MFF-0056_schedule.pdf", 
+                "block_lot": "0329001", 
+                "applicant": "The New York Frankfurther Co. of CA, Inc. DBA: Annie's Hot Dogs", 
+                "long": -122.40661576107294, 
+                "full_address": "800 MARKET ST", 
+                "facility_type": "Push Cart", 
+                "y": "2114081.5359999998", 
+                "location": "04TH ST: ELLIS ST \\ MARKET ST \\ STOCKTON ST intersection", 
+                "lot": "001", 
+                "permit": "11MFF-0056", 
+                "cnn": "24892000", 
+                "x": "6010729.6540000001", 
+                "id": "306360", 
+                "block": "0329"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40661576107294, 
+                    37.785469746489916
+                ]
+            }, 
+            "id": "306360", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks.", 
+                "lat": 37.785469746489916, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0056&ExportPDF=1&Filename=11MFF-0056_schedule.pdf", 
+                "block_lot": "0329001", 
+                "applicant": "The New York Frankfurther Co. of CA, Inc. DBA: Annie's Hot Dogs", 
+                "long": -122.40661576107294, 
+                "full_address": "800 MARKET ST", 
+                "facility_type": "Push Cart", 
+                "y": "2114081.5359999998", 
+                "location": "ELLIS ST: 04TH ST \\ MARKET ST \\ STOCKTON ST intersection", 
+                "lot": "001", 
+                "permit": "11MFF-0056", 
+                "cnn": "24892000", 
+                "x": "6010729.6540000001", 
+                "id": "306360", 
+                "block": "0329"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40661576107294, 
+                    37.785469746489916
+                ]
+            }, 
+            "id": "306360", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks.", 
+                "lat": 37.785469746489916, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0056&ExportPDF=1&Filename=11MFF-0056_schedule.pdf", 
+                "block_lot": "0329001", 
+                "applicant": "The New York Frankfurther Co. of CA, Inc. DBA: Annie's Hot Dogs", 
+                "long": -122.40661576107294, 
+                "full_address": "800 MARKET ST", 
+                "facility_type": "Push Cart", 
+                "y": "2114081.5359999998", 
+                "location": "MARKET ST: 04TH ST \\ ELLIS ST \\ STOCKTON ST intersection", 
+                "lot": "001", 
+                "permit": "11MFF-0056", 
+                "cnn": "24892000", 
+                "x": "6010729.6540000001", 
+                "id": "306360", 
+                "block": "0329"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40661576107294, 
+                    37.785469746489916
+                ]
+            }, 
+            "id": "306360", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Soft pretzels: hot dogs: sausages: chips: popcorn: sodea: coffee: espresso: cappucino: pastries: ice cream: Italian sausages: shish-ka-bob: churros: juice: water: various drinks.", 
+                "lat": 37.785469746489916, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0056&ExportPDF=1&Filename=11MFF-0056_schedule.pdf", 
+                "block_lot": "0329001", 
+                "applicant": "The New York Frankfurther Co. of CA, Inc. DBA: Annie's Hot Dogs", 
+                "long": -122.40661576107294, 
+                "full_address": "800 MARKET ST", 
+                "facility_type": "Push Cart", 
+                "y": "2114081.5359999998", 
+                "location": "STOCKTON ST: 04TH ST \\ ELLIS ST \\ MARKET ST intersection", 
+                "lot": "001", 
+                "permit": "11MFF-0056", 
+                "cnn": "24892000", 
+                "x": "6010729.6540000001", 
+                "id": "306360", 
+                "block": "0329"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40742266827704, 
+                    37.78511092044776
+                ]
+            }, 
+            "id": "306450", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Soft pretzels: hot dogs: sausages: chips: popcorn: soda: espresso: cappucino: pastry: ica cream: ices: italian sausage: shish-ka-bob: churros: juice: water: various drinks", 
+                "lat": 37.78511092044776, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0057&ExportPDF=1&Filename=11MFF-0057_schedule.pdf", 
+                "block_lot": "0329005", 
+                "applicant": "The New York Frankfurther Co. of CA, Inc. DBA: Annie's Hot Dogs", 
+                "long": -122.40742266827704, 
+                "full_address": "870 MARKET ST", 
+                "facility_type": "Push Cart", 
+                "y": "2113955.6579999998", 
+                "location": "MARKET ST: POWELL ST intersection", 
+                "lot": "005", 
+                "permit": "11MFF-0057", 
+                "cnn": "34016000", 
+                "x": "6010493.8590000002", 
+                "id": "306450", 
+                "block": "0329"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40742266827704, 
+                    37.78511092044776
+                ]
+            }, 
+            "id": "306450", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Soft pretzels: hot dogs: sausages: chips: popcorn: soda: espresso: cappucino: pastry: ica cream: ices: italian sausage: shish-ka-bob: churros: juice: water: various drinks", 
+                "lat": 37.78511092044776, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0057&ExportPDF=1&Filename=11MFF-0057_schedule.pdf", 
+                "block_lot": "0329005", 
+                "applicant": "The New York Frankfurther Co. of CA, Inc. DBA: Annie's Hot Dogs", 
+                "long": -122.40742266827704, 
+                "full_address": "870 MARKET ST", 
+                "facility_type": "Push Cart", 
+                "y": "2113955.6579999998", 
+                "location": "POWELL ST: MARKET ST intersection", 
+                "lot": "005", 
+                "permit": "11MFF-0057", 
+                "cnn": "34016000", 
+                "x": "6010493.8590000002", 
+                "id": "306450", 
+                "block": "0329"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40689189299718, 
+                    37.786856111883054
+                ]
+            }, 
+            "id": "306453", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Soft Pretzels: hot dogs: sausage: chips: popcorn: soda: espresso: cappucino: pastries: ice cream: italian sausages: shish-ka-bob: churros: juice: water: various drinks", 
+                "lat": 37.786856111883054, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0058&ExportPDF=1&Filename=11MFF-0058_schedule.pdf", 
+                "block_lot": "0314002", 
+                "applicant": "The New York Frankfurther Co. of CA, Inc. DBA: Annie's Hot Dogs", 
+                "long": -122.40689189299718, 
+                "full_address": "101 STOCKTON ST", 
+                "facility_type": "Push Cart", 
+                "y": "2114587.8629999999", 
+                "location": "STOCKTON ST: OFARRELL ST to GEARY ST (100 - 199)", 
+                "lot": "002", 
+                "permit": "11MFF-0058", 
+                "cnn": "12195000", 
+                "x": "6010660.159", 
+                "id": "306453", 
+                "block": "0314"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39158378431242, 
+                    37.765789358016136
+                ]
+            }, 
+            "id": "306456", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Hamburger: Burritos: Chinese Food: Donut: Coffee and Soda", 
+                "lat": 37.765789358016136, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0028&ExportPDF=1&Filename=11MFF-0028_schedule.pdf", 
+                "block_lot": "8723 008", 
+                "applicant": "Lee's Catering", 
+                "long": -122.39158378431242, 
+                "full_address": "601 16TH ST", 
+                "facility_type": "Truck", 
+                "y": "2106828.807", 
+                "location": "16TH ST: 04TH ST to OWENS ST (600 - 699)", 
+                "lot": "008", 
+                "permit": "11MFF-0028", 
+                "cnn": "698000", 
+                "x": "6014927.8770000003", 
+                "id": "306456", 
+                "block": "8723 "
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.3914749121906, 
+                    37.769124411218954
+                ]
+            }, 
+            "id": "306458", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Hamburger: Burritos: Chinese Food: Donut: Coffee and Soda", 
+                "lat": 37.769124411218954, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0028&ExportPDF=1&Filename=11MFF-0028_schedule.pdf", 
+                "block_lot": "8711007", 
+                "applicant": "Lee's Catering", 
+                "long": -122.3914749121906, 
+                "full_address": "A/B 8711/007", 
+                "facility_type": "Truck", 
+                "y": "2108042.2850000001", 
+                "location": "04TH ST: NELSON RISING LN to GENE FRIEND WAY (1500 - 1599)", 
+                "lot": "007", 
+                "permit": "11MFF-0028", 
+                "cnn": "19987000", 
+                "x": "6014983.8830000004", 
+                "id": "306458", 
+                "block": "8711"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.3916718906821, 
+                    37.758037393488074
+                ]
+            }, 
+            "id": "306461", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Hamburger: Burritos: Chinese Food: Donut: Coffee and Soda", 
+                "lat": 37.758037393488074, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0028&ExportPDF=1&Filename=11MFF-0028_schedule.pdf", 
+                "block_lot": "4105011", 
+                "applicant": "Lee's Catering", 
+                "long": -122.3916718906821, 
+                "full_address": "998 INDIANA ST", 
+                "facility_type": "Truck", 
+                "y": "2104007.25", 
+                "location": "INDIANA ST: 20TH ST to 22ND ST (800 - 999)", 
+                "lot": "011", 
+                "permit": "11MFF-0028", 
+                "cnn": "7195000", 
+                "x": "6014845.3629999999", 
+                "id": "306461", 
+                "block": "4105"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.3934059998059, 
+                    37.78255948105611
+                ]
+            }, 
+            "id": "306802", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Breakfast", 
+                "lat": 37.78255948105611, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0043&ExportPDF=1&Filename=11MFF-0043_schedule.pdf", 
+                "block_lot": "3775004", 
+                "applicant": "Nick Bernard Foods", 
+                "long": -122.3934059998059, 
+                "full_address": "524 02ND ST", 
+                "facility_type": "Truck", 
+                "y": "2112944.5649999999", 
+                "location": "02ND ST: TABER PL to FEDERAL ST (509 - 532)", 
+                "lot": "004", 
+                "permit": "11MFF-0043", 
+                "cnn": "143000", 
+                "x": "6014524.7949999999", 
+                "id": "306802", 
+                "block": "3775"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.41209631756895, 
+                    37.76779784449151
+                ]
+            }, 
+            "id": "306864", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Seafood: meats and desserts", 
+                "lat": 37.76779784449151, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0049&ExportPDF=1&Filename=11MFF-0049_schedule.pdf", 
+                "block_lot": "3924 006", 
+                "applicant": "Fins on the Hoof / Saveurs", 
+                "long": -122.41209631756895, 
+                "full_address": "201 ALABAMA ST", 
+                "facility_type": "Truck", 
+                "y": "2107680.4730000002", 
+                "location": "15TH ST: FLORIDA ST intersection", 
+                "lot": "006", 
+                "permit": "11MFF-0049", 
+                "cnn": "24214000", 
+                "x": "6009014.7460000003", 
+                "id": "306864", 
+                "block": "3924 "
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.41209631756895, 
+                    37.76779784449151
+                ]
+            }, 
+            "id": "306864", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Seafood: meats and desserts", 
+                "lat": 37.76779784449151, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0049&ExportPDF=1&Filename=11MFF-0049_schedule.pdf", 
+                "block_lot": "3924 006", 
+                "applicant": "Fins on the Hoof / Saveurs", 
+                "long": -122.41209631756895, 
+                "full_address": "201 ALABAMA ST", 
+                "facility_type": "Truck", 
+                "y": "2107680.4730000002", 
+                "location": "FLORIDA ST: 15TH ST intersection", 
+                "lot": "006", 
+                "permit": "11MFF-0049", 
+                "cnn": "24214000", 
+                "x": "6009014.7460000003", 
+                "id": "306864", 
+                "block": "3924 "
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40742266827704, 
+                    37.78511092044776
+                ]
+            }, 
+            "id": "306865", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Creme Brulee: Cannoli: Kettle Corn", 
+                "lat": 37.78511092044776, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0059&ExportPDF=1&Filename=11MFF-0059_schedule.pdf", 
+                "block_lot": "0329005", 
+                "applicant": "Creme Brulee To Go", 
+                "long": -122.40742266827704, 
+                "full_address": "870 MARKET ST", 
+                "facility_type": "Push Cart", 
+                "y": "2113955.6579999998", 
+                "location": "MARKET ST: 04TH ST \\ ELLIS ST \\ STOCKTON ST to POWELL ST (800 - 890) -- NORTH --", 
+                "lot": "005", 
+                "permit": "11MFF-0059", 
+                "cnn": "8747202", 
+                "x": "6010493.8590000002", 
+                "id": "306865", 
+                "block": "0329"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.45285001328911, 
+                    37.76955439429203
+                ]
+            }, 
+            "id": "306894", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Filipino fusion food: taco: burrito: nachos: rice plates", 
+                "lat": 37.76955439429203, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0041&ExportPDF=1&Filename=11MFF-0041_schedule.pdf", 
+                "block_lot": "1228005", 
+                "applicant": "Senor Sisig", 
+                "long": -122.45285001328911, 
+                "full_address": "690 STANYAN ST", 
+                "facility_type": "Truck", 
+                "y": "2108563.159", 
+                "location": "STANYAN ST: PAGE ST to HAIGHT ST (650 - 699)", 
+                "lot": "005", 
+                "permit": "11MFF-0041", 
+                "cnn": "12090000", 
+                "x": "5997250.7699999996", 
+                "id": "306894", 
+                "block": "1228"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39809861316652, 
+                    37.792948952834664
+                ]
+            }, 
+            "id": "306944", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Burgers: French Fries: Black Bean Burgers: Mac and Cheese: drinks", 
+                "lat": 37.792948952834664, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0029&ExportPDF=1&Filename=11MFF-0029_schedule.pdf", 
+                "block_lot": "0263011", 
+                "applicant": "Doc's of the Bay", 
+                "long": -122.39809861316652, 
+                "full_address": "101 CALIFORNIA ST", 
+                "facility_type": "Truck", 
+                "y": "2116754.2919999999", 
+                "location": "FRONT ST: PINE ST intersection", 
+                "lot": "011", 
+                "permit": "11MFF-0029", 
+                "cnn": "24673000", 
+                "x": "6013245.6679999996", 
+                "id": "306944", 
+                "block": "0263"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39809861316652, 
+                    37.792948952834664
+                ]
+            }, 
+            "id": "306944", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Burgers: French Fries: Black Bean Burgers: Mac and Cheese: drinks", 
+                "lat": 37.792948952834664, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0029&ExportPDF=1&Filename=11MFF-0029_schedule.pdf", 
+                "block_lot": "0263011", 
+                "applicant": "Doc's of the Bay", 
+                "long": -122.39809861316652, 
+                "full_address": "101 CALIFORNIA ST", 
+                "facility_type": "Truck", 
+                "y": "2116754.2919999999", 
+                "location": "PINE ST: FRONT ST intersection", 
+                "lot": "011", 
+                "permit": "11MFF-0029", 
+                "cnn": "24673000", 
+                "x": "6013245.6679999996", 
+                "id": "306944", 
+                "block": "0263"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.41074477292977, 
+                    37.763292918728965
+                ]
+            }, 
+            "id": "307106", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Wood Fired Pizzas", 
+                "lat": 37.763292918728965, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0036&ExportPDF=1&Filename=11MFF-0036_schedule.pdf", 
+                "block_lot": "3970004", 
+                "applicant": "Del Popolo, LLC.", 
+                "long": -122.41074477292977, 
+                "full_address": "2772 MARIPOSA ST", 
+                "facility_type": "Truck", 
+                "y": "2106032.5", 
+                "location": "MARIPOSA ST: BRYANT ST to FLORIDA ST (2700 - 2799)", 
+                "lot": "004", 
+                "permit": "11MFF-0036", 
+                "cnn": "8733000", 
+                "x": "6009371.8389999997", 
+                "id": "307106", 
+                "block": "3970"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39917156952434, 
+                    37.79825299417152
+                ]
+            }, 
+            "id": "307210", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Grilled Cheese Sandwiches", 
+                "lat": 37.79825299417152, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0022&ExportPDF=1&Filename=11MFF-0022_schedule.pdf", 
+                "block_lot": "0167010", 
+                "applicant": "Toasty Melts, LLC.", 
+                "long": -122.39917156952434, 
+                "full_address": "10 FRONT ST", 
+                "facility_type": "Truck", 
+                "y": "2118691.5049999999", 
+                "location": "DAVIS ST: DAVIS CT \\ JACKSON ST to BROADWAY (500 - 699)", 
+                "lot": "010", 
+                "permit": "11MFF-0022", 
+                "cnn": "4609000", 
+                "x": "6012974.8899999997", 
+                "id": "307210", 
+                "block": "0167"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40808798850072, 
+                    37.78433711721354
+                ]
+            }, 
+            "id": "307266", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Kettle Corn: Funnel Cakes: Waffles: Lemonade", 
+                "lat": 37.78433711721354, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0060&ExportPDF=1&Filename=11MFF-0060_schedule.pdf", 
+                "block_lot": "0341014", 
+                "applicant": "Kettle Corn Star", 
+                "long": -122.40808798850072, 
+                "full_address": "900 MARKET ST", 
+                "facility_type": "Push Cart", 
+                "y": "2113677.8769999999", 
+                "location": "MARKET ST: 05TH ST \\ CYRIL MAGNIN ST to MASON ST \\ TURK ST (900 - 948) -- NORTH --", 
+                "lot": "014", 
+                "permit": "11MFF-0060", 
+                "cnn": "8748201", 
+                "x": "6010295.8890000004", 
+                "id": "307266", 
+                "block": "0341"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40715834498367, 
+                    37.783946907974226
+                ]
+            }, 
+            "id": "307268", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Kettle Corn: Funnel Cakes: Waffles: Lemonade", 
+                "lat": 37.783946907974226, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0061&ExportPDF=1&Filename=11MFF-0061_schedule.pdf", 
+                "block_lot": "3705 042", 
+                "applicant": "Kettle Corn Star", 
+                "long": -122.40715834498367, 
+                "full_address": "865 MARKET ST", 
+                "facility_type": "Push Cart", 
+                "y": "2113530.3470000001", 
+                "location": "MARKET ST: POWELL ST to 05TH ST \\ CYRIL MAGNIN ST (865 - 899) -- SOUTH --", 
+                "lot": "042", 
+                "permit": "11MFF-0061", 
+                "cnn": "8747103", 
+                "x": "6010561.591", 
+                "id": "307268", 
+                "block": "3705 "
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.42872939198215, 
+                    37.768067795338574
+                ]
+            }, 
+            "id": "307368", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Lassi Beverage", 
+                "lat": 37.768067795338574, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0063&ExportPDF=1&Filename=11MFF-0063_schedule.pdf", 
+                "block_lot": "3536012", 
+                "applicant": "Lakshmi Lassi", 
+                "long": -122.42872939198215, 
+                "full_address": "A/B 3536/012", 
+                "facility_type": "Push Cart", 
+                "y": "2107877.398", 
+                "location": "MARKET ST: 14TH ST to CHURCH ST (0 - 0) -- NORTH --", 
+                "lot": "012", 
+                "permit": "11MFF-0063", 
+                "cnn": "8763201", 
+                "x": "6004210.0029999996", 
+                "id": "307368", 
+                "block": "3536"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39179682107691, 
+                    37.77632714778992
+                ]
+            }, 
+            "id": "307543", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Asian style sandwiches: noodles: vermicelli: snacks: chips:  drinks: & specialty drinks.", 
+                "lat": 37.77632714778992, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0064&ExportPDF=1&Filename=11MFF-0064_schedule.pdf", 
+                "block_lot": "3803005", 
+                "applicant": "Tomkat", 
+                "long": -122.39179682107691, 
+                "full_address": "185 BERRY ST", 
+                "facility_type": "Truck", 
+                "y": "2110666.298", 
+                "location": "BERRY ST: 03RD ST to 04TH ST (100 - 199)", 
+                "lot": "005", 
+                "permit": "11MFF-0064", 
+                "cnn": "2953000", 
+                "x": "6014943.8689999999", 
+                "id": "307543", 
+                "block": "3803"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39846350948633, 
+                    37.793673381504675
+                ]
+            }, 
+            "id": "307669", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Asian style sandwiches: noodles: vermicelli: snacks: chips:  drinks: & specialty drinks.", 
+                "lat": 37.793673381504675, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0064&ExportPDF=1&Filename=11MFF-0064_schedule.pdf", 
+                "block_lot": "0236019", 
+                "applicant": "Tomkat", 
+                "long": -122.39846350948633, 
+                "full_address": "150 CALIFORNIA ST", 
+                "facility_type": "Truck", 
+                "y": "2117020.1570000001", 
+                "location": "CALIFORNIA ST: DAVIS ST to FRONT ST (100 - 199)", 
+                "lot": "019", 
+                "permit": "11MFF-0064", 
+                "cnn": "3525000", 
+                "x": "6013145.6030000001", 
+                "id": "307669", 
+                "block": "0236"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40423345268724, 
+                    37.765158262196046
+                ]
+            }, 
+            "id": "307670", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Asian style sandwiches: noodles: vermicelli: snacks: chips:  drinks: & specialty drinks.", 
+                "lat": 37.765158262196046, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0064&ExportPDF=1&Filename=11MFF-0064_schedule.pdf", 
+                "block_lot": "3958001B", 
+                "applicant": "Tomkat", 
+                "long": -122.40423345268724, 
+                "full_address": "365 VERMONT ST", 
+                "facility_type": "Truck", 
+                "y": "2106673.2080000001", 
+                "location": "VERMONT ST: 16TH ST to 17TH ST (300 - 399)", 
+                "lot": "001B", 
+                "permit": "11MFF-0064", 
+                "cnn": "13211000", 
+                "x": "6011267.4749999996", 
+                "id": "307670", 
+                "block": "3958"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.42059645673372, 
+                    37.80547349793141
+                ]
+            }, 
+            "id": "307675", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Street Food: Cheese steaks: hot dogs: hot links", 
+                "lat": 37.80547349793141, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0065&ExportPDF=1&Filename=11MFF-0065_schedule.pdf", 
+                "block_lot": "0026T179B", 
+                "applicant": "Street Eatz", 
+                "long": -122.42059645673372, 
+                "full_address": "2801 LEAVENWORTH ST", 
+                "facility_type": "Truck", 
+                "y": "2121446.426", 
+                "location": "LEAVENWORTH ST: BEACH ST to JEFFERSON ST \\ RICHARD HENRY DANA PL (2800 - 2849)", 
+                "lot": "179B", 
+                "permit": "11MFF-0065", 
+                "cnn": "8275000", 
+                "x": "6006839.8190000001", 
+                "id": "307675", 
+                "block": "0026T"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40081339110537, 
+                    37.783513351245354
+                ]
+            }, 
+            "id": "307688", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Hot dogs: condiments: soft pretzels: coffee: soft drinks: ice cream: pastries: chips: nuts: and soups", 
+                "lat": 37.783513351245354, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0019&ExportPDF=1&Filename=11MFF-0019_schedule.pdf", 
+                "block_lot": "3734091", 
+                "applicant": "San Francisco Carts & Concessions, Inc. DBA Stanley's Steamers Hot Dogs", 
+                "long": -122.40081339110537, 
+                "full_address": "701 HOWARD ST", 
+                "facility_type": "Push Cart", 
+                "y": "2113335.21", 
+                "location": "HOWARD ST: 03RD ST to 04TH ST (700 - 799)", 
+                "lot": "091", 
+                "permit": "11MFF-0019", 
+                "cnn": "7038000", 
+                "x": "6012391.6119999997", 
+                "id": "307688", 
+                "block": "3734"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39961794865545, 
+                    37.799260113502285
+                ]
+            }, 
+            "id": "308034", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "everything except for hot dogs", 
+                "lat": 37.799260113502285, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0021&ExportPDF=1&Filename=11MFF-0021_schedule.pdf", 
+                "block_lot": "0140007", 
+                "applicant": "Off the Grid Services, LLC", 
+                "long": -122.39961794865545, 
+                "full_address": "90 BROADWAY ", 
+                "facility_type": "Truck", 
+                "y": "2119060.7620000001", 
+                "location": "BROADWAY: DAVIS ST to FRONT ST (50 - 99)", 
+                "lot": "007", 
+                "permit": "11MFF-0021", 
+                "cnn": "3143000", 
+                "x": "6012853.3870000001", 
+                "id": "308034", 
+                "block": "0140"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39961794865545, 
+                    37.799260113502285
+                ]
+            }, 
+            "id": "308037", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "everything except for hot dogs", 
+                "lat": 37.799260113502285, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0024&ExportPDF=1&Filename=11MFF-0024_schedule.pdf", 
+                "block_lot": "0140007", 
+                "applicant": "Off the Grid Services, LLC", 
+                "long": -122.39961794865545, 
+                "full_address": "90 BROADWAY ", 
+                "facility_type": "Truck", 
+                "y": "2119060.7620000001", 
+                "location": "BROADWAY: DAVIS ST to FRONT ST (50 - 99)", 
+                "lot": "007", 
+                "permit": "11MFF-0024", 
+                "cnn": "3143000", 
+                "x": "6012853.3870000001", 
+                "id": "308037", 
+                "block": "0140"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40662906736455, 
+                    37.786467810713035
+                ]
+            }, 
+            "id": "308108", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Kettle Corn: Funnel Cakes: Waffles: Lemonade", 
+                "lat": 37.786467810713035, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0060&ExportPDF=1&Filename=11MFF-0060_schedule.pdf", 
+                "block_lot": "0327001", 
+                "applicant": "Kettle Corn Star", 
+                "long": -122.40662906736455, 
+                "full_address": "55 STOCKTON ST", 
+                "facility_type": "Push Cart", 
+                "y": "2114444.9559999998", 
+                "location": "STOCKTON ST: 04TH ST \\ ELLIS ST \\ MARKET ST to OFARRELL ST (1 - 99)", 
+                "lot": "001", 
+                "permit": "11MFF-0060", 
+                "cnn": "12194000", 
+                "x": "6010733.2130000005", 
+                "id": "308108", 
+                "block": "0327"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40668029128099, 
+                    37.73905355447074
+                ]
+            }, 
+            "id": "310657", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Tacos: burritos: quesadillas: tortas: nachos (refried beans: cheese sauce: salsa fresca): carnes (beef: chicken: marinated pork: fried pork): canned beans: rice: sodas: horchata drinks.", 
+                "lat": 37.73905355447074, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0066&ExportPDF=1&Filename=11MFF-0066_schedule.pdf", 
+                "block_lot": "5607039", 
+                "applicant": "La Jefa", 
+                "long": -122.40668029128099, 
+                "full_address": "40 WATERLOO ST", 
+                "facility_type": "Truck", 
+                "y": "2097184.3399999999", 
+                "location": "BAY SHORE BLVD: WATERLOO ST to MARENGO ST (501 - 559) -- EAST --", 
+                "lot": "039", 
+                "permit": "11MFF-0066", 
+                "cnn": "2801102", 
+                "x": "6010366.6950000003", 
+                "id": "310657", 
+                "block": "5607"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.43751024665542, 
+                    37.77553263674366
+                ]
+            }, 
+            "id": "310781", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Rice balls & Rice bowls", 
+                "lat": 37.77553263674366, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0042&ExportPDF=1&Filename=11MFF-0042_schedule.pdf", 
+                "block_lot": "1202007", 
+                "applicant": "Onigilly, LLC", 
+                "long": -122.43751024665542, 
+                "full_address": "628 DIVISADERO ST", 
+                "facility_type": "Truck", 
+                "y": "2110647.3450000002", 
+                "location": "DIVISADERO ST: HAYES ST to GROVE ST (600 - 698) -- EAST --", 
+                "lot": "007", 
+                "permit": "11MFF-0042", 
+                "cnn": "4803201", 
+                "x": "6001728.7220000001", 
+                "id": "310781", 
+                "block": "1202"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.40851998544768, 
+                    37.776967956863515
+                ]
+            }, 
+            "id": "310829", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Brunch Box (eggs: proscuitto: croissant: jams: fruit): Hangover Toast (sourdough baguette: cream cheese: olive oil: sea salt): Stewed Fruit Oatmeal: Strawberry Rhubard French Toast: Chicken & Waffles: Miso Soup: Smoked Salmon Club", 
+                "lat": 37.776967956863515, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0067&ExportPDF=1&Filename=11MFF-0067_schedule.pdf", 
+                "block_lot": "3730008", 
+                "applicant": "Brunch Box", 
+                "long": -122.40851998544768, 
+                "full_address": "270 07TH ST", 
+                "facility_type": "Truck", 
+                "y": "2110997.71", 
+                "location": "07TH ST: HOWARD ST to FOLSOM ST (200 - 299)", 
+                "lot": "008", 
+                "permit": "11MFF-0067", 
+                "cnn": "371000", 
+                "x": "6010116.3569999998", 
+                "id": "310829", 
+                "block": "3730"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.42175252586479, 
+                    37.76681105108707
+                ]
+            }, 
+            "id": "310831", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Brunch Box (eggs: proscuitto: croissant: jams: fruit): Hangover Toast (sourdough baguette: cream cheese: olive oil: sea salt): Stewed Fruit Oatmeal: Strawberry Rhubard French Toast: Chicken & Waffles: Miso Soup: Smoked Salmon Club", 
+                "lat": 37.76681105108707, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0067&ExportPDF=1&Filename=11MFF-0067_schedule.pdf", 
+                "block_lot": "3547009", 
+                "applicant": "Brunch Box", 
+                "long": -122.42175252586479, 
+                "full_address": "391 VALENCIA ST", 
+                "facility_type": "Truck", 
+                "y": "2107378.4040000001", 
+                "location": "VALENCIA ST: ROSA PARKS LN to 15TH ST (338 - 399)", 
+                "lot": "009", 
+                "permit": "11MFF-0067", 
+                "cnn": "13057002", 
+                "x": "6006216.8320000004", 
+                "id": "310831", 
+                "block": "3547"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.42138140824414, 
+                    37.75651923398665
+                ]
+            }, 
+            "id": "310834", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Brunch Box (eggs: proscuitto: croissant: jams: fruit): Hangover Toast (sourdough baguette: cream cheese: olive oil: sea salt): Stewed Fruit Oatmeal: Strawberry Rhubard French Toast: Chicken & Waffles: Miso Soup: Smoked Salmon Club", 
+                "lat": 37.75651923398665, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0067&ExportPDF=1&Filename=11MFF-0067_schedule.pdf", 
+                "block_lot": "3617003", 
+                "applicant": "Brunch Box", 
+                "long": -122.42138140824414, 
+                "full_address": "1024 VALENCIA ST", 
+                "facility_type": "Truck", 
+                "y": "2103629.531", 
+                "location": "VALENCIA ST: 21ST ST to HILL ST (1000 - 1049)", 
+                "lot": "003", 
+                "permit": "11MFF-0067", 
+                "cnn": "13069000", 
+                "x": "6006247.1490000002", 
+                "id": "310834", 
+                "block": "3617"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.44003231663504, 
+                    37.773287940470354
+                ]
+            }, 
+            "id": "310853", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Hot dogs: tamales: sodas: chips: cookies: coffee: juices: candies: pupusas & tacos.", 
+                "lat": 37.773287940470354, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0068&ExportPDF=1&Filename=11MFF-0068_schedule.pdf", 
+                "block_lot": "1214017", 
+                "applicant": "JeJe's Hot Dogs", 
+                "long": -122.44003231663504, 
+                "full_address": "1377 FELL ST", 
+                "facility_type": "Push Cart", 
+                "y": "2109845.2790000001", 
+                "location": "FELL ST: BRODERICK ST to BAKER ST (1300 - 1399)", 
+                "lot": "017", 
+                "permit": "11MFF-0068", 
+                "cnn": "5452000", 
+                "x": "6000983.0089999996", 
+                "id": "310853", 
+                "block": "1214"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    -122.39809861316652, 
+                    37.792948952834664
+                ]
+            }, 
+            "id": "311631", 
+            "properties": {
+                "status": "REQUESTED", 
+                "food_items": "Vietnamese Sandwiches", 
+                "lat": 37.792948952834664, 
+                "schedule": "http://bsm.sfdpw.org/PermitsTracker/reports/report.aspx?title=schedule&report=rptSchedule&params=permit=11MFF-0069&ExportPDF=1&Filename=11MFF-0069_schedule.pdf", 
+                "block_lot": "0263011", 
+                "applicant": "Nom Nom Sandwiches, Inc.", 
+                "long": -122.39809861316652, 
+                "full_address": "101 CALIFORNIA ST", 
+                "facility_type": "Unknown", 
+                "y": "2116754.2919999999", 
+                "location": "CALIFORNIA ST: DAVIS ST to FRONT ST (100 - 199)", 
+                "lot": "011", 
+                "permit": "11MFF-0069", 
+                "cnn": "3525000", 
+                "x": "6013245.6679999996", 
+                "id": "311631", 
+                "block": "0263"
+            }
+        }
+    ]
+}
