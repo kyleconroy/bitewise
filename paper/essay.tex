@@ -55,12 +55,12 @@ Neighborhoods are geographical boundaries reflecting historical geographic makeu
 \begin{center}
   \begin{tabular}{| l | c | c | c | c | c | r | }
     \hline
-    Food & Itrcpt & coef(p) & dof & p & RSE & Rsq \\ \hline \hline
+     & Itrcpt & co(p) & dof & p & RSE & Rsq \\ \hline \hline
     C & 4.64 & 0.01 & 382 & 0.97 & 1.154 & -0.002 \\ \hline
     J & 4.94 & -0.19 & 237 & 0.67 & 1.102 & -0.003 \\ \hline
     K & 4.62 & 1.29 & 49 & 0.125 & 0.868 & 0.028 \\ \hline
     M & 4.64 & 1.96 & 2e-16 & 265 & 1.122 & 0.126 \\ \hline
-    T & 5.38 & -0.92 & 0.0176 & 127 & 0.8577 & 0.036 \\ \hline
+    T & 5.38 & -0.92 & 0.0176 & 127 & 0.858 & 0.036 \\ \hline
     V & 5.35 & -0.61 & 139 & 0.137 & 0.980 & 0.009 \\
     \hline
   \end{tabular}
@@ -101,6 +101,11 @@ Finally, we scraped Yelp manually to find the pricing information for each busin
 \end{itemize}
 \section{Results}
 
+First, we attempted to fit a linear model to rating using either price or density as predictors. We found neither are a significant predictor. Density was not a significant predictor of price, either. We did find that diversity was a significant predictor of both price and rating. Diversity positively predicts rating: A diversity index of 1, compared to 0, results in about 0.25 of a Yelp star. Diversity is also slightly negatively correlated with price; However, the flaw in predicting price is that the output signal is only one of four values. 
+
+We then attempted to find models for each ethnic cuisine. We found that among all restaurants, price does not predict rating, but for Asian food, price is a predictor - roughly 0.11 of a star for each dollar sign. Finally, we found that Mexican food ratings are predicted significantly by density. When this is integrated into a multiple predictor model, percent still dominates. In conclusion, density as a predictor is less powerful than ethnic makeup; this reflects the neighborhood layout of San Francisco, since the densest neighborhoods are in Hispanic areas.
+
+We cound not find any significant predictors for the combination of vegan and vegetarian foods. This was likely due to a sample size of only 70. One of the multiple-predictor models that we found fit well was general rating predicted by both price and Diversity index. In this model, the Diversity index is the stronger predictor (coefficient = 0.536, while price coefficient = 0.105). For further work, we would easily expand this analysis to other cities.
 
 \section{Data Product}
 \end{document}
