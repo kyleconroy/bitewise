@@ -1,24 +1,36 @@
-\documentclass[12pt,letterpaper]{report}
+\documentclass[11pt,twocolumn]{article}
 
 \usepackage{setspace}
 \usepackage[left=1in,top=1in,right=1in,bottom=1in,nohead]{geometry}
 
-\author{Kyle Conroy and Brandon Liu}
-\title{Ethnic Food Ratings}
+\author{Kyle Conroy and Brandon Liu\\
+http://www.github.com/derferman/bitewise}
+\title{Bitewise: Ethnic Density and Restaurants Ratings}
 
 \begin{document}
 \maketitle
-\doublespacing
 
-Our team was interested in researching taco trucks. We looked at one resource, Data SF, which is the official clearinghouse for SF datasets, including mobile food vendor permits. We decided that the data wasn’t really sufficient; It had the location of food trucks, but not any quantitative data.
+\section{Introduction}
 
-Next, we investigated Mexican food in general. We looked into using Yelp, which has an API to query for the top restaurants in a city. We were curious about how location affects the rating of a burrito place. Generally, are burrito places rated higher in the Mission? Our intuition behind this is that ethnic neighborhoods tend to attract customers interested in finding quality cuisine of that ethnicity.
+Like many great ideas, our research topic came to us over lunch. Many San Francisco residents spend their lunch hour waiting in line in front of a food truck on the city streets. With the rise in popularity of these food trucks, we are interested in their history and success. Sadly, after looking into Data SF, the official data clearinghouse for the city and country of San Francisco, food truck data is in short support, with nothing beyond the location of such trucks.
 
-Brandon came across the excellent visualization at the NYTimes of 2010 Census data, at http://projects.nytimes.com/census/2010/map. This has tract-level data for ethnic makeup. A tract is the right size for our project; in major cities, a tract spans just a few blocks. We could also use block-level data if this is not sufficient. Brandon found a resource for ethnic makeups of tracts for a tract number, and also a resource for shape data for each tracts. The plan is to integrate these two sets by representing a tract as a coordinate (the centroid of the shape) and then have the ethnic makeups at that point.
+Our investigation of food trucks sparked and inquiry into ethnic restaurants, particullary Mexican restaurants. We are curious about the relationship between the location and Yelp rating of a given burrito place. For example, are burrito places rated higher in the Mission than other neighboorhoods? If so, than ethnic neighborhoods may tend to attract customers interested in finding quality cuisine of that ethnicity.
 
-Yelp has coordinates built into a business. Our method is to compute a score for ethnicity for each business. The score will be a function of nearby census tracts and ethnic makeup. We then plot this against the average rating.
+\section{Data ETL}
 
-For data viz we use Protovis and Polymaps http://polymaps.org/. Data integration is done in Python. The Yelp data is stored as JSON - we want to keep most of the data about a business, such as category, price and number of reviews. The geographic data is stored as a CSV with the tract, the ethnicity data, and the coordinate. There are multiple ‘ethnicity score’ functions that we will evaluate later in our project. The functions are: 10 nearest census tracts; tracts within a half mile radius; nearest tract. It would be really nice to know which of these functions is the best as far as being true to the data.
+To answer this question, we use four different data sets. First, we use census data from the Federal Government to calculate demographic informatoin about San Francisco and its surronding areas. The United States census splits neighborhoods up into smaller plots of land named tracts. A tract is the right size for our project; in major cities, a tract spans just a few blocks. The City of San Francisco provides additional per-tract ethnicity information, allowing us to build an accurate ethnic representation of the entire city with decent resolution. This set is stored as a CSV with the tract, the ethnicity data, and the coordinate for the tract.
+
+Combining these two datasets involved strange data formats not popular in today's world of web APIs. Census data comes in two flavors: plain-text ASCII format or a binary format called a shape file. We found that the ASCII format was too cumbersome to use, so we went with the binary format. The open-source Python Shapefile Library made parsing the census data quick and simple. Each entry in the shape file contains data about the entry and the latitude and longitude coordinates which define its shape. These points are used to construct a polygon representing the tract. The data associated with shape contains useful information such as tract number and county number. We use this data to filter out those tracts which aren't in the San Francisco area.
+
+The other data came from Yelp. Since we were investigating business ratings, Yelp was the perfect place to go. Yelp provides a REST API, and after we signed up for a developer key, we could collect all the data we needed. Using the API, we collected businesses listing for six different categories of restaurant, including Mexican, Chinese, and Japanese. Yelp returned the data back in JSON, making this data much easier to process then the census data. However, Yelp limits business results to twenty per request, so we had to merge many responses into one large list for each restaurant type. Yelp provided more information per business then we could analyze. Their location information proved to be especially useful, as it also included a list of neighborhoods near each business.
+
+Yelp returned the data in great shape, but there were a few missing pieces of information we had to compile ourselves. The Yelp API provides an image link for the rating of a business instead of an integer value. Our data cleaning process involved converting these links into integers for further data processing. Many of the questions we wanted to ask revovled around the cost of a meal at each restuarant. However, Yelp doesn't included this data in their API results. To get the data, we scraped each individual business page on Yelp, parsed the HTML, performed a simple search over the page for the price, and updated our saved API results. This data failed to cover all the businesses, so any calculation dealing with prices has fewer amouts of data.
+
+Our hypothesis requires placing businesses in thier correct census tract. Geospactial queries can be partically time-consuming when using brute-force algorithms. To query over our census data, we use the Shapely python wrapper for GEOS, a popular open-source geometry engine. With these two tools, we quickly and efficiently placed found the census tract for each business. With this data, we can compute a score for ethnicity for each business. The score will be a function of nearby census tracts and ethnic makeup. We then plot this against the average rating.
+
+\section{Data Visualization}
+
+For data visualiation we use Polymaps, a ``free JavaScript library for making dynamic, interactive maps in modern web browsers.'' Thislibrary requires geographical data to be in a certain subset of JSON named GeoJSON. We wrote a set of custom Python scripts to transform the census data and Yelp data into this custom format. JSON - we want to keep most of the data about a business, such as category, price and number of reviews. . There are multiple ‘ethnicity score’ functions that we will evaluate later in our project. The functions are: 10 nearest census tracts; tracts within a half mile radius; nearest tract. It would be really nice to know which of these functions is the best as far as being true to the data.
 
 The big picture: Show percent vs. rating for all restaurants, where rating is their Yelp score from 0-8, and percent is the ‘self-ethnicity’ scores, which is a proportion of the same ethnicity (Chinese, Japanese, Vietnamese, Korean -> Asian, Mexican -> Hispanic) on one scatter plot. We then fitted a linear model to this to see if there was a strong correlation.
 
@@ -29,10 +41,16 @@ Does a different measure other than percentage act as a better predictor of the 
 
 Does adding the price or number of reviews to the model improve the fit? We have to find a way to incorporate the price into the dataset; this is not part of the Yelp API.
 
+\section{Casual Inference}
+
 For our first study, we chose to only look at Mexican restaurants, plot them in a census tract, and then graph their yelp rating against the percentage of that ethnicity. We fitted a linear model to this and found that living in an ethnic area increased ratings by about half a star. There is a notable dearth of restaurants in the high-percent, low-rating quadrant. There are two noticable clusters of restaurants; low-percentage and average rating, and high-percentage and high rating.
 
 We decided to drill down into the data more. We created a histogram of all the ratings and saw that these were roughly normally distributed. Then, we looked at a histogram of percentages and were surprised to see that for the Hispanic population, these look bimodal. There is a peak around 20\%, and also a peak around 70\%. This may be an indicator of an ethnic neighborhood. Next, we intend to do a paired study using number of reviews as a covariate, and pairing between “high” percent and low percent to perhaps find a stronger correlation.
 
 Continuing with our analysis, we found similar results for Chinese food and Asian populations, even stronger than with Mexican food. However, the distribution of Asians was unimodal. Additionally, Vietnamese and Japanese food seemed to have a negative correlation between percentage and rating (as far as Asian populations go in general) it would be really helpful if the Census broke it down into more detailed ethnicity.
+
+\section{Results}
+
+MOAR here
 
 \end{document}
