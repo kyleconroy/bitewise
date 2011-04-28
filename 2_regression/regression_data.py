@@ -75,9 +75,10 @@ data["prices"] = []
 
 
 for business in yelp["businesses"]:
-
+    
     b = Business(business)
-
+    if (b.price == None):
+        continue
     raw_coord = b.location["coordinate"]
     point = Point(raw_coord["longitude"], raw_coord["latitude"])
     for tag, poly in polys:
@@ -100,7 +101,8 @@ for business in yelp["businesses"]:
             d = ethnic_data[tag]["total"] / poly.area
             data["densitys"].append(d)
             
-            data["prices"].append(b.price)
+
+            data["prices"].append(float(b.price))
             
             theil = 0
             if( ethnic_data[tag]["total"] != 0):
