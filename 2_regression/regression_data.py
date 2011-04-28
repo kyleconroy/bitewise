@@ -12,7 +12,7 @@ parser.add_argument("business", type=str,
 parser.add_argument("category", type=str,
                     help="category (vietnamese etc)")
 parser.add_argument("ethnicity", choices=["hispanic", "asian", "white", "black"])
-parser.add_argument("neighborhood", choices=["Mission", "Japantown", "Chinatown", "Civic Center/Tenderloin"])
+parser.add_argument("neighborhood", choices=["Mission", "Japantown", "Chinatown", "Civic Center/Tenderloin", "SOMA"])
 args = parser.parse_args()
 
 class Business(object):
@@ -65,13 +65,13 @@ recs = [ sr for sr in shapeRecs if sr.record[5] == "075"]
 polys = [(rec.record[7], Polygon(rec.shape.points)) for rec in recs]
 yelp = json.load(open(args.business))
 
-data = {}
-data["ratings"] = []
-data["neighborhoods"] = []
-data["percents"] = []
-data["densitys"] = []
-data["theils"] = []
-data["prices"] = []
+data = []
+# data["ratings"] = []
+# data["neighborhoods"] = []
+# data["percents"] = []
+# data["densitys"] = []
+# data["theils"] = []
+# data["prices"] = []
 
 
 for business in yelp["businesses"]:
@@ -79,30 +79,31 @@ for business in yelp["businesses"]:
     b = Business(business)
     if (b.price == None):
         continue
+    row = []
     raw_coord = b.location["coordinate"]
     point = Point(raw_coord["longitude"], raw_coord["latitude"])
     for tag, poly in polys:
         if point.within(poly):
-            data["ratings"].append(b.rating)
+            row.append(b.rating)
             ethnic_count = float(ethnic_data[tag][args.ethnicity])
             b.percentage = ethnic_count / ethnic_data[tag]["total"]
-            data["percents"].append(b.percentage)
+            row.append(b.percentage)
             
             b.tract = tag
             
             if b.location.has_key("neighborhoods"):
                 if args.neighborhood in b.location["neighborhoods"]:
-                    data["neighborhoods"].append(1)
+                    row.append(1)
                 else:
-                    data["neighborhoods"].append(0)
+                    row.append(0)
             else:
-                data["neighborhoods"].append(0)
+                row.append(0)
                 
             d = ethnic_data[tag]["total"] / poly.area
-            data["densitys"].append(d)
+            row.append(d)
             
 
-            data["prices"].append(float(b.price))
+            row.append(float(b.price))
             
             theil = 0
             if( ethnic_data[tag]["total"] != 0):
@@ -118,15 +119,18 @@ for business in yelp["businesses"]:
                     theil += hispanic_pr * log( 1.0 / hispanic_pr)
                 if(black_pr != 0.0):
                     theil += hispanic_pr * log( 1.0 / hispanic_pr)
-                data["theils"].append(theil)
+                row.append(theil)
             else:
-                data["theils"].append(0)
+                row.append(0)
+    data.append(row)
 
 
-for output in data:
-    writer = csv.writer(open("%s_%s.csv" % (args.category, output), "w"))
-    writer.writerow([output[:-1]])
-    for o in data[output]:
-        writer.writerow([o])
+
+writer = csv.writer(open("%s.csv" % (args.category), "w"))
+
+writer.writerow(["rating", "percent", "neighborhood", "density", "price", "theil"])
+for row in data:
+    writer.writerow(row)
+
     
 
