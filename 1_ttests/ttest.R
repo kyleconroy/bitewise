@@ -1,0 +1,10 @@
+ratings <- read.table("Mission_ratings.csv", header=T, quote="\"")
+neighborhoods <- read.table("Mission_neighborhoods.csv", header=T, quote="\"")
+attach(ratings)
+attach(neighborhoods)
+t.test(rating~neighborhood)
+library(sm)
+png(filename="Mission_ttest.png", height=300, width=500, 
+ bg="white")
+sm.density.compare(rating, neighborhood, xlab="Yelp Rating")
+dev.off()
