@@ -5,7 +5,7 @@
 
 \author{Kyle Conroy and Brandon Liu\\
 http://www.github.com/derferman/bitewise}
-\title{Bitewise: Ethnic Density and Restaurants Ratings}
+\title{Do Ethnic Neighborhoods have Better Ethnic Food?}
 
 \begin{document}
 \maketitle
@@ -28,7 +28,7 @@ Yelp returned the data back in JSON, making this data much easier to process tha
 
 Yelp returned the data in great shape, but there were a few missing pieces of information we had to collect ourselves. The Yelp API provides an image link for the rating of a business instead of an float value. Our data cleaning process involved converting these links into integers for further data processing. Many of the questions we wanted to ask revolved around the cost of a meal at each restaurant. However, Yelp doesn't included this data in their API results. To get the data, we scraped each individual business page on Yelp, parsed the HTML, performed a simple search over the page for the price, and updated our saved API results. Sadly, not all businesses have a price rating, so our data set remains incomplete in this area.
 
-Our hypothesis requires placing businesses in their correct census tract. Geospactial queries can be time-consuming when using brute-force algorithms. To query over our census data, we use the Shapely python wrapper for GEOS, a popular open-source geometry engine. With these two tools, we quickly and efficiently found the census tract for each business. With this data, we can compute a score for ethnicity for each business. The score will be a function of nearby census tracts and ethnic makeup.
+Our hypothesis requires placing businesses in their correct census tract. Geospactial queries can be time-consuming when using brute-force algorithms. To query over our census data, we use the Shapely python wrapper for GEOS, a popular open-source geometry engine. With these two tools, we quickly and efficiently found the census tract for each business.
 
 \section{Experiment 1: Comparison of Means}
 
@@ -66,30 +66,40 @@ Neighborhoods are geographical boundaries reflecting historical geographic makeu
   \end{tabular}
 \end{center}
 
-The only food categories in which respective ethnic percentage was a significant predictor were Mexican and Thai food. For Mexican food, the coefficient for percentage was 1.96, indicating that the difference between a 0\% Hispanic tract and 100\% hispanic tract is 1 Yelp star. For Thai food, a coefficient of -0.92 indicates that the difference between a 0\% Asian and 100\% Asian tract is a half star lost.
+The only food categories in which respective ethnic percentage was a significant predictor were Mexican and Thai food. For Mexican food, the coefficient for percentage was 1.96, indicating that the difference between a 0\% Hispanic tract and 100\% hispanic tract is 1 Yelp star. A notable detail of the plot of rating vs. \% Hispanic was that there were virtually now low-rated restaurants in highly ethnic neighborhoods. For Thai food, a coefficient of -0.92 indicates that the difference between a 0\% Asian and 100\% Asian tract is a half star lost.
 
-Finally, we combined all businesses to determine if ethnic makeup was a significant predictor of ratings in general. 
+Finally, we combined all businesses to determine if ethnic makeup was a significant predictor of ratings in general. (n = 1281)
 
+\begin{center}
+  \begin{tabular}{| l | c | c | c | r | }
+    \hline
+    Ethnicity & Coefficient & p & RSE & Rsq \\ \hline \hline
+    Asian & -0.59 & 1.22e-5 & 1.119 & 0.014 \\ \hline
+    Black & 0.44 & 0.222 & - & - \\ \hline
+    Hispanic & 1.13 & 2.8e-9 & 1.112 & 0.026 \\ \hline
+    White & 0.43 & 0.008 & 1.124 & 0.005 \\ \hline
+  \end{tabular}
+\end{center}
 
+The Hispanic percentage is a significant positive predictor of rating; The White population is as well, but to less effect. Asian \% is a significant negative predictor of rating. Mutiple predictors and interactions were fitted with no significant effect. Based on these results, we felt that more detailed covariates may provide some more insight into ratings, beyond simple percentages.
 
+\section{Additional Covariates: Density, Diversity, Price}
 
-Further questions:
-Do the categories Vegetarian, Vegan vary with respect to the census data?
+To construct the Density scalar for each census tract, we take the area (using shapely's area method) and divide it by the total population in that tract. This gives us a meaningful relative value for Density, although it has no unit meaning (since our polygons are defined in coordinates). We also did not reproject the geometry, since distortion is present equally among all the tracts. 
 
-Does a different measure other than percentage act as a better predictor of the rating? For example, since tracts are around 4000 population, using the raw number of the self-ethnicity rather than a percentage may say something slightly different (how the rating depends on the pop density as well)
+To construct the Diversity scalar for each census tract, we referred to (PAPER REFERENCE). The Theil Entropy index, used to measure the diversity of a Metropolitan Statistical Area, uses a Diversity index, D, for each census tract. This is calculated by sum(Pr(g) * ln (1 / Pr(g)) for all ethnic groups g. For our 4 ethnic groups, D varies from 0 to roughly 1.3, for a single ethnicity and an equal mix of all ethnicities, respectively. 
 
-Does adding the price or number of reviews to the model improve the fit? We have to find a way to incorporate the price into the dataset; this is not part of the Yelp API.
+Finally, we scraped Yelp manually to find the pricing information for each business, which varies from 1 (\$) to 4 (\$\$\$\$).
 
-\section{Casual Inference}
-
-For our first study, we chose to only look at Mexican restaurants, plot them in a census tract, and then graph their yelp rating against the percentage of that ethnicity. We fitted a linear model to this and found that living in an ethnic area increased ratings by about half a star. There is a notable dearth of restaurants in the high-percent, low-rating quadrant. There are two noticeable clusters of restaurants; low-percentage and average rating, and high-percentage and high rating.
-
-We decided to drill down into the data more. We created a histogram of all the ratings and saw that these were roughly normally distributed. Then, we looked at a histogram of percentages and were surprised to see that for the Hispanic population, these look bimodal. There is a peak around 20\%, and also a peak around 70\%. This may be an indicator of an ethnic neighborhood. Next, we intend to do a paired study using number of reviews as a covariate, and pairing between “high” percent and low percent to perhaps find a stronger correlation.
-
-Continuing with our analysis, we found similar results for Chinese food and Asian populations, even stronger than with Mexican food. However, the distribution of Asians was unimodal. Additionally, Vietnamese and Japanese food seemed to have a negative correlation between percentage and rating (as far as Asian populations go in general) it would be really helpful if the Census broke it down into more detailed ethnicity.
-
+\section{Additional Hypotheses}
+\begin{itemize}
+\item Does density predict price or rating?
+\item Does rating predict price?
+\item Does diversity predict price or rating?
+\item Of each ethnic cuisine, how dos rating vary with price?
+\item Does anything predict ratings of vegetarian and vegan cuisine?
+\end{itemize}
 \section{Results}
-MOAR here
 
 
 \section{Data Product}
