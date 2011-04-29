@@ -83,10 +83,10 @@ Neighborhoods are geographical boundaries reflecting historical geographic makeu
 \begin{figure}[h!]
   \caption{Thai restaurant ratings versus Asian ethnic density}
   \centering
-  \includegraphics[width=0.5\textwidth]{mexican_regression}
+  \includegraphics[width=0.5\textwidth]{thai_regression}
 \end{figure}
 
-The only food categories in which respective ethnic percentage was a significant predictor were Mexican and Thai food. For Mexican food, the coefficient for percentage was 1.96, indicating that the difference between a 0\% Hispanic tract and 100\% hispanic tract is 1 Yelp star. A notable detail of the plot of rating vs. \% Hispanic was that there were virtually now low-rated restaurants in highly ethnic neighborhoods. For Thai food, a coefficient of -0.92 indicates that the difference between a 0\% Asian and 100\% Asian tract is a half star lost.
+The only food categories in which respective ethnic percentage was a meaningful predictor was Mexican food, at an R-Squared value of 0.126. This result set our expectations for how explanatory our variables would be. For Mexican food, the coefficient for percentage was 1.96, indicating that the difference between a 0\% Hispanic tract and 100\% hispanic tract is 1 Yelp star. A notable detail of the plot of rating vs. \% Hispanic was that there were virtually no low-rated restaurants in highly ethnic neighborhoods. The other significant regressions, such as Thai food, had a close-to-zero R-squared, and we interpreted this result as mostly due to having a lot of data.
 
 Finally, we combined all businesses to determine if ethnic makeup was a significant predictor of ratings in general. (n = 1281)
 
@@ -108,7 +108,7 @@ Finally, we combined all businesses to determine if ethnic makeup was a signific
 \end{figure}
 
 
-The Hispanic percentage is a significant positive predictor of rating; The White population is as well, but to less effect. Asian \% is a significant negative predictor of rating. Mutiple predictors and interactions were fitted with no significant effect. Based on these results, we felt that more detailed covariates may provide some more insight into ratings, beyond simple percentages.
+Here, we also found significant predictors, but with close to zero R-squared values, these were not meaningful in explaining the variance of the data. Mutiple predictors and interactions were fitted with no significant effect. Based on these results, we felt that more detailed covariates may provide some more insight into ratings, beyond simple percentages.
 
 \section{Additional Covariates: Density, Diversity, Price}
 
@@ -128,7 +128,7 @@ Finally, we scraped Yelp manually to find the pricing information for each busin
 \end{itemize}
 \section{Results}
 
-First, we attempted to fit a linear model to rating using either price or density as predictors. We found neither are a significant predictor. Density was not a significant predictor of price, either. We did find that diversity was a significant predictor of both price and rating. Diversity positively predicts rating: A diversity index of 1, compared to 0, results in about 0.25 of a Yelp star. Diversity is also slightly negatively correlated with price; However, the flaw in predicting price is that the output signal is only one of four values.
+First, we attempted to fit a linear model to rating using either price or density as predictors. We found neither is a significant predictor. Density was not a significant predictor of price, either. We did find that diversity was a significant predictor of both price and rating, but with a meaningless R-squared value.  A major flaw in the data preventing us from predicting price is that the output signal is only one of four values.
 
 \begin{figure}[h!]
   \caption{Price versus ethnic density}
@@ -136,9 +136,9 @@ First, we attempted to fit a linear model to rating using either price or densit
   \includegraphics[width=0.5\textwidth]{diversity_price}
 \end{figure}
 
-We then attempted to find models for each ethnic cuisine. We found that among all restaurants, price does not predict rating, but for Asian food, price is a predictor - roughly 0.11 of a star for each dollar sign. Finally, we found that Mexican food ratings are predicted significantly by density. When this is integrated into a multiple predictor model, percent still dominates. In conclusion, density as a predictor is less powerful than ethnic makeup; this reflects the neighborhood layout of San Francisco, since the densest neighborhoods are in Hispanic areas.
+We then attempted to find models for each ethnic cuisine. Finally, we found that density of ethnic populations are a significant predictor of Mexican food rating, but the R-squared (0.05) is low enough that when this integrated into a multiple predictor model, percent\% Hispanic still dominates. In conclusion, density as a predictor is less powerful than ethnic makeup; this reflects the neighborhood layout of San Francisco, since the densest neighborhoods are in Hispanic areas.
 
-We cound not find any significant predictors for the combination of vegan and vegetarian foods. This was likely due to a sample size of only 70. One of the multiple-predictor models that we found fit well was general rating predicted by both price and Diversity index. In this model, the Diversity index is the stronger predictor (coefficient = 0.536, while price coefficient = 0.105). For further work, we would easily expand this analysis to other cities.
+We cound not find any significant predictors for the combination of vegan and vegetarian foods. This was likely due to a sample size of only 70. One of the multiple-predictor models that we attempted was general rating predicted by both price and Diversity index. The fitted model gives significant predictors for both diversity and price, but again, neither are significant. In conclusion, our work found that Mexican food ratings are significantly predicted by dense ethnic neighborhoods, confirming our original hypothesis and supported that of our T-Tests. For other ethnicities, the data is just too noisy. For further work, we could easily expand this analysis to other cities.
 
 \section{Data Product}
 
@@ -147,6 +147,8 @@ We cound not find any significant predictors for the combination of vegan and ve
   \centering
   \includegraphics[width=0.5\textwidth]{webapp_screen}
 \end{figure}
+
+Our data product, available at http://bdon.org/tacotruck, shows thematic maps of San Francisco that users can browse. One such map shows Mexican restaurant ratings and corresponding ethnic population tracts on the same sequential color scale; since these are roughly correlated, the colors aid the viewer in picking out interesting points. Another map is the Diversity index plotted for all San Francisco census tracts.
 
 \begin{thebibliography}{9}
 
